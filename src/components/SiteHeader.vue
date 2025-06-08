@@ -17,7 +17,7 @@
       <!-- Nav Buttons -->
       <transition name="slide-fade">
         <nav
-          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-6 md:right-0 border md:border-0 border-zinc-300 dark:border-zinc-700 rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none dark:bg-zinc-800"
+          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-6 md:right-0 border md:border-0 border-zinc-300 dark:border-zinc-900 rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
           v-show="!isMobile || isMenuOpen" ref="menuRef" @mouseleave="isMobile && (isMenuOpen = false)">
           <button class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500"
             @click="$emit('navigate', 'about')">About</button>
