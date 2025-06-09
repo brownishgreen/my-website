@@ -134,11 +134,10 @@
   ]
 
   const capturedFlash = [
-  { emoji: '☕️', name: 'Random 16', link: '/flashes/random-16' },
-  { emoji: '🕰️', name: 'Random 12', link: '/flashes/random-12' },
-  { emoji: '🏚️', name: '吳爸爸米克斯庇護所', link: '/flashes/mixed-dog-shelter' },
-]
-
+    { emoji: '☕️', name: 'Random 16', link: '/flashes/random-16' },
+    { emoji: '🕰️', name: 'Random 12', link: '/flashes/random-12' },
+    { emoji: '🏚️', name: '吳爸爸米克斯庇護所', link: '/flashes/mixed-dog-shelter' },
+  ]
 
   const links = [
     {

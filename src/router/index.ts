@@ -1,10 +1,20 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from '../pages/HomePage.vue'
 import AboutPage from '../pages/AboutPage.vue'
+import Changelog from '../pages/Changelog.vue'
 
 //Essays
 import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
 import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
+
+//Journeys
+import Austria24 from '../pages/journeys/Austria24.vue'
+import Bangkok24 from '../pages/journeys/Bangkok24.vue'
+import Budapest24 from '../pages/journeys/Budapest24.vue'
+import CeskyKrumlov24 from '../pages/journeys/CeskyKrumlov24.vue'
+import Mabul22 from '../pages/journeys/Mabul22.vue'
+import Nagoya23 from '../pages/journeys/Nagoya23.vue'
+import Singapore23 from '../pages/journeys/Singapore23.vue'
 const routes = [
   {
     path: '/',
@@ -17,6 +27,11 @@ const routes = [
     component: AboutPage,
   },
   {
+    path: '/changelog',
+    name: 'Changelog',
+    component: Changelog,
+  },  
+  {
     path: '/essays/thirty-two',
     name: 'thirty-two',
     component: ThirtyTwo,
@@ -26,6 +41,42 @@ const routes = [
     name: 'learn how to learn',
     component: LearnHowToLearn,
   },
+  {
+    path: '/journeys/austria-24',
+    name: 'Austria 24',
+    component: Austria24,
+  },
+  {
+    path: '/journeys/bangkok-24',
+    name: 'Bangkok 24',
+    component: Bangkok24,
+  },
+  {
+    path: '/journeys/budapest-24',
+    name: 'Budapest 24',
+    component: Budapest24,
+  },
+  {
+    path: '/journeys/cesky-krumlov-24',
+    name: 'Cesky Krumlov 24',
+    component: CeskyKrumlov24,
+  },
+  {
+    path: '/journeys/mabul-22',
+    name: 'Mabul 22',
+    component: Mabul22,
+  },
+  {
+    path: '/journeys/nagoya-23',
+    name: 'Nagoya 23',
+    component: Nagoya23,
+  },
+  {
+    path: '/journeys/singapore-23',
+    name: 'Singapore 23',
+    component: Singapore23,
+  },
+  
 ]
 
 const router = createRouter({

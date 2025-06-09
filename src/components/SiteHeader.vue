@@ -34,7 +34,7 @@
             >About</router-link
           >
           <router-link
-            to="/changlog"
+            to="/changelog"
             class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
             >Changelog</router-link
           >
