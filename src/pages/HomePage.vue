@@ -1,0 +1,178 @@
+<template>
+  <main>
+    <div class="content-container">
+      <ContentColumn
+      v-for="(section, index) in sections" 
+      :key="index" 
+      :imageSrc="section.imageSrc"
+      :articleTitle="section.articleTitle" 
+      :items="section.items"
+      />
+    </div>
+  </main>
+</template>
+
+<script setup lang="ts">
+import ContentColumn from '../components/ContentColumn.vue'
+
+const essays = [
+  { emoji: '🏊🏾‍♂️', name: 'thirty-two', link: '/essays/thirty-two' },
+  { emoji: '📚', name: 'learn how to learn', link: '/essays/learn-how-to-learn'}
+]
+
+const projects = [
+  {
+    emoji: '📇',
+    name: 'Yolodex [Vue] | Frontend | tiny CRM',
+    link: '/projects/yolodex'
+  },
+  {
+    emoji: '📖',
+    name: 'Sutra Reader [Vue] | Frontend | 金剛經閱讀器',
+    link: '/projects/sutra-reader'
+  },
+  {
+    emoji: '🧳',
+    name: 'TapTour [React] | Full-stack | 旅遊探索評論網',
+    link: '/projects/taptour'
+  },
+  {
+    emoji: '📃',
+    name: 'AppSheet [CRM Template] | no-code 模板專案',
+    link: '/projects/appsheet-crm'
+  },
+]
+
+const codingNotes = [
+  {
+    emoji: '✅',
+    name: 'Vue Notes Collection',
+    link: '/notes/vue'
+  },
+  {
+    emoji: '🟦',
+    name: 'TypeScript Notes',
+    link: '/notes/typescript'
+  },
+  {
+    emoji: '⚛️',
+    name: 'React Notes Collection',
+    link: '/notes/react'
+  },
+  {
+    emoji: '🖥️',
+    name: 'Intersection Observer',
+    link: '/notes/intersection-observer'
+  },
+  {
+    emoji: '📄',
+    name: '使用 Swagger 建立 API 文件',
+    link: '/notes/swagger-api-docs'
+  },
+  {
+    emoji: '⚙️',
+    name: 'Variables in memory',
+    link: '/notes/variables'
+  },
+  {
+    emoji: '🧑‍🤝‍🧑',
+    name: 'GitHub 協作開發',
+    link: '/notes/github-collab'
+  }
+]
+
+
+const journeys = [
+  {
+    emoji: '🇦🇹',
+    name: 'Austria 24',
+    link: '/journeys/austria-24'
+  },
+  {
+    emoji: '🇭🇺',
+    name: 'Budapest, Hungary 24',
+    link: '/journeys/budapest-24'
+  },
+  {
+    emoji: '🇨🇿',
+    name: 'Český Krumlov, Česko 24',
+    link: '/journeys/cesky-krumlov-24'
+  },
+
+  // Completed
+  {
+    emoji: '🇹🇭',
+    name: 'Bangkok, Thailand 24',
+    link: '/journeys/bangkok-24'
+  },
+  {
+    emoji: '🇯🇵',
+    name: 'Nagoya, Japan 23',
+    link: '/journeys/nagoya-23'
+  },
+  {
+    emoji: '🇸🇬',
+    name: 'Singapura 23',
+    link: '/journeys/singapura-23'
+  },
+  {
+    emoji: '🇲🇾',
+    name: 'Pulau Mabul, Malaysia 22',
+    link: '/journeys/pulau-mabul-22'
+  }
+]
+
+const capturedFlash = [
+  {
+    emoji: '',
+    name: '',
+    link: ''
+  }
+]
+
+const sections = [
+  {
+    imageSrc: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200',
+    articleTitle: 'Essays',
+    items: essays
+  },
+  {
+    imageSrc: 'https://www.yuanologue.com/image/attachment%3A21c03b41-b9aa-4a34-ae90-90c1d1af759b%3A0f40d5c0-89e9-4556-8493-55ba4473bb55.png?table=block&id=1bf10968-adb5-8058-b6b2-c7af0eedea21&spaceId=8ceb97d7-3080-4787-8245-b9d460194b8a&width=660&userId=&cache=v2',
+    articleTitle: 'Journeys',
+    items: journeys
+  },
+  {
+    imageSrc: 'https://images.unsplash.com/photo-1629904888099-00285934292b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    articleTitle: 'Projects',
+    items: projects
+  },
+  {
+    imageSrc: 'https://images.unsplash.com/photo-1646644197846-db6af4b56d25?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    articleTitle: 'Coding Notes',
+    items: codingNotes
+  },
+]
+</script>
+
+<style scoped lang="scss">
+.content-container {
+  column-count: 1;
+  column-gap: 1.5rem;
+  width: 50%;
+  max-width: 780px;
+  margin: 0 auto;
+  padding-bottom: 100px;
+
+  // Prevent cards from being split across columns
+  >* {
+    break-inside: avoid;
+    display: block;
+    margin: 0 auto ;
+    max-width: 100%;
+  }
+
+  @media (min-width: 1536px) {
+    column-count: 2;
+  }
+}
+</style>

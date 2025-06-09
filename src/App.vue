@@ -1,8 +1,3 @@
-<script setup lang="ts">
-import SiteHeader from './components/SiteHeader.vue'
-import HeroBanner from './components/HeroBanner.vue'
-</script>
-
 <template>
   <div class="">
     <SiteHeader />
@@ -11,8 +6,20 @@ import HeroBanner from './components/HeroBanner.vue'
     emoji="🥛"
     title="Site of Yuan"
     subtitle="Where I write and collect moments"/>
+    <HomePage />
   </div>
 </template>
+
+<script setup lang="ts">
+import SiteHeader from './components/SiteHeader.vue'
+import HeroBanner from './components/HeroBanner.vue'
+import HomePage from '/src/pages/HomePage.vue'
+
+function handleNavigation(page: string) {
+  console.log('Navigate to:', page)
+}
+</script>
+
 
 <style scoped>
 
