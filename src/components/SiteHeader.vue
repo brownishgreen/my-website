@@ -3,11 +3,10 @@
     class="sticky top-0 z-50 w-full bg-white dark:bg-zinc-900 shadow-sm transition-all duration-[1500ms] ease-in-out">
     <div class="flex items-center justify-between px-6 py-4">
       <!-- Site Title -->
-      <button
-        class="text-zinc700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-200 ease-in-out"
-        @click="$emit('navigate', 'home')">
+      <router-link to="/"
+        class="text-zinc-700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-200 ease-in-out">
         🌜Site of Yuan🌛
-      </button>
+      </router-link>
 
       <!-- Hamburger Icon -->
       <button class="text-2xl block md:hidden text-zinc-700 dark:text-white" @click="isMenuOpen = !isMenuOpen"
@@ -20,12 +19,10 @@
         <nav
           class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-6 md:right-0 border md:border-0 border-zinc-300 bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
           v-show="!isMobile || isMenuOpen" ref="menuRef" @mouseleave="isMobile && (isMenuOpen = false)">
-          <button
-            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
-            @click="$emit('navigate', 'about')">About</button>
-          <button
-            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
-            @click="$emit('navigate', 'changelog')">Changelog</button>
+          <router-link to="about"
+            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out">About</router-link>
+          <router-link to="changlog"
+            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out">Changelog</router-link>
           <button @click="toggleTheme"
             class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-200 ease-in-out"
             title="toggle theme mode">
