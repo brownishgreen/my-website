@@ -4,11 +4,12 @@
     <img :src="imageSrc" alt="section image" class="w-full object-cover mt-3 rounded-t-lg" />
 
     <!-- 文字內容 -->
-    <div class="mt-2 p-4 bg-zinc-100/60">
-      <h2 class="text-lg font-semibold mb-3">{{ articleTitle }}</h2>
-      <ul class="space-y-1">
+    <div class="mt-2 p-4 bg-zinc-100/60 dark:bg-zinc-800/60 transition-all duration-[1500ms]">
+      <h2 class="text-lg font-semibold mb-3 dark:text-white hover:text-blue-500">{{ articleTitle }}</h2>
+      <ul class="space-y-1 dark:text-white hover:text-blue-500">
         <li v-for="(item, index) in items" :key="index">
-          <a :href="item.link" class="flex items-center gap-2 hover:text-blue-400 transition-colors">
+          <a :href="item.link"
+            class="flex items-center gap-2 hover:text-blue-400 transition-all transform hover:scale-105 duration-200 ease-in-out">
             <span class="text-xl">{{ item.emoji }}</span>
             <span class="text-sm">{{ item.name }}</span>
           </a>

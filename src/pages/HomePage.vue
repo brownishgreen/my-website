@@ -1,13 +1,8 @@
 <template>
-  <main>
-    <div class="content-container">
-      <ContentColumn
-      v-for="(section, index) in sections" 
-      :key="index" 
-      :imageSrc="section.imageSrc"
-      :articleTitle="section.articleTitle" 
-      :items="section.items"
-      />
+  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+    <div class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container">
+      <ContentColumn v-for="(section, index) in sections" :key="index" :imageSrc="section.imageSrc"
+        :articleTitle="section.articleTitle" :items="section.items" />
     </div>
   </main>
 </template>

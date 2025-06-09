@@ -1,9 +1,10 @@
 <template>
   <header
-    class="sticky top-0 z-50 w-full border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm rounded-b-2xl transition-all duration-[1500ms] ease-in-out">
+    class="sticky top-0 z-50 w-full bg-white dark:bg-zinc-900 shadow-sm transition-all duration-[1500ms] ease-in-out">
     <div class="flex items-center justify-between px-6 py-4">
       <!-- Site Title -->
-      <button class="text-zinc700 dark:text-white hover:text-blue-500 text-xl font-medium"
+      <button
+        class="text-zinc700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-200 ease-in-out"
         @click="$emit('navigate', 'home')">
         🌜Site of Yuan🌛
       </button>
@@ -17,14 +18,16 @@
       <!-- Nav Buttons -->
       <transition name="slide-fade">
         <nav
-          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-6 md:right-0 border md:border-0 border-zinc-300 dark:border-zinc-900 rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
+          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-6 md:right-0 border md:border-0 border-zinc-300 bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
           v-show="!isMobile || isMenuOpen" ref="menuRef" @mouseleave="isMobile && (isMenuOpen = false)">
-          <button class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500"
+          <button
+            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
             @click="$emit('navigate', 'about')">About</button>
-          <button class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500"
+          <button
+            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
             @click="$emit('navigate', 'changelog')">Changelog</button>
           <button @click="toggleTheme"
-            class="w-9 h-9 flex items-center justify-center rounded-full hover:bg-zinc-100 dark:hover:bg-zinc-800"
+            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-200 ease-in-out"
             title="toggle theme mode">
             <svg v-if="!isDarkMode" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" fill="currentColor"
               class="w-5 h-5">

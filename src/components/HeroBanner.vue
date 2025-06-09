@@ -1,10 +1,10 @@
 <template>
-  <section class="hero">
+  <section class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out hero">
     <div class="hero__background" :style="{ backgroundImage: `url(${bgImage})` }"></div>
     <div class="hero__content">
       <div class="hero__emoji">{{ emoji }}</div>
-      <h1 class="hero__title">{{ title }}</h1>
-      <p v-if="subtitle" class="hero__subtitle">{{ subtitle }}</p>
+      <h1 class="dark:text-white hover:text-blue-500 hero__title">{{ title }}</h1>
+      <p v-if="subtitle" class=" dark:text-white hover:text-blue-500 hero__subtitle">{{ subtitle }}</p>
     </div>
   </section>
 </template>
