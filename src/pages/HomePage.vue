@@ -1,4 +1,6 @@
 <template>
+  <HeroBanner bgImage="https://www.notion.so/images/page-cover/met_winslow_homer_maine_coast.jpg" emoji="🥛"
+    title="Site of Yuan" subtitle="Where I write and collect moments" />
   <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container">
       <ContentColumn v-for="(section, index) in sections" :key="index" :imageSrc="section.imageSrc"
@@ -8,6 +10,7 @@
 </template>
 
 <script setup lang="ts">
+import HeroBanner from '../components/HeroBanner.vue'
 import ContentColumn from '../components/ContentColumn.vue'
 
 const essays = [
@@ -153,7 +156,7 @@ const sections = [
 .content-container {
   column-count: 1;
   column-gap: 1.5rem;
-  width: 50%;
+  width: 60%;
   max-width: 780px;
   margin: 0 auto;
   padding-bottom: 100px;
