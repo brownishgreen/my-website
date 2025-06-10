@@ -30,7 +30,7 @@ const routes = [
     path: '/changelog',
     name: 'Changelog',
     component: Changelog,
-  },  
+  },
   {
     path: '/essays/thirty-two',
     name: 'thirty-two',
@@ -76,7 +76,6 @@ const routes = [
     name: 'Singapore 23',
     component: Singapore23,
   },
-  
 ]
 
 const router = createRouter({

@@ -35,7 +35,7 @@
     &__content {
       max-width: 780px;
       margin: 0 auto;
-      margin-top: -4rem;
+      margin-top: -3.5rem;
       padding-bottom: 1rem;
       display: flex;
       flex-direction: column;
@@ -63,8 +63,8 @@
       color: gray;
       font-size: 1rem;
 
-      @media (min-width: 768px) {
-        font-size: 1.125rem;
+      @media (max-width: 768px) {
+        font-size: 0.6rem;
       }
     }
   }

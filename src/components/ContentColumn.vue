@@ -1,7 +1,7 @@
 <template>
   <div class="w-full max-w-sm rounded-lg overflow-hidden shadow-lg">
     <!-- 圖片區 -->
-    <img :src="imageSrc" alt="section image" class="w-full object-cover mt-3 rounded-t-md" />
+    <img :src="imageSrc" alt="section image" class="object-cover mt-3 rounded-t-md" />
 
     <!-- 文字內容 -->
     <div class="p-4 bg-stone-100/60 dark:bg-zinc-800/60 transition-all duration-[1500ms]">
