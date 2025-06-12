@@ -554,373 +554,397 @@
         我們沒有把全部的點採完，我腦中確定有踩到的是考山路、龍蓮寺、臥佛寺、金佛寺、黎明寺，遊玩的部分直接上照片：
       </p>
       <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550592/F9943228-D531-454A-AC7D-FFD7E81CE4EF_1_105_c_giy6ew.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550592/F9943228-D531-454A-AC7D-FFD7E81CE4EF_1_105_c_giy6ew.jpg"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
       </figure>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550593/0408A55D-2905-49CD-BC29-5F87BDA69B52_1_201_a_bsswrx.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550593/0408A55D-2905-49CD-BC29-5F87BDA69B52_1_201_a_bsswrx.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550594/0F2F05C6-9702-445D-9EBE-4AC0069EA5EB_1_201_a_frshog.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550594/0F2F05C6-9702-445D-9EBE-4AC0069EA5EB_1_201_a_frshog.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550591/322A87BF-9CF8-4940-8B20-3BC7C766061D_1_105_c_ttbv1y.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550591/322A87BF-9CF8-4940-8B20-3BC7C766061D_1_105_c_ttbv1y.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550593/C445E783-F420-45F1-8524-5F7A9C6AF435_1_201_a_rsbiro.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550593/C445E783-F420-45F1-8524-5F7A9C6AF435_1_201_a_rsbiro.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550589/3E90556F-854C-4DE0-B556-FFFEDAF4D888_1_201_a_nzw0bv.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              全世界的俊男美女們在拍泰服時，我們享受冰爽的色素飲品 🍹
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550589/3E90556F-854C-4DE0-B556-FFFEDAF4D888_1_201_a_nzw0bv.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            全世界的俊男美女們在拍泰服時，我們享受冰爽的色素飲品 🍹
+          </figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550589/F40BE3FB-CF79-4C4F-8CE4-4B447AC15F95_1_201_a_rdfq5t.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550589/F40BE3FB-CF79-4C4F-8CE4-4B447AC15F95_1_201_a_rdfq5t.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550593/826DD777-FE17-49DD-BA4F-075AAD63609A_1_201_a_mnqnmd.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550593/826DD777-FE17-49DD-BA4F-075AAD63609A_1_201_a_mnqnmd.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550584/8F142760-BD46-4E20-A733-97D399D3DCBC_1_201_a_nerfis.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              帶色的芒果糯米飯 🥭
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550584/8F142760-BD46-4E20-A733-97D399D3DCBC_1_201_a_nerfis.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            帶色的芒果糯米飯 🥭
+          </figcaption>
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550589/DA04C36F-ECB3-4D27-8E0C-C149255862BC_1_201_a_gzwscm.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550589/DA04C36F-ECB3-4D27-8E0C-C149255862BC_1_201_a_gzwscm.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550591/C44FF3DF-B91C-4A6E-B09A-6E5DAC8D9D54_1_201_a_i1ojng.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550591/C44FF3DF-B91C-4A6E-B09A-6E5DAC8D9D54_1_201_a_i1ojng.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550583/C7F46FF0-E431-4018-A713-B84BE8FFD49B_1_201_a_hfgqkv.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550583/C7F46FF0-E431-4018-A713-B84BE8FFD49B_1_201_a_hfgqkv.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550588/2649EEEA-AEF1-4DF0-ADBA-7C0E74C879C8_1_201_a_jb7mf4.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550588/2649EEEA-AEF1-4DF0-ADBA-7C0E74C879C8_1_201_a_jb7mf4.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550583/4DFB37CE-D1F2-403F-AE1A-6471C1675A43_1_201_a_m4dgzg.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550583/4DFB37CE-D1F2-403F-AE1A-6471C1675A43_1_201_a_m4dgzg.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550582/AB322970-D6F7-4597-AA02-CBB5FB24CA06_1_201_a_xmyiij.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550582/AB322970-D6F7-4597-AA02-CBB5FB24CA06_1_201_a_xmyiij.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550579/681D5226-7AD6-4A41-B791-1476EBABE36C_1_201_a_hmmgwd.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550579/681D5226-7AD6-4A41-B791-1476EBABE36C_1_201_a_hmmgwd.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550581/E37340E5-BAB7-4EC2-8E2B-2ED81B102A38_1_201_a_fnmgma.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550581/E37340E5-BAB7-4EC2-8E2B-2ED81B102A38_1_201_a_fnmgma.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550580/B463FC7F-8F13-471A-8385-04F1F620112F_1_201_a_qwey9p.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550580/B463FC7F-8F13-471A-8385-04F1F620112F_1_201_a_qwey9p.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550573/3A135249-D236-43CC-91FD-77D065C0EB96_1_105_c_oyzwfm.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550573/3A135249-D236-43CC-91FD-77D065C0EB96_1_105_c_oyzwfm.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550577/077AA276-9595-4D35-85EF-CD693EEF3F8F_1_201_a_qgwg4k.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550577/077AA276-9595-4D35-85EF-CD693EEF3F8F_1_201_a_qgwg4k.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550582/A60CC466-E4D0-43C7-B339-FBEC1742C82B_1_201_a_pp5kli.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550582/A60CC466-E4D0-43C7-B339-FBEC1742C82B_1_201_a_pp5kli.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550577/8cf96789-128c-457c-b6eb-b24e1d34773d_fribhw.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550577/8cf96789-128c-457c-b6eb-b24e1d34773d_fribhw.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550581/A6E675BE-A06D-43D7-AC3E-F822BA93BD14_1_201_a_lt7hnz.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550581/A6E675BE-A06D-43D7-AC3E-F822BA93BD14_1_201_a_lt7hnz.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550571/908C1610-6D0F-49C5-A8D6-89D61BBAFFDA_1_105_c_qk6mnx.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550571/908C1610-6D0F-49C5-A8D6-89D61BBAFFDA_1_105_c_qk6mnx.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550578/BBE90C5F-C721-45D3-9413-E3943160B517_1_201_a_sdexus.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550578/BBE90C5F-C721-45D3-9413-E3943160B517_1_201_a_sdexus.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <h2 class="text-xl mt-3 mb-3 dark:text-white">
-      Chatuchak Weekend Market
-    </h2>
-    <p class="dark:text-white">
-      其實我有點記憶錯亂，我們有在 1 月 13 日當天做這麼多事情嗎？根據相冊我們那天的確去了洽督洽市集，然後我想到了，是啊！我們在洽督洽一邊看總統大選開票的，洽督洽的確如傳說中的一樣什麼都有，越往深處的地方逛越時髦，我在那邊說什麼極簡主義的男人就是一個登機箱就夠了，想來實在後悔。
+      </div>
+      <h2 class="text-xl mt-3 mb-3 dark:text-white">Chatuchak Weekend Market</h2>
+      <p class="dark:text-white">
+        其實我有點記憶錯亂，我們有在 1 月 13
+        日當天做這麼多事情嗎？根據相冊我們那天的確去了洽督洽市集，然後我想到了，是啊！我們在洽督洽一邊看總統大選開票的，洽督洽的確如傳說中的一樣什麼都有，越往深處的地方逛越時髦，我在那邊說什麼極簡主義的男人就是一個登機箱就夠了，想來實在後悔。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550576/40FF996E-9E13-4EDB-B3E9-85EDBFF96F79_1_201_a_p6yjqk.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              這贈予一位友人她屬虎的孩子，時髦的嬰孩帽帽
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550576/40FF996E-9E13-4EDB-B3E9-85EDBFF96F79_1_201_a_p6yjqk.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            這贈予一位友人她屬虎的孩子，時髦的嬰孩帽帽
+          </figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550570/1E3B2760-9B5C-4AA0-92B8-F96E10C21599_1_201_a_vtpqgt.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-                圖片說明文字
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550570/1E3B2760-9B5C-4AA0-92B8-F96E10C21599_1_201_a_vtpqgt.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">圖片說明文字</figcaption>
         </figure>
-    </div>
-    <h2 class="text-xl mt-3 mb-3 dark:text-white">
-      JODD FAIRS Ratchada
-    </h2>
-    <p class="dark:text-white">
-      執行完非常秘密任務之後，我們一行人再聚首，抵達了喬德夜市，喬德夜市乾淨到不可思議，自詡夜市王國的台灣真心需要檢討，Brian 一直很期待的火山排骨實際上我們只點了很小一撮，沒有勇敢的吃一些奇怪的食物留一點遺憾。 
-    </p>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550565/5755EB1B-5C9D-452B-922D-EA9F195020D9_1_201_a_lcya6a.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-    </figure>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <h2 class="text-xl mt-3 mb-3 dark:text-white">JODD FAIRS Ratchada</h2>
+      <p class="dark:text-white">
+        執行完非常秘密任務之後，我們一行人再聚首，抵達了喬德夜市，喬德夜市乾淨到不可思議，自詡夜市王國的台灣真心需要檢討，Brian
+        一直很期待的火山排骨實際上我們只點了很小一撮，沒有勇敢的吃一些奇怪的食物留一點遺憾。
+      </p>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550565/5755EB1B-5C9D-452B-922D-EA9F195020D9_1_201_a_lcya6a.jpg"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+      </figure>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550568/925617D7-B953-434D-80CF-A91DBF8F7767_1_201_a_gcp2an.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550568/925617D7-B953-434D-80CF-A91DBF8F7767_1_201_a_gcp2an.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550568/D93D3FCA-BEE5-4C4F-9963-C44CA80D33FA_1_201_a_se9ath.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550568/D93D3FCA-BEE5-4C4F-9963-C44CA80D33FA_1_201_a_se9ath.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550567/34BCDF1D-0EAD-46AC-9192-8A7944A6E65E_1_201_a_ut1tsf.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550567/34BCDF1D-0EAD-46AC-9192-8A7944A6E65E_1_201_a_ut1tsf.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550571/E13C4DA3-C3E0-4CB7-BCE4-920593FA146F_1_201_a_s7e2a5.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550571/E13C4DA3-C3E0-4CB7-BCE4-920593FA146F_1_201_a_s7e2a5.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550571/2B6A5B71-A845-46A2-9082-48DE6F9877C3_1_201_a_ieozr3.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              地板真的好乾淨
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550571/2B6A5B71-A845-46A2-9082-48DE6F9877C3_1_201_a_ieozr3.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">地板真的好乾淨</figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550563/037E415E-2C82-4187-8C51-F6C16B80347C_1_201_a_dophiu.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              乾淨到我拍兩張留做紀念
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550563/037E415E-2C82-4187-8C51-F6C16B80347C_1_201_a_dophiu.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            乾淨到我拍兩張留做紀念
+          </figcaption>
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550569/B05D3286-2543-454B-9949-58417DC0B561_1_201_a_avhtam.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              泰國小姐姐用心裝飾的芒果飲料
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550569/B05D3286-2543-454B-9949-58417DC0B561_1_201_a_avhtam.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            泰國小姐姐用心裝飾的芒果飲料
+          </figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550565/B5B99239-A4F7-4388-9F39-C71D175BEF09_1_201_a_yn1b8a.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              現實總是骨感
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550565/B5B99239-A4F7-4388-9F39-C71D175BEF09_1_201_a_yn1b8a.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">現實總是骨感</figcaption>
         </figure>
-    </div>
-    <h2 class="text-xl mt-3 mb-3 dark:text-white">
-      結語
-    </h2>
-    <p class="dark:text-white">
-      永遠會懷念這一趟跟大家一起抽大麻、每天按摩每天喝泰奶喝到快糖尿病的快樂時光。
+      </div>
+      <h2 class="text-xl mt-3 mb-3 dark:text-white">結語</h2>
+      <p class="dark:text-white">
+        永遠會懷念這一趟跟大家一起抽大麻、每天按摩每天喝泰奶喝到快糖尿病的快樂時光。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550558/6818526B-12CC-41B9-A183-5DAA377BE2CD_1_105_c_liqnkh.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              少不了一定要吃的麥當勞 🍔 這就是男人的浪漫
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550558/6818526B-12CC-41B9-A183-5DAA377BE2CD_1_105_c_liqnkh.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            少不了一定要吃的麥當勞 🍔 這就是男人的浪漫
+          </figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550558/2DA350E5-ABA4-4960-ADC4-1200C9616D02_1_201_a_cqxtza.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              每天按摩每天喝泰奶
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749550558/2DA350E5-ABA4-4960-ADC4-1200C9616D02_1_201_a_cqxtza.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">每天按摩每天喝泰奶</figcaption>
         </figure>
-    </div>
-
-
+      </div>
     </div>
   </main>
 </template>

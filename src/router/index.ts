@@ -62,7 +62,7 @@ const routes = [
     component: CeskyKrumlov24,
   },
   {
-    path: '/journeys/mabul-22',
+    path: '/journeys/pulau-mabul-22',
     name: 'Mabul 22',
     component: Mabul22,
   },
