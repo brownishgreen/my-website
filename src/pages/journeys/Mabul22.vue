@@ -10,8 +10,7 @@
       class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
     >
       <p class="dark:text-white">
-        2022 年 8
-        月份造訪的馬布島，最快樂的員旅體驗沒有之一。<br>馬布島是馬來西亞東部仙本那著名潛水天堂，以水上木屋、原始海景與海龜聞名。因為是在疫情的尾巴，機場空蕩蕩的，仙本那不是容易抵達的地方，要先搭飛機到吉隆坡轉機到東馬，再另外搭船到島上，中間也有長途巴士，總之交通時間很長，自己旅遊的話我覺得很難抵達，擁有這一次的回憶我感到無比地幸運。😋
+        2022 年 8 月份造訪的馬布島，最快樂的員旅體驗沒有之一。<br />馬布島是馬來西亞東部仙本那著名潛水天堂，以水上木屋、原始海景與海龜聞名。因為是在疫情的尾巴，機場空蕩蕩的，仙本那不是容易抵達的地方，要先搭飛機到吉隆坡轉機到東馬，再另外搭船到島上，中間也有長途巴士，總之交通時間很長，自己旅遊的話我覺得很難抵達，擁有這一次的回憶我感到無比地幸運。😋
         <br />
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -235,7 +234,7 @@
             class="w-full rounded-md shadow-md object-cover"
           />
           <figcaption class="mt-2 text-xs text-gray-600 text-center">
-            島上有許多貓咪，都很親人。<br>潛水教練們認識每隻貓，也知道誰是誰的孩子。
+            島上有許多貓咪，都很親人。<br />潛水教練們認識每隻貓，也知道誰是誰的孩子。
           </figcaption>
         </figure>
 
@@ -321,7 +320,9 @@
             alt=""
             class="w-full rounded-md shadow-md object-cover"
           />
-          <figcaption class="mt-2 text-xs text-gray-600 text-center">跳島時遇到的撒嬌黑咪咪</figcaption>
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            跳島時遇到的撒嬌黑咪咪
+          </figcaption>
         </figure>
 
         <!-- photo2 with caption -->
@@ -335,12 +336,12 @@
         </figure>
       </div>
       <figure class="w-full md:w-full mt-5">
-          <img
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749682315/3B19665A-D2CD-4AD8-84EB-83299ABDF591_hwtpoz.jpg"
-            alt=""
-            class="w-full rounded-md shadow-md object-cover"
-          />
-        </figure>
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749682315/3B19665A-D2CD-4AD8-84EB-83299ABDF591_hwtpoz.jpg"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+      </figure>
     </div>
   </main>
 </template>

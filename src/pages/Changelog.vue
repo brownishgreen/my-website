@@ -14,7 +14,9 @@
       </div>
     </div>
   </div>
-  <div class="dark:bg-zinc-900 timeline-bottom"></div>
+  <div class="timeline-bottom ">
+
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -152,7 +154,6 @@
     }
   }
 
-  // 小螢幕寬度優化
   @media screen and (max-width: 640px) {
     .timeline {
       padding-left: 1.25rem;

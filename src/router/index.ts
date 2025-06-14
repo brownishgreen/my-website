@@ -15,6 +15,12 @@ import CeskyKrumlov24 from '../pages/journeys/CeskyKrumlov24.vue'
 import Mabul22 from '../pages/journeys/Mabul22.vue'
 import Nagoya23 from '../pages/journeys/Nagoya23.vue'
 import Singapore23 from '../pages/journeys/Singapore23.vue'
+
+//Albums
+import Random16 from '../pages/flashes/Random16.vue'
+import Random12 from '../pages/flashes/Random12.vue'
+import Shelter from '../pages/flashes/Shelter.vue'
+
 const routes = [
   {
     path: '/',
@@ -72,10 +78,22 @@ const routes = [
     component: Nagoya23,
   },
   {
-    path: '/journeys/singapore-23',
+    path: '/journeys/singapura-23',
     name: 'Singapore 23',
     component: Singapore23,
-  },
+  }, {
+    path: '/flashes/random-16',
+    name: 'Random 16',
+    component: Random16
+  }, {
+    path: '/flashes/random-12',
+    name: 'Random 12',
+    component: Random12
+  }, {
+    path: '/flashes/shelter',
+    name: '吳爸爸米克斯庇護所',
+    component: Shelter
+  }
 ]
 
 const router = createRouter({
