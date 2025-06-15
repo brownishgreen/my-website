@@ -21,6 +21,10 @@ import Random16 from '../pages/flashes/Random16.vue'
 import Random12 from '../pages/flashes/Random12.vue'
 import Shelter from '../pages/flashes/Shelter.vue'
 
+
+//Projects
+import Yolodex from '../pages/projects/Yolodex.vue'
+
 const routes = [
   {
     path: '/',
@@ -93,6 +97,10 @@ const routes = [
     path: '/flashes/shelter',
     name: '吳爸爸米克斯庇護所',
     component: Shelter
+  }, {
+    path: '/projects/yolodex',
+    name: 'Yolodex',
+    component: Yolodex
   }
 ]
 
