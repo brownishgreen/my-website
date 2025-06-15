@@ -9,13 +9,7 @@
     class="about-container bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <figure class="w-full md:w-full mt-5">
-        <img
-          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984480/image_qssqfv.png"
-          alt=""
-          class="w-full rounded-md shadow-xl object-cover"
-        />
-      </figure>
+      
     </div>
   </section>
 </template>
