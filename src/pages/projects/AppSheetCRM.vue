@@ -98,106 +98,106 @@
       </figure>
       <h3 class="text-lg mt-3 mb-3 text-blue-500">支援業務流程</h3>
       <p class="mt-5 dark:text-white">
-      此 AppSheet CRM 模板具備基本 CRUD 功能，
-      方便業務人員與管理者建立 (Create)、查詢 (Read)、更新 (Update) 與刪除 (Delete)
-      客戶與互動紀錄資料。
-    </p>
+        此 AppSheet CRM 模板具備基本 CRUD 功能， 方便業務人員與管理者建立 (Create)、查詢
+        (Read)、更新 (Update) 與刪除 (Delete) 客戶與互動紀錄資料。
+      </p>
 
-    <p class="mt-5 dark:text-white">特別功能還包含：</p>
-    <ul class="list-disc pl-6 space-y-1 mt-5 dark:text-white">
-      <li>自動紀錄 GPS 定位，即時確認業務人員的實際拜訪位置</li>
-      <li>互動類型標記（如：電話、會面、電子郵件等）</li>
-      <li>互動時間與日期紀錄，方便後續追蹤與分析</li>
-      <li>匯出資料</li>
-      <li>客製化自動化通知功能（Webhook通知到 SLACK、LINE 或 Google Chat）</li>
-      <li>
-        權限設計
-        <ul class="list-disc pl-6 mt-1 space-y-1 mt-5 dark:text-white">
-          <li>業務人員僅能查閱與自己有關的交易</li>
-          <li>業務主管掌握所有業務人員資料</li>
-        </ul>
-      </li>
-      <li>手機、平板、瀏覽器皆可操作</li>
-    </ul>
-    <p class="mt-5 dark:text-white">
-      這些設計能提升業務團隊的行動效率與資料透明度，讓 CRM 成為管理客戶與提升成交率的強大工具。
-    </p>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984475/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.05.26_swqsl8.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              客戶管理介面
-            </figcaption>
-    </figure>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984478/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.36.59_dvxl1l.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              新增互動紀錄表單，儲存後可紀錄當下裝置GPS定位
-            </figcaption>
-    </figure>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984479/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.41.03_nryfnh.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              合作客戶詳細頁面
-            </figcaption>
-        </figure>
-        <h2 class="text-xl mt-5 mb-5 dark:text-white">
-      手機應用程式畫面
-    </h2>
-        <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      <p class="mt-5 dark:text-white">特別功能還包含：</p>
+      <ul class="list-disc pl-6 space-y-1 mt-5 dark:text-white">
+        <li>自動紀錄 GPS 定位，即時確認業務人員的實際拜訪位置</li>
+        <li>互動類型標記（如：電話、會面、電子郵件等）</li>
+        <li>互動時間與日期紀錄，方便後續追蹤與分析</li>
+        <li>匯出資料</li>
+        <li>客製化自動化通知功能（Webhook通知到 SLACK、LINE 或 Google Chat）</li>
+        <li>
+          權限設計
+          <ul class="list-disc pl-6 mt-1 space-y-1 mt-5 dark:text-white">
+            <li>業務人員僅能查閱與自己有關的交易</li>
+            <li>業務主管掌握所有業務人員資料</li>
+          </ul>
+        </li>
+        <li>手機、平板、瀏覽器皆可操作</li>
+      </ul>
+      <p class="mt-5 dark:text-white">
+        這些設計能提升業務團隊的行動效率與資料透明度，讓 CRM 成為管理客戶與提升成交率的強大工具。
+      </p>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984475/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.05.26_swqsl8.png"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">客戶管理介面</figcaption>
+      </figure>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984478/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.36.59_dvxl1l.png"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">
+          新增互動紀錄表單，儲存後可紀錄當下裝置GPS定位
+        </figcaption>
+      </figure>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984479/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.41.03_nryfnh.png"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">合作客戶詳細頁面</figcaption>
+      </figure>
+      <h2 class="text-xl mt-5 mb-5 dark:text-white">手機應用程式畫面</h2>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984472/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.06.54_kdr59m.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              業務分機 Mobile View
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984472/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.06.54_kdr59m.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            業務分機 Mobile View
+          </figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984472/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.06.23_htva1a.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              交易總覽 Mobile View
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984472/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.06.23_htva1a.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            交易總覽 Mobile View
+          </figcaption>
         </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984475/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.07.04_wwnbwa.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-                客戶總覽 Mobile View
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984475/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.07.04_wwnbwa.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            客戶總覽 Mobile View
+          </figcaption>
         </figure>
-        
+
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984473/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.07.23_fcypso.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-                部門與員工管理 Mobile View
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749984473/%E6%88%AA%E5%9C%96_2025-05-11_%E6%99%9A%E4%B8%8A7.07.23_fcypso.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            部門與員工管理 Mobile View
+          </figcaption>
         </figure>
-    </div>
+      </div>
     </div>
   </section>
 </template>

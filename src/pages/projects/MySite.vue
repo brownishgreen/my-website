@@ -16,7 +16,6 @@
           class="w-full rounded-md shadow-xl object-cover"
         />
       </figure>
-      
     </div>
   </section>
 </template>
