@@ -6,7 +6,7 @@
       <!-- Site Title -->
       <router-link
         to="/"
-        class="text-zinc-700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-200 ease-in-out"
+        class="text-zinc-700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-100 ease-in-out"
       >
         🌜Site of Yuan🌛
       </router-link>
@@ -30,7 +30,7 @@
         >
           <router-link
             to="/about"
-            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
+            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-100 ease-in-out"
             >About</router-link
           >
           <router-link
@@ -40,7 +40,7 @@
           >
           <button
             @click="toggleTheme"
-            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-200 ease-in-out"
+            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-100 ease-in-out"
             title="toggle theme mode"
           >
             <svg

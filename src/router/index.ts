@@ -26,6 +26,7 @@ import Yolodex from '../pages/projects/Yolodex.vue'
 import SutraReader from '../pages/projects/SutraReader.vue'
 import TapTour from '../pages/projects/TapTour.vue'
 import AppSheetCRM from '../pages/projects/AppSheetCRM.vue'
+import MySite from '../pages/projects/MySite.vue'
 
 const routes = [
   {
@@ -122,6 +123,11 @@ const routes = [
     path: '/projects/appsheet-crm',
     name: 'AppSheetCRM',
     component: AppSheetCRM,
+  },
+  {
+    path: '/projects/my-site',
+    name: 'MySite',
+    component: MySite,
   },
 ]
 

@@ -1,6 +1,6 @@
 <template>
   <HeroBanner
-    bgImage="https://res.cloudinary.com/dube3xzga/image/upload/v1749475319/premium_photo-1664363807717-700c0b8a9672_csgcfw.avif"
+    bgImage="https://res.cloudinary.com/dube3xzga/image/upload/v1749989647/%E6%88%AA%E5%9C%96_2025-06-15_%E6%99%9A%E4%B8%8A8.13.53_cwquya.png"
     emoji="🏊🏾‍♂️"
     title="thirty-two"
     subtitle="🗓️ 2025/01/05"
