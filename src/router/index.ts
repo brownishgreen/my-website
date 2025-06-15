@@ -24,6 +24,7 @@ import Shelter from '../pages/flashes/Shelter.vue'
 
 //Projects
 import Yolodex from '../pages/projects/Yolodex.vue'
+import SutraReader from '../pages/projects/SutraReader.vue'
 
 const routes = [
   {
@@ -101,6 +102,10 @@ const routes = [
     path: '/projects/yolodex',
     name: 'Yolodex',
     component: Yolodex
+  }, {
+    path: '/projects/sutra-reader',
+    name: 'Sutra-Reader',
+    component: SutraReader
   }
 ]
 

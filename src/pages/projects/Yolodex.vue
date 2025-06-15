@@ -3,13 +3,15 @@
     bgImage="https://res.cloudinary.com/dube3xzga/image/upload/v1749953517/ChatGPT_Image_2025%E5%B9%B46%E6%9C%8815%E6%97%A5_%E4%B8%8A%E5%8D%8810_11_37_drqku2.png"
     emoji="📇"
     title="Yolodex"
-    subtitle="A lightweight single-page CRM for managing contacts and their interactions. The split-panel UI lets you search, sort, create, edit, delete contacts and log calls / emails / meetings on a tidy timeline. Built with Vue 3, Vite and TypeScript, fully responsive."
+    subtitle=""
   />
   <section
     class="about-container bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="mt-5 dark:text-white">
+      <p class="dark:text-white">
+        A lightweight single-page CRM for managing contacts and their interactions. The split-panel UI lets you search, sort, create, edit, delete contacts and log calls / emails / meetings on a tidy timeline. Built with Vue 3, Vite and TypeScript, fully responsive. <br>
+        <br>
         靈感來自五零年代的 Rolodex 旋轉式名片架。
         Yolodex 是一款極簡 CRM，左側列表＋右側詳情同步更新，可為每位聯絡人新增「通話 / 信件 / 會議」等互動紀錄、你可以使用分類項目篩選出想要的清單並匯出。<br>
         RWD 設計，Vue 3、Vite、TypeScript 打造。<br>
@@ -68,7 +70,7 @@
         </p>
         <figure class="w-full md:w-full mt-5">
             <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749954764/%E6%88%AA%E5%9C%96_2025-06-15_%E4%B8%8A%E5%8D%8810.32.29_fmnnsj.png" 
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749955913/%E6%88%AA%E5%9C%96_2025-06-15_%E4%B8%8A%E5%8D%8810.51.28_zigfz0.png" 
             alt="" 
             class="w-full rounded-md shadow-md object-cover" />
             <figcaption class="mt-2 text-xs text-gray-600 text-center">
