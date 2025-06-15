@@ -42,7 +42,7 @@
     },
     {
       emoji: '🧳',
-      name: 'TapTour [React]｜Full-stack｜旅遊探索評論網',
+      name: 'TapTour [React/Node.js/MySQL]｜旅遊探索評論',
       link: '/projects/taptour',
     },
     {
@@ -173,12 +173,12 @@
     {
       imageSrc:
         'https://images.unsplash.com/photo-1646644197846-db6af4b56d25?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      articleTitle: 'Coding Notes',
+      articleTitle: 'Coding Notes | 🔧 Content is being migrated',
       items: codingNotes,
     },
     {
       imageSrc: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749467605/image_q5fcvv.webp',
-      articleTitle: 'Links',
+      articleTitle: 'Links｜🔧 Content is being migrated',
       items: links,
     },
   ]

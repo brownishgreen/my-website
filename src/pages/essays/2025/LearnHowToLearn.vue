@@ -90,6 +90,7 @@
         <a
           href="https://strategicleaders.com/elon-musk-work-ethic-10-secrets-for-insane-success/?utm_source=chatgpt.com"
           class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+          target="_blank"
         >
           <span class="text-xl">🐎</span>
           <span class="text-sm">延伸閱讀：Elon Musk Work Ethic: 10 Secrets for Insane Success</span>

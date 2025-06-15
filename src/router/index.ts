@@ -21,10 +21,11 @@ import Random16 from '../pages/flashes/Random16.vue'
 import Random12 from '../pages/flashes/Random12.vue'
 import Shelter from '../pages/flashes/Shelter.vue'
 
-
 //Projects
 import Yolodex from '../pages/projects/Yolodex.vue'
 import SutraReader from '../pages/projects/SutraReader.vue'
+import TapTour from '../pages/projects/TapTour.vue'
+import AppSheetCRM from '../pages/projects/AppSheetCRM.vue'
 
 const routes = [
   {
@@ -86,27 +87,42 @@ const routes = [
     path: '/journeys/singapura-23',
     name: 'Singapore 23',
     component: Singapore23,
-  }, {
+  },
+  {
     path: '/flashes/random-16',
     name: 'Random 16',
-    component: Random16
-  }, {
+    component: Random16,
+  },
+  {
     path: '/flashes/random-12',
     name: 'Random 12',
-    component: Random12
-  }, {
+    component: Random12,
+  },
+  {
     path: '/flashes/shelter',
     name: '吳爸爸米克斯庇護所',
-    component: Shelter
-  }, {
+    component: Shelter,
+  },
+  {
     path: '/projects/yolodex',
     name: 'Yolodex',
-    component: Yolodex
-  }, {
+    component: Yolodex,
+  },
+  {
     path: '/projects/sutra-reader',
     name: 'Sutra-Reader',
-    component: SutraReader
-  }
+    component: SutraReader,
+  },
+  {
+    path: '/projects/taptour',
+    name: 'TapTour',
+    component: TapTour,
+  },
+  {
+    path: '/projects/appsheet-crm',
+    name: 'AppSheetCRM',
+    component: AppSheetCRM,
+  },
 ]
 
 const router = createRouter({

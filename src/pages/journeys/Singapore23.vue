@@ -31,7 +31,7 @@
           </figcaption>
         </figure>
       </div>
-      <br>
+      <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">Universal Studio</h2>
       <figure class="w-full md:w-full mt-5">
         <img
@@ -106,7 +106,7 @@
           />
         </figure>
       </div>
-      <br>
+      <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">佛牙寺 Buddha Tooth Relic Temple and Museum</h2>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <iframe
@@ -144,7 +144,7 @@
           />
         </figure>
       </div>
-      <br>
+      <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">Night Safari</h2>
       <p class="mt-5 dark:text-white">
         夜間動物園四周昏暗到幾乎看不清路，只有一點點微弱的燈光，搭配叢林間此起彼落的動物叫聲，有種偷偷潛入動物世界的感覺。這裡的路看起來刻意保持了原始的模樣，有時候甚至懷疑自己是不是真的踏進了熱帶雨林。<br />
@@ -212,12 +212,15 @@
         </figure>
       </div>
       <figure class="w-full md:w-full mt-5">
-        <img src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692643/9480E158-06BB-4F0C-873F-4842C231C884_1_105_c_grmd7y.jpg" alt="" class="w-full rounded-md shadow-md object-cover" />
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692643/9480E158-06BB-4F0C-873F-4842C231C884_1_105_c_grmd7y.jpg"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
       </figure>
       <p class="mt-5 dark:text-white">
         迷上這個物種，他的名字超派叫做 Tasmanian Devil
-        （袋獾），但本體是軟趴趴的不像照片那麼兇，超級可愛我買了一個他的娃娃。附上他的
-        Wikipedia：
+        （袋獾），但本體是軟趴趴的不像照片那麼兇，超級可愛我買了一個他的娃娃。附上他的 Wikipedia：
       </p>
       <a
         href="https://zh.wikipedia.org/zh-tw/%E8%A2%8B%E7%8D%BE"
@@ -227,184 +230,198 @@
         <span class="text-sm">袋獾 - 維基百科，自由的百科全書</span>
       </a>
       <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749696983/B7ED3A89-A3FE-4A32-BB5E-43DC69952682_r7rmca.webp" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              晚上不上班軟綿綿的趴著睡著
-            </figcaption>
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749696983/B7ED3A89-A3FE-4A32-BB5E-43DC69952682_r7rmca.webp"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">
+          晚上不上班軟綿綿的趴著睡著
+        </figcaption>
       </figure>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">
-        National Gallery Singapore
-    </h2>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692650/image_vhae9j.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-    </figure>
-    <p class="mt-5 dark:text-white">
-      National Gallery Singapore 的期待值比肩 Night Safari，這次旅行我個人特別列為重點行程，畢竟它以東南亞最大的現代藝術收藏聞名。除了收藏豐富的藝術品之外，國家美術館的大樓設計本身也值得一看。它是由舊最高法院和前市政廳改建而成，外觀看起來既保留了莊重的歷史風格，又巧妙融入現代建築元素，以玻璃天花板將兩棟建築連結在一起。<br>
-      館內展出的作品風格多元，從自然主義、寫實主義描繪日常與社會樣貌的畫作，到現代主義與抽象派的自由探索，甚至包括多媒體與裝置藝術等當代表現形式。每一層樓幾乎都有驚喜，無論是靜態繪畫還是互動式作品，都展現了東南亞藝術家的觀點與語言。<br>
-      我最喜歡的是那些帶有濃濃南洋色彩的畫作，像是熱帶景觀、市井人物、或是帶著懷舊色調的街頭場景，色彩飽滿卻不刺眼。「新加坡故事」的策展（這應該是常設展）也讓我印象很深刻，透過畫作講述新加坡的歷史、社會變遷與文化認同，身為也曾被殖民過的台灣人，在這裡看見新加坡如何透過藝術重新梳理自身的歷史與身份，不免讓我產生一種熟悉又複雜的共鳴吶。
-    </p>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+      <h2 class="text-xl mt-3 mb-3 dark:text-white">National Gallery Singapore</h2>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692650/image_vhae9j.png"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+      </figure>
+      <p class="mt-5 dark:text-white">
+        National Gallery Singapore 的期待值比肩 Night
+        Safari，這次旅行我個人特別列為重點行程，畢竟它以東南亞最大的現代藝術收藏聞名。除了收藏豐富的藝術品之外，國家美術館的大樓設計本身也值得一看。它是由舊最高法院和前市政廳改建而成，外觀看起來既保留了莊重的歷史風格，又巧妙融入現代建築元素，以玻璃天花板將兩棟建築連結在一起。<br />
+        館內展出的作品風格多元，從自然主義、寫實主義描繪日常與社會樣貌的畫作，到現代主義與抽象派的自由探索，甚至包括多媒體與裝置藝術等當代表現形式。每一層樓幾乎都有驚喜，無論是靜態繪畫還是互動式作品，都展現了東南亞藝術家的觀點與語言。<br />
+        我最喜歡的是那些帶有濃濃南洋色彩的畫作，像是熱帶景觀、市井人物、或是帶著懷舊色調的街頭場景，色彩飽滿卻不刺眼。「新加坡故事」的策展（這應該是常設展）也讓我印象很深刻，透過畫作講述新加坡的歷史、社會變遷與文化認同，身為也曾被殖民過的台灣人，在這裡看見新加坡如何透過藝術重新梳理自身的歷史與身份，不免讓我產生一種熟悉又複雜的共鳴吶。
+      </p>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692643/1277DA80-1A05-41AF-8BD9-36040B2EE729_1_201_a_uh9mmu.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              兩棟建築之間
-            </figcaption>
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692645/A95CB275-874F-41A5-BE3E-A892B900C47E_1_201_a_dxxcac.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              Court
-            </figcaption>
-        </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692638/5D19D6F0-592B-43D5-8B6C-946800CE34D0_1_201_a_be7ufg.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692643/096DAD4C-9C75-46FC-9DA4-6D60F0E71CA4_1_201_a_hgrzom.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692647/F485C629-D640-468C-A671-25711625202F_1_201_a_guyufb.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692641/98B2350E-5BDD-499B-A9BA-8F4F26DC6B67_1_105_c_ohsqpj.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692626/4A972C9A-D462-4BBA-A04A-A49916DC60EE_1_201_a_qizb0n.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692629/5E77CE28-7712-404A-B314-0781F6A6164A_1_201_a_gmlnde.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692634/e6a992a5-73f3-4598-a3be-a54744655a72_ywxz0w.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692635/ee854a3e-e00e-4acc-849e-8d65fcf0e4b6_fjpyu2.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-    </div>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692632/2139D4E5-0D30-4987-8345-B07FB8B50287_1_105_c_spmr5v.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        <br>
-        <h2 class="text-xl mt-3 mb-3 dark:text-white">
-      Random
-    </h2>
-    <p class="mt-5 dark:text-white">
-      在 Clarke Quay 漫步、喝啤酒，沒有捷運回家，騎公共自行車夜遊，一個多小時才回到烏節路。去 Bugis 附近的阿拉伯街逛伊斯蘭風格的商店，到 Jamal Kazura Aromatics 買香水，牛車水逛 The Tintin Shop，Many many more more more 亞坤還有松發！<br>
-      本次旅程超級大遺珠是四馬路觀音廟，想回去跟觀音菩薩說：「 Hey我現在過得不錯，謝謝 」，至於為什麼會變成一顆大遺珠呢明明人就在 Bugis 啊？總之下次三兄妹再一起出國的話，咱還是適度分頭行動吧 😎
-    </p>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/3">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692629/9BFE8D78-E8DD-4233-9415-D89ABD4126A1_1_105_c_hmcanh.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/3">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749698545/8B4796CA-5259-4F75-8148-039372420D5D_1_201_a_siqai5.webp" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        <figure class="w-full md:w-1/3">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749698766/%E4%B8%8B%E8%BC%89_5_vbvy3d.png" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-    </div>
-    <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692631/690B2640-4B29-45D9-AD7D-957CB7C45C9E_1_105_c_oourfz.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-        
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692625/DDA51528-61C9-4A8B-9731-10345FA061A2_1_105_c_hvpp0f.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-        </figure>
-    </div>
-    <figure class="w-full md:w-full mt-5">
-            <img 
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692636/FF1D456C-8AD1-4018-B181-65176B341D2C_1_105_c_yklzwg.jpg" 
-            alt="" 
-            class="w-full rounded-md shadow-md object-cover" />
-            <figcaption class="mt-2 text-xs text-gray-600 text-center">
-              這陣子迷戀仙人掌 ，機場有一個花園🌵
-            </figcaption>
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692643/1277DA80-1A05-41AF-8BD9-36040B2EE729_1_201_a_uh9mmu.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">兩棟建築之間</figcaption>
         </figure>
 
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692645/A95CB275-874F-41A5-BE3E-A892B900C47E_1_201_a_dxxcac.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">Court</figcaption>
+        </figure>
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692638/5D19D6F0-592B-43D5-8B6C-946800CE34D0_1_201_a_be7ufg.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
 
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692643/096DAD4C-9C75-46FC-9DA4-6D60F0E71CA4_1_201_a_hgrzom.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692647/F485C629-D640-468C-A671-25711625202F_1_201_a_guyufb.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692641/98B2350E-5BDD-499B-A9BA-8F4F26DC6B67_1_105_c_ohsqpj.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692626/4A972C9A-D462-4BBA-A04A-A49916DC60EE_1_201_a_qizb0n.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692629/5E77CE28-7712-404A-B314-0781F6A6164A_1_201_a_gmlnde.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692634/e6a992a5-73f3-4598-a3be-a54744655a72_ywxz0w.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692635/ee854a3e-e00e-4acc-849e-8d65fcf0e4b6_fjpyu2.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692632/2139D4E5-0D30-4987-8345-B07FB8B50287_1_105_c_spmr5v.jpg"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+      </figure>
+      <br />
+      <h2 class="text-xl mt-3 mb-3 dark:text-white">Random</h2>
+      <p class="mt-5 dark:text-white">
+        在 Clarke Quay 漫步、喝啤酒，沒有捷運回家，騎公共自行車夜遊，一個多小時才回到烏節路。去
+        Bugis 附近的阿拉伯街逛伊斯蘭風格的商店，到 Jamal Kazura Aromatics 買香水，牛車水逛 The
+        Tintin Shop，Many many more more more 亞坤還有松發！<br />
+        本次旅程超級大遺珠是四馬路觀音廟，想回去跟觀音菩薩說：「 Hey我現在過得不錯，謝謝
+        」，至於為什麼會變成一顆大遺珠呢明明人就在 Bugis
+        啊？總之下次三兄妹再一起出國的話，咱還是適度分頭行動吧 😎
+      </p>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/3">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692629/9BFE8D78-E8DD-4233-9415-D89ABD4126A1_1_105_c_hmcanh.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/3">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749698545/8B4796CA-5259-4F75-8148-039372420D5D_1_201_a_siqai5.webp"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+        <figure class="w-full md:w-1/3">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749698766/%E4%B8%8B%E8%BC%89_5_vbvy3d.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692631/690B2640-4B29-45D9-AD7D-957CB7C45C9E_1_105_c_oourfz.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692625/DDA51528-61C9-4A8B-9731-10345FA061A2_1_105_c_hvpp0f.jpg"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749692636/FF1D456C-8AD1-4018-B181-65176B341D2C_1_105_c_yklzwg.jpg"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">
+          這陣子迷戀仙人掌 ，機場有一個花園🌵
+        </figcaption>
+      </figure>
     </div>
   </main>
 </template>

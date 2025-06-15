@@ -14,9 +14,7 @@
       </div>
     </div>
   </div>
-  <div class="timeline-bottom ">
-
-  </div>
+  <div class="timeline-bottom"></div>
 </template>
 
 <script setup lang="ts">
