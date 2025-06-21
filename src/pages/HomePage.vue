@@ -29,6 +29,8 @@
     { emoji: '👓', name: 'learn how to learn', link: '/essays/learn-how-to-learn' },
   ]
 
+  const scripts = [{ emoji: '🍵', name: 'learn how to rest', link: '/essays/learn-how-to-rest' }]
+
   const projects = [
     {
       emoji: '📇',

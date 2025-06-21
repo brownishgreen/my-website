@@ -48,7 +48,7 @@
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
           <img
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749956543/%E6%88%AA%E5%9C%96_2025-06-15_%E4%B8%8A%E5%8D%8811.02.00_z0vuud.png"
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1750000215/%E6%88%AA%E5%9C%96_2025-06-15_%E6%99%9A%E4%B8%8A11.09.11_ytjln1.png"
             alt=""
             class="w-full rounded-md shadow-md object-cover"
           />
@@ -58,7 +58,7 @@
         <!-- photo2 with caption -->
         <figure class="w-full md:w-1/2">
           <img
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749956853/%E6%88%AA%E5%9C%96_2025-06-15_%E4%B8%8A%E5%8D%8811.07.12_kiczls.png"
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1750000213/%E6%88%AA%E5%9C%96_2025-06-15_%E6%99%9A%E4%B8%8A11.09.55_vxkpk5.png"
             alt=""
             class="w-full rounded-md shadow-md object-cover"
           />
@@ -139,7 +139,7 @@
         </figure>
       </div>
       <h2 class="text-xl mt-3 mb-3 dark:text-white">Tech Stack 技術棧</h2>
-      <ul>
+      <ul class="mt-5 dark:text-white">
         <li>- Vue 3</li>
         <li>- Vite</li>
         <li>- SCSS</li>

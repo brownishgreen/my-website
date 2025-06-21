@@ -1,6 +1,6 @@
 <template>
   <header
-    class="sticky top-0 z-50 w-full bg-white dark:bg-zinc-900 shadow-sm transition-all duration-[1500ms] ease-in-out"
+    class="sticky top-0 z-50 w-full bg-white dark:bg-zinc-900 border-b border-zinc-100 dark:border-zinc-800 transition-all duration-[1500ms] ease-in-out"
   >
     <div class="flex items-center justify-between px-6 py-4">
       <!-- Site Title -->

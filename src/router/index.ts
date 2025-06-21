@@ -28,6 +28,9 @@ import TapTour from '../pages/projects/TapTour.vue'
 import AppSheetCRM from '../pages/projects/AppSheetCRM.vue'
 import MySite from '../pages/projects/MySite.vue'
 
+//Books
+import Books from '../pages/Books/Books.vue'
+
 const routes = [
   {
     path: '/',
@@ -128,6 +131,11 @@ const routes = [
     path: '/projects/my-site',
     name: 'MySite',
     component: MySite,
+  },
+  {
+    path: '/books',
+    name: 'Books',
+    component: Books,
   },
 ]
 
