@@ -7,9 +7,6 @@
   />
   <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div class="article-container">
-      <div class="flex flex-row gap-6 items-start">
-        <!-- 文字區 -->
-        <div class="flex-1">
           <h2 class="text-xl mb-3 dark:text-white">關係</h2>
           <p class="dark:text-white">
             和雙親一起到歐洲探望留學尾聲的小妹順道旅遊，一生難忘的珍貴回憶。透過旅途中發生的事件打開了潘朵拉的盒子探索我和父親之間的關係，因為已經擬定今年的計劃，我決定先暫停把它闔上，或許可作為來年的功課，用更多與父親的互動來觀察、釐清。<br />
@@ -17,17 +14,12 @@
             Smurfs Run 自然消滅，連飯可能都只吃了一頓？<br />
             獨處的時間變得好多好多，我很喜歡獨處的，但是，總感覺生活似乎可以過得再平衡一些。<br />
           </p>
-        </div>
-
-        <!-- 圖片區 -->
-        <div class="w-[180px] shrink-0">
           <img
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749472956/FE582C8F-9CA0-4853-A5F2-E93F0EB1DB96_1_201_a_elamg0.jpg"
-            alt="在捷克拍的照片"
-            class="w-full h-auto rounded-md shadow-md object-cover"
-          />
-        </div>
-      </div>
+        src="https://res.cloudinary.com/dube3xzga/image/upload/v1749547424/FE582C8F-9CA0-4853-A5F2-E93F0EB1DB96_1_201_a_ouiiqx.jpg"
+        alt="Haha mirror"
+        class="mt-5 rounded-md shadow-md object-cover"
+      />
+
       <h2 class="text-xl mt-3 mb-3 dark:text-white">工作</h2>
 
       <p class="dark:text-white">
@@ -166,7 +158,7 @@
 
 <style scoped lang="scss">
   .article-container {
-    width: 60%;
+    width: 80%;
     max-width: 780px;
     margin: 0 auto;
     padding-bottom: 100px;

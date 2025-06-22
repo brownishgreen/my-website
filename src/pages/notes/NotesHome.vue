@@ -24,7 +24,7 @@
   .content-container {
     column-count: 1;
     column-gap: 1.5rem;
-    width: 60%;
+    width: 80%;
     max-width: 780px;
     height: 50vh;
     margin: 0 auto;

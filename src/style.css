@@ -2,11 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+/*  container  */
+@media (max-width: 768px) {
+  .content-container {
+    width: 90%;
+    max-width: 100%;
+    padding-bottom: 80px;
+  }
+}
+
 /* -------- CSS Reset Start -------- */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+
 }
 
 body,
@@ -77,3 +87,4 @@ select {
 }
 
 /* -------- CSS Reset End -------- */
+

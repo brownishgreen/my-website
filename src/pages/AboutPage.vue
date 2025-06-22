@@ -75,7 +75,7 @@
 </script>
 <style scoped class="scss">
   .content-container {
-    width: 60%;
+    width: 80%;
     max-width: 780px;
     margin: 0 auto;
     padding-bottom: 100px;
