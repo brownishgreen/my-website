@@ -5,7 +5,7 @@ import tailwindcss from 'tailwindcss'
 import autoprefixer from 'autoprefixer'
 
 export default defineConfig({
-  base: '/my-website/',
+  base: '/',
   plugins: [vue()],
   css: {
     postcss: {
