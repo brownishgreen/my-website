@@ -8,13 +8,13 @@
       <h2 class="text-lg font-semibold mb-3 dark:text-white">{{ articleTitle }}</h2>
       <ul class="space-y-1 dark:text-white">
         <li v-for="(item, index) in items" :key="index">
-          <a
-            :href="item.link"
+          <router-link
+            :to="item.link"
             class="flex items-center gap-2 hover:text-blue-400 transition-all transform hover:scale-105 duration-200 ease-in-out"
           >
             <span class="text-xl">{{ item.emoji }}</span>
             <span class="text-sm">{{ item.name }}</span>
-          </a>
+          </router-link>
         </li>
       </ul>
     </div>
