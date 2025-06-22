@@ -5,7 +5,7 @@
     title="Site of Yuan"
     subtitle="Where I write and collect moments."
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div
       class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
     >
@@ -28,8 +28,6 @@
     { emoji: '🏊🏾‍♂️', name: 'thirty-two', link: '/essays/thirty-two' },
     { emoji: '👓', name: 'learn how to learn', link: '/essays/learn-how-to-learn' },
   ]
-
-  const scripts = [{ emoji: '🍵', name: 'learn how to rest', link: '/essays/learn-how-to-rest' }]
 
   const projects = [
     {
@@ -59,45 +57,12 @@
     },
   ]
 
-  const codingNotes = [
-    {
-      emoji: '✅',
-      name: 'Vue Notes Collection',
-      link: '/notes/vue',
-    },
-    {
-      emoji: '🟦',
-      name: 'TypeScript Notes',
-      link: '/notes/typescript',
-    },
-    {
-      emoji: '⚛️',
-      name: 'React Notes Collection',
-      link: '/notes/react',
-    },
-    {
-      emoji: '🖥️',
-      name: 'Intersection Observer',
-      link: '/notes/intersection-observer',
-    },
-    {
-      emoji: '📄',
-      name: '使用 Swagger 建立 API 文件',
-      link: '/notes/swagger-api-docs',
-    },
-    {
-      emoji: '⚙️',
-      name: 'Variables in memory',
-      link: '/notes/variables',
-    },
-    {
-      emoji: '🧑‍🤝‍🧑',
-      name: 'GitHub 協作開發',
-      link: '/notes/github-collab',
-    },
-  ]
-
   const journeys = [
+    {
+      emoji: '🇹🇼',
+      name: 'Taiwan Re:Love 25',
+      link: '/journeys/taiwan-25',
+    },
     {
       emoji: '🇦🇹',
       name: 'Austria 24',
@@ -143,6 +108,11 @@
 
   const links = [
     {
+      emoji: '💻',
+      name: 'Coding Notes',
+      link: 'coding-notes',
+    },
+    {
       emoji: '📚',
       name: 'Books',
       link: 'books',
@@ -162,26 +132,21 @@
     },
     {
       imageSrc:
-        'https://images.unsplash.com/photo-1511992243105-2992b3fd0410?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200',
-      articleTitle: 'Captured Flash',
-      items: capturedFlash,
-    },
-    {
-      imageSrc:
         'https://images.unsplash.com/photo-1629904888099-00285934292b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       articleTitle: 'Projects',
       items: projects,
     },
     {
       imageSrc:
-        'https://images.unsplash.com/photo-1646644197846-db6af4b56d25?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      articleTitle: 'Coding Notes | 🔧 Content is being migrated',
-      items: codingNotes,
+        'https://images.unsplash.com/photo-1591745742384-ee81ec590924?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      articleTitle: 'Notes & Reading',
+      items: links,
     },
     {
-      imageSrc: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749467605/image_q5fcvv.webp',
-      articleTitle: 'Links｜🔧 Content is being migrated',
-      items: links,
+      imageSrc:
+        'https://images.unsplash.com/photo-1511992243105-2992b3fd0410?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200',
+      articleTitle: 'Captured Flash',
+      items: capturedFlash,
     },
   ]
 </script>

@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "✅",
+    "label": "Vue Notes Collection",
+    "href": "https://shell-puppy-7d9.notion.site/Vue-Notes-Collection-1cc10968adb58072bdb8d59a870cec28"
+  },
+  {
+    "icon": "🟦",
+    "label": "TypeScript Notes",
+    "href": "https://shell-puppy-7d9.notion.site/TypeScript-Notes-1c410968adb580f4a7d2cf5c3c524717"
+  },
+  {
+    "icon": "⚛️",
+    "label": "React Notes Collection",
+    "href": "https://shell-puppy-7d9.notion.site/React-Notes-Collection-1db10968adb580e98404f7de8a5998bf"
+  },
+  {
+    "icon": "🖥️",
+    "label": "Intersection Observer",
+    "href": "/notes/intersection-observer"
+  },
+  {
+    "icon": "📄",
+    "label": "使用 Swagger 建立 API 文件",
+    "href": "https://shell-puppy-7d9.notion.site/Swagger-API-19410968adb580ab8b94e2a612eafa0a"
+  },
+  {
+    "icon": "⚙️",
+    "label": "Variables in memory",
+    "href": "https://shell-puppy-7d9.notion.site/Variables-in-memory-1c510968adb580bcb827fbfd265c82de"
+  },
+  {
+    "icon": "🧑‍🤝‍🧑",
+    "label": "GitHub 協作開發",
+    "href": "https://shell-puppy-7d9.notion.site/GitHub-17910968adb580b7a3c7e04ed244d0fe"
+  }
+]

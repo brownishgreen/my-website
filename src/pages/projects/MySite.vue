@@ -10,12 +10,12 @@
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
       <p class="dark:text-white">
-        在開始學習編程之後，我希望有一個自己的頁面可以代表我，不只是作品集，同時可以展示：
+        在開始學習編程後，我希望有一個頁面代表自己，不只是作品集，同時可以展示：
       </p>
       <ul class="list-disc pl-6 mt-5 dark:text-white">
-        <li>技術成長紀錄與專案歷程</li>
-        <li>自學筆記與工具心得</li>
-        <li>對生活、工作與哲學的思考片段和影像</li>
+        <li>技術成長與專案歷程</li>
+        <li>編程自學筆記與工具心得</li>
+        <li>對生活、工作與哲學的思考隨筆和影像</li>
       </ul>
 
       <p class="mt-5 dark:text-white">
@@ -29,6 +29,17 @@
         <li>維護負擔低：不需要自己處理主機與部署，適合初學者快速上手</li>
         <li>設計簡潔：原生版型風格清爽，適合本就喜歡簡單風格的我</li>
       </ul>
+
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1750560509/%E6%88%AA%E5%9C%96_2025-06-22_%E4%B8%8A%E5%8D%8810.47.50_fgbgnc.png"
+          alt="使用 Notion Site 製作的網站"
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">
+          使用 Notion Site 製作的網站
+        </figcaption>
+      </figure>
 
       <p class="mt-5 dark:text-white">
         當時來說，Notion
@@ -46,6 +57,39 @@
         框架的學習計畫，何不就把這個網站當作實戰練習？這樣不僅能省下 Notion Site
         的月費，也能一步步實作出一個完全屬於自己的個人網站，從架構、設計到內容管理都親手打造。
       </p>
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- photo1 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1750560897/%E6%88%AA%E5%9C%96_2025-06-22_%E4%B8%8A%E5%8D%8810.48.58_axmvho.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">依照原本的頁面切版</figcaption>
+        </figure>
+
+        <!-- photo2 with caption -->
+        <figure class="w-full md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1750560878/%E6%88%AA%E5%9C%96_2025-06-22_%E4%B8%8A%E5%8D%8810.49.39_zamna3.png"
+            alt=""
+            class="w-full rounded-md shadow-md object-cover"
+          />
+          <figcaption class="mt-2 text-xs text-gray-600 text-center">
+            自己搭建可以加入切換明暗模式的功能 🌜
+          </figcaption>
+        </figure>
+      </div>
+      <figure class="w-full md:w-full mt-5">
+        <img
+          src="https://res.cloudinary.com/dube3xzga/image/upload/v1750560877/%E6%88%AA%E5%9C%96_2025-06-22_%E4%B8%8A%E5%8D%8810.53.20_ungza0.png"
+          alt=""
+          class="w-full rounded-md shadow-md object-cover"
+        />
+        <figcaption class="mt-2 text-xs text-gray-600 text-center">
+          自己搭建的 Changlog 畫面精緻非常多!
+        </figcaption>
+      </figure>
       <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">技術實踐與規劃</h2>
       <p class="mt-5 dark:text-white">個人網站目前使用的技術棧如下：</p>
@@ -66,9 +110,8 @@
         <li><strong>Sass</strong>：部分排版、樣式邏輯複用與更清晰的結構管理</li>
       </ul>
       <p class="mt-5 dark:text-white">
-        接下來我預計將技術類筆記與文章陸續搬遷進網站，並搭配
-        <strong>Shiki</strong> 做程式碼區塊的語法高亮處理。 Shiki 是一個基於 VS Code 語法主題的
-        highlighter，渲染結果漂亮且支援多種語言，特別適合需要兼顧技術可讀性與美感的網站設計。
+        目前我將技術類筆記外連至 Notion，之後會陸續搬遷進網站，考慮搭配 Shiki
+        這個套件做程式碼區塊的語法高亮處理。
       </p>
     </div>
   </section>

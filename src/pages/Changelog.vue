@@ -1,20 +1,22 @@
 <template>
-  <HeroBanner
-    bgImage="https://www.notion.so/images/page-cover/met_winslow_homer_maine_coast.jpg"
-    emoji="🚩"
-    title="Changelog"
-    subtitle=""
-  />
-  <div class="timeline">
-    <div class="timeline-item" v-for="event in events" :key="event.date">
-      <div class="timeline-date">{{ event.date }}</div>
-      <div class="timeline-content">
-        <h3>{{ event.title }}</h3>
-        <p v-html="event.description"></p>
+  <main class="min-h-screen">
+    <HeroBanner
+      bgImage="https://images.unsplash.com/photo-1577283600386-75cf4ce853b5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      emoji="🚩"
+      title="Changelog"
+      subtitle=""
+    />
+    <div class="timeline">
+      <div class="timeline-item" v-for="event in events" :key="event.date">
+        <div class="timeline-date">{{ event.date }}</div>
+        <div class="timeline-content">
+          <h3>{{ event.title }}</h3>
+          <p v-html="event.description"></p>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="timeline-bottom"></div>
+    <div class="timeline-bottom"></div>
+  </main>
 </template>
 
 <script setup lang="ts">
@@ -22,7 +24,7 @@
   const events = [
     {
       date: '2025-04',
-      title: '離開田中系統｜入坑泰語拼字😵‍💫',
+      title: '離開田中系統｜入坑泰語拼字 😵‍💫',
       description: '再見了我最愛的同事們，我永遠忘不了與你們在一起的快樂時光。',
     },
     { date: '2024-11', title: '進入中級泰文 🇹🇭', description: '我的泰語老師說學泰語一點用都沒有' },
@@ -56,7 +58,6 @@
     margin: 3rem auto;
     padding-left: 2rem;
     max-width: 680px;
-    height: 110%;
 
     // 中間直線
     &::before {

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "牧羊少年奇幻之旅",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "cover": "https://res.cloudinary.com/dube3xzga/image/upload/v1750514857/resize_ddvwkv.jpg",
+    "note": "牧羊少年的旅程，看似在追尋寶藏，其實是回到自己內心的召喚。書裡最出名的一句話：『當你真心渴望某樣東西時，整個宇宙都會聯合起來幫助你實現它。』這不只是浪漫的比喻，而是一種生活的信念系統，讓我在迷惘時依然保持行動與信任。就像我們每個人追尋人生使命的縮影。以及，牧羊少年尋遍世界，才懂得：我們不是要找到什麼，而是要回到那個原本就知道的自己。"
+  },
+  {
+    "title": "當下的力量",
+    "author": "Eckhart Tolle",
+    "category": "Self-help",
+    "cover": "https://res.cloudinary.com/dube3xzga/image/upload/v1750511104/20230218134827692709_oxlmtj.jpg",
+    "note": "大多數的痛苦其實來自對過去的執著和對未來的焦慮，而真正的寧靜，只存在當下。覺察自己的念頭，就是醒著活著。它讓我理解，唯有全然活在當下，才能真正與自己和解。"
+  },
+  {
+    "title": "湖濱散記",
+    "author": "Henry David Thoreau",
+    "category": "Philosophy",
+    "cover": "https://res.cloudinary.com/dube3xzga/image/upload/v1750511104/20200927032103690904_turbb5.webp",
+    "note": "這不只是一本隱居生活的紀錄，更像是一場對現代生活節奏的深度質疑。梭羅的筆調樸實卻深刻，讓我開始思考：活得簡單，是不是更接近自由？是不是能更接近真實的自我？有趣的是在 Cal Newport 的著作 Digital Minimalism 中我讀到：梭羅在湖邊的許多生活方式根本不算是與世隔絕。原來梭羅的小屋不是在樹林裡，而是在樹林附近的一片空地上，那裡可以看到一條人來人往的公路。梭羅離他的家鄉康科特只有 30 分鐘的腳程，他常常回去鎮上吃飯及應酬，朋友和家人也嚐到小屋造訪他。但是，某種意義上來說，那其實正是他的目的。「梭羅的意圖不是住在野外」而是在郊區環境中尋找野性。"
+  },
+  {
+    "title": "少，但是更好",
+    "author": "Greg McKeown",
+    "category": "Productivity",
+    "cover": "https://res.cloudinary.com/dube3xzga/image/upload/v1750511104/20211223034228970732_a9wk6e.webp",
+    "note": "這本書主張專準主義（Essentialism）的思維模式，透過辨別真正重要的事，全心投入，並有勇氣拒絕次要任務，避免落入瞎忙的狀態。因為我們時間和能量都很有限，這本書提供簡化日常瑣事的方法，把心力留給真正有價值的事情，透過降低執行過程中的阻力，讓每一次專注的的可持續性拉高，提升生產力。"
+  },
+  {
+    "title": "學習如何學習",
+    "author": "Barbara Oakley",
+    "category": "Learning",
+    "cover": "https://res.cloudinary.com/dube3xzga/image/upload/v1750511104/ec1717458_jcvqzi.webp",
+    "note": "這本書將認知科學轉譯成淺白又實用的學習技巧，除了作者群裡自己本身的故事於我能產生共鳴之外，裡頭基於科學證實可行的方法論全數受用，像是間隔學習、切換模式、情緒管理等。我最喜歡的是注意力章魚，作者用四隻腳的章魚說明大腦神經連結如何從你初學到精通，行程連結組的過程，推薦給正在培育國家未來棟樑的新手父母或任何想學習新事物卻沒自信的人類。"
+  },
+  {
+    "title": "Rewire 神經可塑性",
+    "author": "Richard O'Connor",
+    "category": "Psychology",
+    "cover": "https://res.cloudinary.com/dube3xzga/image/upload/v1750511104/168_115039920_129_mainCoverImage1_vmdy8r.webp",
+    "note": "這本書幫助我理解了『即使已成年，仍能改變自己』背後的神經科學依據。作者強調改變習慣不是靠意志力，而是透過有意識的練習與替代反應的建立，逐步重塑大腦路徑。對我而言，它像是一份操作手冊，教我如何從舊有的反應模式中抽身、觀察、重建，讓自我成長從抽象變得具體。"
+  }
+]

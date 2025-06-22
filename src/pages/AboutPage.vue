@@ -5,7 +5,7 @@
     title="About me and this website"
     subtitle=""
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div
       class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
     >
@@ -17,26 +17,55 @@
         />
       </figure>
       <h3 class="text-xl mt-3 mb-3 dark:text-white">關於我</h3>
-      <a
-        href="https://github.com/brownishgreen"
-        target="_blank"
-        class="mt-5 mb-5 inline-flex items-center text-sm hover:underline dark:text-white"
-      >
-        <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
-          <path
-            d="M12 .5C5.65.5.5 5.65.5 12c0 5.1 3.3 9.4 7.8 10.9.6.1.8-.2.8-.6v-2.3c-3.2.7-3.8-1.5-3.8-1.5-.6-1.4-1.4-1.7-1.4-1.7-1.2-.8.1-.8.1-.8 1.3.1 2 .8 2 .8 1.1 2 2.9 1.4 3.6 1.1.1-.8.4-1.4.8-1.7-2.6-.3-5.3-1.3-5.3-5.8 0-1.3.5-2.3 1.2-3.2 0-.3-.5-1.4.1-2.8 0 0 1-.3 3.3 1.2a11.2 11.2 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.4.2 2.5.1 2.8.8.9 1.2 1.9 1.2 3.2 0 4.5-2.7 5.5-5.3 5.8.4.3.8 1 .8 2v3c0 .3.2.7.8.6A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"
-          />
-        </svg>
-        GitHub brownishgreen – Overview
-      </a>
+      <br />
       <p class="dark:text-white">
-        Nihao, 我是 Yuan 🙂<br />
-        喜歡戶外游泳、閱讀、有樹的地方以及盡可能擁有最少的物品。<br />
-        自 2024 年 3 月開始學習網頁全端開發，目前已累積了一定數量的作品集，我的前後端技術皆以
-        JavaScript 為主，樂於嘗試不同的框架和技術，最自豪的是能馬上捲起袖子幹的強大執行力。<br />此網站作為個人作品集之一，也是部落格和相簿。藉由這個「不依賴社群平台的自由空間」，我可以主動掌握內容的呈現方式。
-        你可以透過這個網站，更了解我作為一個人類所重視的價值觀、我的生活、我的技術能力。<br /><br />
-        若你是招募人員或僱主，對於我的職涯發展與人格特質有興趣的話，歡迎招募並僱用我，謝謝。
+        Nihao, 我是 Yuan 🙂<br /><br />
+        2024 年 1 月開始接觸全端開發，前後端技術以 JavaScript 為主，樂於嘗試不同框架和技術。<br /><br />
+        此網站作為我的作品集之一，也是個人部落格和相簿，分享生活、價值觀和學習紀錄。<br /><br />
+        我希望藉由這個「不依賴社群平台的自由空間」，主動掌握分享內容的呈現方式。<br /><br />
       </p>
+      <div class="flex flex-wrap gap-4 w-full mt-5 mb-5">
+        <!-- GitHub -->
+        <a
+          href="https://github.com/brownishgreen"
+          target="_blank"
+          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
+        >
+          <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
+            <path
+              d="M12 .5C5.65.5.5 5.65.5 12c0 5.1 3.3 9.4 7.8 10.9.6.1.8-.2.8-.6v-2.3c-3.2.7-3.8-1.5-3.8-1.5-.6-1.4-1.4-1.7-1.4-1.7-1.2-.8.1-.8.1-.8 1.3.1 2 .8 2 .8 1.1 2 2.9 1.4 3.6 1.1.1-.8.4-1.4.8-1.7-2.6-.3-5.3-1.3-5.3-5.8 0-1.3.5-2.3 1.2-3.2 0-.3-.5-1.4.1-2.8 0 0 1-.3 3.3 1.2a11.2 11.2 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.4.2 2.5.1 2.8.8.9 1.2 1.9 1.2 3.2 0 4.5-2.7 5.5-5.3 5.8.4.3.8 1 .8 2v3c0 .3.2.7.8.6A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"
+            />
+          </svg>
+          GitHub
+        </a>
+
+        <!-- Email -->
+        <a
+          href="mailto:jjjjjimyuan@gmail.com"
+          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
+        >
+          <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
+            <path
+              d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 2v.01L12 13 4 6.01V6h16zM4 18V8l8 5 8-5v10H4z"
+            />
+          </svg>
+          Email
+        </a>
+
+        <!-- Signal -->
+        <a
+          href="https://signal.me/#eu/BVxNbJY2rH2NtJuloNGUsd7tb4GlF-OQGI4VMCv9loJHgHcs-wtKh602PRB5mIPL"
+          target="_blank"
+          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
+        >
+          <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
+            <path
+              d="M12 0C5.37 0 0 5.37 0 12c0 1.93.46 3.75 1.27 5.37L0 24l6.63-1.74A11.96 11.96 0 0 0 12 24c6.63 0 12-5.37 12-12S18.63 0 12 0zM5.34 10.5a.66.66 0 1 1 1.32 0 .66.66 0 0 1-1.32 0zm2.66 0a.66.66 0 1 1 1.32 0 .66.66 0 0 1-1.32 0zm2.66 0a.66.66 0 1 1 1.32 0 .66.66 0 0 1-1.32 0z"
+            />
+          </svg>
+          Text me on Signal
+        </a>
+      </div>
     </div>
   </main>
 </template>

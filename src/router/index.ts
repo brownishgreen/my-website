@@ -8,6 +8,7 @@ import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
 import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
 
 //Journeys
+import Taiwan25 from '../pages/journeys/Taiwan25.vue'
 import Austria24 from '../pages/journeys/Austria24.vue'
 import Bangkok24 from '../pages/journeys/Bangkok24.vue'
 import Budapest24 from '../pages/journeys/Budapest24.vue'
@@ -26,10 +27,15 @@ import Yolodex from '../pages/projects/Yolodex.vue'
 import SutraReader from '../pages/projects/SutraReader.vue'
 import TapTour from '../pages/projects/TapTour.vue'
 import AppSheetCRM from '../pages/projects/AppSheetCRM.vue'
+
 import MySite from '../pages/projects/MySite.vue'
 
 //Books
 import Books from '../pages/Books/Books.vue'
+
+//Notes
+import NotesHome from '../pages/notes/NotesHome.vue'
+
 
 const routes = [
   {
@@ -136,6 +142,16 @@ const routes = [
     path: '/books',
     name: 'Books',
     component: Books,
+  },
+  {
+    path: '/coding-notes',
+    name: 'coding-note',
+    component: NotesHome,
+  },
+  {
+    path: '/journeys/taiwan-25',
+    name: 'Taiwan Re:Love 25',
+    component: Taiwan25,
   },
 ]
 
