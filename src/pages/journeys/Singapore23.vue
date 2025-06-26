@@ -160,7 +160,7 @@
             alt=""
             class="w-full rounded-md shadow-md object-cover"
           />
-          <figcaption class="mt-2 text-xs text-gray-600 text-center">圖片說明文字</figcaption>
+          <figcaption class="mt-2 text-xs text-gray-600 text-center"></figcaption>
         </figure>
 
         <!-- photo2 with caption -->
@@ -170,7 +170,7 @@
             alt=""
             class="w-full rounded-md shadow-md object-cover"
           />
-          <figcaption class="mt-2 text-xs text-gray-600 text-center">圖片說明文字</figcaption>
+          <figcaption class="mt-2 text-xs text-gray-600 text-center"></figcaption>
         </figure>
       </div>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">

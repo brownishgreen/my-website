@@ -462,7 +462,7 @@
       <h2 class="text-xl mt-3 mb-3 dark:text-white">夜覽湄南河</h2>
       <p class="dark:text-white">
         夜晚我們上郵輪用晚膳，氛圍很棒，一邊享用豐盛的自助晚餐，一邊欣賞沿岸名勝。
-        船開得很和緩，可以看到夜晚的**黎明寺、ICONSIAM
+        船開得很和緩，可以看到夜晚的黎明寺、ICONSIAM
         、臥佛寺這些景點，我還不能說它們晚上看起來很不一樣，因為尚未在白天見過它們。不過，在悠揚的現場音樂與微微搖曳的船身中欣賞它們的輪廓，那些燈光映照出的建築輪廓顯得格外神秘與夢幻，也很期待翌日買船票欣賞它們白天的模樣。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
