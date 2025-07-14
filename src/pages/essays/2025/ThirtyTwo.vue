@@ -7,14 +7,14 @@
   />
   <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div class="article-container">
-          <h2 class="text-xl mb-3 dark:text-white">關係</h2>
-          <p class="dark:text-white">
-            和雙親一起到歐洲探望留學尾聲的小妹順道旅遊，一生難忘的珍貴回憶。透過旅途中發生的事件打開了潘朵拉的盒子探索我和父親之間的關係，因為已經擬定今年的計劃，我決定先暫停把它闔上，或許可作為來年的功課，用更多與父親的互動來觀察、釐清。<br />
-            這年社交的能量都用在公司裡非常聰明又可愛的同事們，我愛他們。我自己的朋友倒是疏忽多了，君璞邀請的
-            Smurfs Run 自然消滅，連飯可能都只吃了一頓？<br />
-            獨處的時間變得好多好多，我很喜歡獨處的，但是，總感覺生活似乎可以過得再平衡一些。<br />
-          </p>
-          <img
+      <h2 class="text-xl mb-3 dark:text-white">關係</h2>
+      <p class="dark:text-white">
+        和雙親一起到歐洲探望留學尾聲的小妹順道旅遊，一生難忘的珍貴回憶。透過旅途中發生的事件打開了潘朵拉的盒子探索我和父親之間的關係，因為已經擬定今年的計劃，我決定先暫停把它闔上，或許可作為來年的功課，用更多與父親的互動來觀察、釐清。<br />
+        這年社交的能量都用在公司裡非常聰明又可愛的同事們，我愛他們。我自己的朋友倒是疏忽多了，君璞邀請的
+        Smurfs Run 自然消滅，連飯可能都只吃了一頓？<br />
+        獨處的時間變得好多好多，我很喜歡獨處的，但是，總感覺生活似乎可以過得再平衡一些。<br />
+      </p>
+      <img
         src="https://res.cloudinary.com/dube3xzga/image/upload/v1749547424/FE582C8F-9CA0-4853-A5F2-E93F0EB1DB96_1_201_a_ouiiqx.jpg"
         alt="Haha mirror"
         class="mt-5 rounded-md shadow-md object-cover"

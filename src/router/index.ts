@@ -8,7 +8,7 @@ import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
 import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
 
 //Journeys
-import Taiwan25 from '../pages/journeys/Taiwan25.vue'
+import OrchidIsland25 from '../pages/journeys/OrchidIsland25.vue'
 import Austria24 from '../pages/journeys/Austria24.vue'
 import Bangkok24 from '../pages/journeys/Bangkok24.vue'
 import Budapest24 from '../pages/journeys/Budapest24.vue'
@@ -35,7 +35,6 @@ import Books from '../pages/Books/Books.vue'
 
 //Notes
 import NotesHome from '../pages/notes/NotesHome.vue'
-
 
 const routes = [
   {
@@ -149,9 +148,9 @@ const routes = [
     component: NotesHome,
   },
   {
-    path: '/journeys/taiwan-25',
-    name: 'Taiwan Re:Love 25',
-    component: Taiwan25,
+    path: '/journeys/lanyu-25',
+    name: 'Orchid Island',
+    component: OrchidIsland25,
   },
 ]
 
@@ -159,8 +158,8 @@ const router = createRouter({
   history: createWebHashHistory(),
   routes,
   scrollBehavior() {
-    return { top: 0}
-  }
+    return { top: 0 }
+  },
 })
 
 export default router

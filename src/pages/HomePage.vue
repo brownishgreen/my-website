@@ -59,9 +59,9 @@
 
   const journeys = [
     {
-      emoji: '🇹🇼',
-      name: 'Taiwan Re:Love 25',
-      link: '/journeys/taiwan-25',
+      emoji: '🏝️',
+      name: 'Orchid Island, Taiwan 25',
+      link: '/journeys/lanyu-25',
     },
     {
       emoji: '🇦🇹',

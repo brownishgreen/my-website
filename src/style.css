@@ -16,7 +16,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-
 }
 
 body,
@@ -87,4 +86,3 @@ select {
 }
 
 /* -------- CSS Reset End -------- */
-
