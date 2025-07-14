@@ -1,6 +1,6 @@
 <template>
   <HeroBanner
-    bgImage="https://res.cloudinary.com/dube3xzga/image/upload/v1752067021/IMG_3751_xgaqsf.jpg"
+    bgImage="https://images.unsplash.com/photo-1688222612506-94f3cb381534?q=80&w=2630&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     emoji="🏝️"
     title="愛國首部曲：Orchid Island, Taiwan"
     subtitle=""
