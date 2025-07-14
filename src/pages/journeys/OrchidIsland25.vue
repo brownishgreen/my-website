@@ -111,30 +111,17 @@
           allowfullscreen
         >
         </iframe>
-        <figcaption class="mt-2 text-xs text-gray-600 text-center">起歡，遮的起歡。</figcaption>
+        <figcaption class="mt-2 text-xs text-gray-600 text-center"></figcaption>
       </figure>
-
-      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
-        <!-- photo1 with caption -->
-        <figure class="w-full md:w-1/2">
-          <img
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1752066979/IMG_4172_2_tzjry2.jpg"
-            alt=""
-            class="w-full rounded-md shadow-md object-cover"
-          />
-          <figcaption class="mt-2 text-xs text-gray-600 text-center">隨處可見的羊群</figcaption>
+        <figure class="w-full md:w-full mt-5">
+            <img 
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1752142344/sheep_duduyv.jpg" 
+            alt="" 
+            class="w-full rounded-md shadow-md object-cover" />
+            <figcaption class="mt-2 text-xs text-gray-600 text-center">
+              隨處可見的羊群
+            </figcaption>
         </figure>
-
-        <!-- photo2 with caption -->
-        <figure class="w-full md:w-1/2">
-          <img
-            src="https://res.cloudinary.com/dube3xzga/image/upload/v1752142344/sheep_duduyv.jpg"
-            alt=""
-            class="w-full rounded-md shadow-md object-cover"
-          />
-          <figcaption class="mt-2 text-xs text-gray-600 text-center">母帶子白羊</figcaption>
-        </figure>
-      </div>
 
       <p class="mt-5 dark:text-white">
         就像你想知道一個人的靈魂是否澄凈清澈，端看動物是否願意與之親近便可略知一二。若一塊土地能讓動物安心地裸露身軀、自在地於路上走來走去而不感一絲威脅，那麼這塊土地必然是溫柔、善良的土地。
@@ -842,8 +829,7 @@
         </figure>
       </div>
       <p class="mt-5 dark:text-white">
-        在走一走跟動物們道別後，晚餐就是話不多說，直接 shout out to 徐大哥（我可以這樣說嗎
-        😂），我們去吃了他大力推薦的 Laksa
+        在走一走跟動物們道別後，晚餐就是話不多說，直接 shout out to 徐大哥，我們去吃了他大力推薦的 Laksa
         勒沙小館，他推薦的是該店的五更腸旺飯，但本人當日就想吃第二餐的咖哩 🍛
         再次點了咖哩，也沒有去挖 Joyce 的五更腸旺飯。<br />本來 Roomie
         阿滿跟尢啾有約我們去喝點酒，無奈老翁本翁有點累了，實在不敢想像如果真的步行來回野銀部落的話，我究竟會死在哪一個景點呢？😊
