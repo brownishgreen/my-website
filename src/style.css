@@ -43,11 +43,6 @@ ol[role='list'] {
   padding: 0;
 }
 
-li {
-  text-indent: -1.5em;
-  padding-left: 1.5em;
-}
-
 html:focus-within {
   scroll-behavior: smooth;
 }

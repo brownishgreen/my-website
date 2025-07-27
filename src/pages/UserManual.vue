@@ -178,4 +178,9 @@
     margin: 0 auto;
     padding-bottom: 100px;
   }
+
+  li {
+  text-indent: -1.5em;
+  padding-left: 1.5em;
+}
 </style>
