@@ -2,6 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import HomePage from '../pages/HomePage.vue'
 import AboutPage from '../pages/AboutPage.vue'
 import Changelog from '../pages/Changelog.vue'
+import UserManual from '../pages/UserManual.vue'
 
 //Essays
 import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
@@ -151,6 +152,11 @@ const routes = [
     path: '/journeys/lanyu-25',
     name: 'Orchid Island',
     component: OrchidIsland25,
+  },
+  {
+    path: '/user-manual',
+    name: 'User Manual',
+    component: UserManual,
   },
 ]
 

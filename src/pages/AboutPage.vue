@@ -22,7 +22,7 @@
       <p class="dark:text-white">
         嗨，我是 Yuan。<br /><br />
         自 2024 年起開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />偏好簡潔的架構，樂於嘗試不同框架與工具。<br /><br />
-        此網站紀錄生活、學習、整理想法用途。<br /><br />
+        此網站紀錄生活、學習、整理想法等用途。<br /><br />
         <!-- 👉 <a href="你的使用說明書連結">個人使用說明書</a> -->
       </p>
       <div class="flex flex-wrap gap-4 w-full mt-5 mb-5">
