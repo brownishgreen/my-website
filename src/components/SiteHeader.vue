@@ -8,7 +8,7 @@
         to="/"
         class="text-zinc-700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-100 ease-in-out"
       >
-        🌜Site of Yuan🌛
+        🌜Project Yuan🌛
       </router-link>
 
       <!-- Hamburger Icon -->
@@ -32,6 +32,11 @@
             to="/about"
             class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-100 ease-in-out"
             >About</router-link
+          >
+          <router-link
+            to="/user-manual"
+            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
+            >User Manual</router-link
           >
           <router-link
             to="/changelog"

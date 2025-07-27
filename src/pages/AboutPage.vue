@@ -1,6 +1,6 @@
 <template>
   <HeroBanner
-    bgImage="https://images.unsplash.com/photo-1487621167305-5d248087c724?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=7200"
+    bgImage="https://images.unsplash.com/photo-1684682025585-1d77e17ec2f0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     emoji="👽"
     title="About me and this website"
     subtitle=""
@@ -16,13 +16,14 @@
           class="w-full rounded-md shadow-md object-cover"
         />
       </figure>
+      <br />
       <h3 class="text-xl mt-3 mb-3 dark:text-white">關於我</h3>
       <br />
       <p class="dark:text-white">
-        Nihao, 我是 Yuan 🙂<br /><br />
-        2024 年 1 月開始接觸全端開發，前後端技術以 JavaScript 為主，樂於嘗試不同框架和技術。<br /><br />
-        此網站作為我的作品集之一，也是個人部落格和相簿，分享生活、價值觀和學習紀錄。<br /><br />
-        我希望藉由這個「不依賴社群平台的自由空間」，主動掌握分享內容的呈現方式。<br /><br />
+        嗨，我是 Yuan。<br /><br />
+        自 2024 年起開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />偏好簡潔的架構，樂於嘗試不同框架與工具。<br /><br />
+        此網站紀錄生活、學習、整理想法用途。<br /><br />
+        <!-- 👉 <a href="你的使用說明書連結">個人使用說明書</a> -->
       </p>
       <div class="flex flex-wrap gap-4 w-full mt-5 mb-5">
         <!-- GitHub -->

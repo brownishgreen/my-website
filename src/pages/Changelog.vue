@@ -1,7 +1,7 @@
 <template>
   <main class="min-h-screen">
     <HeroBanner
-      bgImage="https://images.unsplash.com/photo-1577283600386-75cf4ce853b5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      bgImage="https://images.unsplash.com/photo-1597072100548-829878230270?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       emoji="🚩"
       title="Changelog"
       subtitle=""
@@ -27,27 +27,25 @@
       title: '離開田中系統｜入坑泰語拼字 😵‍💫',
       description: '再見了我最愛的同事們，我永遠忘不了與你們在一起的快樂時光。',
     },
-    { date: '2024-11', title: '進入中級泰文 🇹🇭', description: '我的泰語老師說學泰語一點用都沒有' },
     {
       date: '2024-09',
       title: '學會游泳 🥽',
-      description: '克服 32 年的恐懼',
+      description: '克服了 32 年來的恐懼 🦋',
     },
     {
       date: '2024-03',
-      title: '開始學泰文 🇹🇭',
-      description: '曼谷員工旅遊後深深迷上泰國人的生活哲學與文化!',
+      title: '開始學習泰語口說 🇹🇭',
+      description: '曼谷員工旅遊後迷上泰國人的生活哲學與文化!',
     },
     {
       date: '2024-02',
-      title: '橫越歐亞大陸千里尋妹 ✈️',
-      description:
-        '維也納 - 布達佩斯 - 哈修塔特 - 庫倫洛夫<br>Budapest is my favorite city in the world.',
+      title: '歐洲找妹妹 ✈️',
+      description: '維也納 - 布達佩斯 - 哈修塔特 - 庫倫洛夫',
     },
     {
       date: '2024-01',
       title: '開始自學程式語言 💻',
-      description: '今年開始把自己當作一個無懼的少年學習所有想學的事物。',
+      description: '今年開始把自己當作一個無懼的少年，學習所有想學的事物。',
     },
   ]
 </script>

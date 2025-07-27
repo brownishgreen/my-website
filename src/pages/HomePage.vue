@@ -2,7 +2,7 @@
   <HeroBanner
     bgImage="https://www.notion.so/images/page-cover/met_winslow_homer_maine_coast.jpg"
     emoji="🥛"
-    title="Site of Yuan"
+    title="Project Yuan"
     subtitle="Where I write and collect moments."
   />
   <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
