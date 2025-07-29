@@ -109,10 +109,6 @@
         <li><strong>PostCSS + Autoprefixer</strong>：自動補齊瀏覽器前綴，提高 CSS 相容性</li>
         <li><strong>Sass</strong>：部分排版、樣式邏輯複用與更清晰的結構管理</li>
       </ul>
-      <p class="mt-5 dark:text-white">
-        目前我將技術類筆記外連至 Notion，之後會陸續搬遷進網站，考慮搭配 Shiki
-        這個套件做程式碼區塊的語法高亮處理。
-      </p>
     </div>
   </section>
 </template>

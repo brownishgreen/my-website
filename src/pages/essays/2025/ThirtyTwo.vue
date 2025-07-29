@@ -7,19 +7,35 @@
   />
   <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div class="article-container">
-      <h2 class="text-xl mb-3 dark:text-white">關係</h2>
-      <p class="dark:text-white">
-        偕雙親赴歐探望留學尾聲的小妹，一生難忘的珍貴回憶。透過旅途中的事件打開了潘朵拉的盒子，探索了與家父間的關係，因為已擬定今年的規劃，決定先暫停把它闔上，或許可作為來年的功課，用更多的互動來觀察、釐清。<br />
-        這年社交的能量都用在公司裡非常聰明又可愛的同事們，我愛他們。自己的朋友倒是疏忽多了，君璞邀請的
-        Smurfs Run 自然消滅，連飯可能都只吃了一頓？<br />
-        獨處的時間變得好多好多，我很喜歡獨處的，但總感覺生活可以過得再更平衡一些。<br /><br />
-      </p>
-      <img
-        src="https://res.cloudinary.com/dube3xzga/image/upload/v1749547424/FE582C8F-9CA0-4853-A5F2-E93F0EB1DB96_1_201_a_ouiiqx.jpg"
-        alt="Haha mirror"
-        class="mt-5 rounded-md shadow-md object-cover"
-      />
+      <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
+        <!-- article -->
+        <figure class="w-full md:w-1/2 p-4">
+          <h2 class="text-xl mb-3 dark:text-white">關係</h2>
+          <p class="dark:text-white">
+            偕雙親赴歐探望留學尾聲的小妹，一生難忘的珍貴回憶。在旅途中，發生了一些事件打開了潘朵拉的盒子，探索了與父親之間的關係，心理上他正在變成他的父親，而我不想成為他。由於已經擬定今年的各項計劃，所以決定先暫停把這些心理的感受闔上，或許可作為來年的功課，用與父親更多或更少(?)的互動來觀察、釐清。<br /><br />
+            這年社交的能量都用在公司裡非常聰明又可愛的同事們，我愛他們。自己的朋友倒是疏忽多了，君璞邀請的
+            Smurfs Run 自然消滅，連飯可能都只吃了一頓？<br /><br />
 
+            <img
+              src="https://res.cloudinary.com/dube3xzga/image/upload/v1749484918/656A0863-2FFC-4924-A785-BC9E9E29FD01_1_201_a_vlfvki.jpg"
+              alt="I dont kiss and tell"
+              class="mt-5 rounded-md shadow-md object-cover"
+            />
+            <br />
+            獨處的時間變得好多好多，我很喜歡獨處的，但總感覺生活可以過得再更平衡一些。<br /><br />
+          </p>
+        </figure>
+
+        <!-- photo -->
+        <figure class="md:w-1/2">
+          <img
+            src="https://res.cloudinary.com/dube3xzga/image/upload/v1749547424/FE582C8F-9CA0-4853-A5F2-E93F0EB1DB96_1_201_a_ouiiqx.jpg"
+            alt="Haha mirror"
+            class="mt-5 rounded-md shadow-md object-cover"
+          />
+        </figure>
+      </div>
+      <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">工作</h2>
 
       <p class="dark:text-white">
