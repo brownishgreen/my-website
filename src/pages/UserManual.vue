@@ -2,7 +2,7 @@
   <HeroBanner
     bgImage="https://res.cloudinary.com/dube3xzga/image/upload/v1753616519/photo-1560427450-00fa9481f01e%E5%89%AF%E6%9C%AC_ybiskf.jpg"
     emoji="📖"
-    title="使用說明書"
+    title="User Manual"
     subtitle=""
   />
   <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
@@ -14,21 +14,21 @@
       >
         <p class="mb-4 dark:text-white"><strong>個人使用說明書的功能：</strong></p>
         <ol class="list-decimal list-inside space-y-1 mb-4 dark:text-white">
-          <li>對齊彼此三觀 / 原則 / 底線</li>
-          <li>減少非必要的試探、重複的申述</li>
-          <li>建立共識，達到互動的目的</li>
+          <li>對齊原則與底線</li>
+          <li>減少非必要的試探、重複申述</li>
+          <li>建立共識，達到互動效率</li>
         </ol>
         <p class="mb-4 dark:text-white">
           而我帶著無比的謙遜與榮幸，感謝你閱讀這份使用說明，希望也能讀到你的使用說明書。
         </p>
-        <p class="text-gray-500 text-xs">最後更新時間：2025/07/27</p>
+        <p class="text-gray-500 text-xs">最後更新時間：2025/08/20</p>
       </div>
       <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">♟️ 更新此刻，我正在投入的事情</h2>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>學習如何休息</li>
-        <li>低頻高質的複習網頁開發的指示，整理筆記</li>
-        <li>在 10 月學完泰語拼字系統，以讀懂泰語版小王子為階段目標</li>
+        <li>系統化複習與整理網頁開發的知識</li>
+        <li>完成泰語拼字學習，以能閱讀泰語版小王子為階段目標</li>
         <figure class="w-full md:w-full mt-5">
           <img
             src="https://res.cloudinary.com/dube3xzga/image/upload/v1753633906/IMG_4719_ddsjat.jpg"
@@ -40,11 +40,11 @@
       <br /><br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">👽 個人特質</h2>
 
-      <h3 class="text-l mt-3 mb-3 dark:text-white">CliftonStrengths</h3>
-      <p text-sm mt-1 mb-3 dark:text-white>
-        克利夫頓優勢（CliftonStrengths）是一項由 Don Clifton
+      <h3 class="text-l mt-3 mb-3 dark:text-white">My CliftonStrengths</h3>
+      <p class="text-sm mt-1 mb-3 dark:text-white">
+        克利夫頓優勢是一項由 Don Clifton
         主導開發的人才評估工具，旨在幫助人們認識並發揮自身的天賦強項。這項測驗由他在擔任蓋洛普公司（Gallup,
-        Inc.）董事長期間開發。
+        Inc.）董事長期間開發。<br><br>以下是我於 2022 年 6 月時在 Gallup 測出的前五天賦。
       </p>
 
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -77,45 +77,42 @@
       </div>
 
       <br />
-      <p class="text-l mt-3 mb-3 dark:text-white">我所認為的，私下的自己：</p>
+      <p class="text-l mt-3 mb-3 dark:text-white">更多</p>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
-        <li>喜歡思考、閱讀、發呆，思緒總是流動著，外在平靜，內在波瀾（興奮時會內外一起波瀾）</li>
         <li>對人有天然的好奇心，喜歡觀察人</li>
-        <li>容易察覺他人微妙的情緒起伏</li>
         <li>具有同理心，能理解他人情緒，但不容易被情緒帶走，也不認為「安慰」是必要的應對方式</li>
         <li>比起表面寒暄，更珍惜真誠又深刻的對談</li>
         <li>朋友非常少，也多不起來。偏好慢熟深交，關係一旦認定，真誠長久</li>
-        <li>以前不曉得但後來發現我喜歡蒐集資訊與觀點並在腦中建檔</li>
         <li>能長時間沉浸在自己設定的目標中，自我驅動</li>
-        <li>對瑣碎的小事無興致，熱愛的主題卻會全神貫注（但或許也是別人眼裡的無聊小事）</li>
+        <li>對瑣碎的小事無興致，熱愛的主題會全神貫注（但或許也是別人眼裡的無聊小事）</li>
         <li>生活上的小決策儘量簡單快速或不做決策，重大決策需要花時間搜集資料並審慎規劃</li>
       </ul>
       <br /><br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white">💻 工作中的我</h2>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
-        <li>工作中的我更開朗，工作是我社交能量的主要出口</li>
+        <li>比私底下的我更開朗，工作是我社交能量的主要出口</li>
         <li>認為事情一定有更好的方式、工具可以讓它更有效率，持續並主動優化</li>
         <li>自知不是天才型的頂級人才，開局或許稍嫌遲緩，技能點起來（上手）後挺凱瑞的</li>
+        <li>自己的任務完成後樂於主動協助團隊其他成員。</li>
         <li>不擺架子個性好，均衡團隊裡一顆正向的螺絲釘、一罐溫暖的潤滑劑 😉</li>
         <li>專注、深度導向，不喜浮於表面或無意義的忙碌 / 會議</li>
         <li>交代任務時明確告訴我你的需求，並制定階段性對頻會議，但過程不干涉，我會表現得比較好</li>
         <li>重視專心時間，喜歡非同步溝通，喜歡思緒不會突然被打斷</li>
-        <li>享受工作，創造價值。工作時總是很快樂，把我放到哪個位子我都能從中找到成就感</li>
+        <li>工作時多數時間是很快樂的，把我放到哪個位子我都能自己找到成就感</li>
         <li>習慣把事情記下來整理、歸檔，建構日後可回顧 / 搜尋的系統</li>
-        <li>習慣從整理桌面開始進入狀態，當你看到我在擦桌子，就是準備幹大事了 🔪</li>
+        <li>習慣從整理桌面開始進入狀態，當你看到我在擦桌子，就是準備幹大事</li>
       </ul>
       <br />
       <br />
       <h2 class="text-xl mt-3 mb-3 dark:text-white dark:text-white">🌱 正在克服的弱項</h2>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
-        <li>對低質社交排斥的太快，有時會過早關門，錯過可能的發展</li>
         <li>正在練習主動與珍視的人保持規律互動，維繫情誼</li>
         <li>
-          擅長察覺但不擅處理他人的脆弱與情緒出口，正在學習如何「有效陪伴」而非「上帝視角的說教」
+          雖擅長察覺但不擅處理他人的脆弱與情緒出口，正在學習如何「有效陪伴」而非「上帝視角的說教」
         </li>
         <li>界線感太強，毛豎起來時會讓關心我的人無從靠近，正在練習對家人和摯友更寬鬆。</li>
         <li>
-          傾向根據生活經驗快速判斷他人，自動貼上標籤。雖然這能幫助我快速做出預測與篩選，但也可能錯過真正了解一個人當下狀態與改變的機會。正在練習暫停判斷，用「觀察、更多互動、不定義」的方式與人互動。
+          傾向根據生活經驗快速判斷他人，自動貼上標籤。雖然這能幫助我快速做出預測與篩選，但也可能錯過真正了解一個人當下狀態與改變的機會。正在練習暫停判斷，用「觀察、更多互動、不定義」的方式與人互動，避免錯過可能的發展
         </li>
         <li>永遠保持更多的傾聽，思考，再輸出。</li>
       </ul>
@@ -126,10 +123,9 @@
         <li>永遠保持謙虛，終其一生持續學習。因為世界是無常的、隨時都在變化的</li>
         <li>心理健康和生理健康一樣重要</li>
         <li>對於自己的情緒、狀態與慣性具高度覺察，也願意面對真相與不舒服</li>
-        <li>能夠察覺自己當下的狀態，包括情緒、動機與能量高低</li>
-        <li>遇到挫折時先內觀，絕不把責任推向他人或環境</li>
+        <li>遇到挫折時先內觀，不把責任推向他人或環境</li>
         <li>知道自己在「高效期」與「低潮期」時的差異，懂得調整節奏</li>
-        <li>對內心的慾望與恐懼有文字化的能力，能清楚描述自己的心理狀態</li>
+        <li>對內心的慾望與恐懼有文字化的能力，能清楚描述自己的心理狀態寫在日記裡</li>
         <li>能從外界的衝突或情緒波動中反推自己內部未解的問題，並記下來觀察</li>
       </ul>
       <br />
@@ -149,7 +145,6 @@
         <li>重視對話的「本質」，不追求講話多，而是講得剛剛好且有意義</li>
         <li>不喜歡拐彎抹角和試探，語言講求乾淨、誠實、無攻擊性的直接</li>
         <li>說服我之前，你需要弄清楚你想說服我什麼；反之亦然，我也會弄清楚我想說服你什麼。</li>
-        <li>能快速辨識「聽不懂 vs 不想懂」的差別，前者引導，後者沉默</li>
         <li>面對衝突時，不急於回應，不與憤怒或混亂的人爭論，寧可拉開距離</li>
       </ul>
       <br />
@@ -173,8 +168,8 @@
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>會走心的類型 1.強者 2.靈魂純善</li>
         <li>暗戀是浪漫的，暗戀是我的個人行為，與對方無關</li>
-        <li>若要走入一段關係那非得是靈魂能夠對話、精神可以共鳴，並肩作戰對抗世界的隊友</li>
-        <li>透過養狗，本人規律分泌 Oxytocin（催產素），因此感情不是剛需，也不是情緒補給</li>
+        <li>若要走入一段關係，非得是靈魂能夠對話、精神可以共鳴，並肩作戰對抗世界的隊友</li>
+        <li>透過養狗，本人規律分泌 Oxytocin，因此感情不是剛需，也不是情緒補給</li>
       </ul>
       <br />
       <br />

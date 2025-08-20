@@ -21,7 +21,12 @@
 
 <script setup lang="ts">
   import HeroBanner from '../components/HeroBanner.vue'
-  const events = [
+const events = [
+    {
+      date: '2025-08',
+      title: '完成初次的內觀（Vipassana)十日課程 🪔',
+      description: '在嘉義中心學習這項由佛陀傳承的心靈淨化方法。佛陀是一位徹底的務實主義者，而內觀則是一種可重複實踐、具科學性的自我觀察方法。在課程中，也認識了許多真誠、質樸且有深度的同修。',
+    },
     {
       date: '2025-04',
       title: '離開田中系統｜入坑泰語拼字 😵‍💫',

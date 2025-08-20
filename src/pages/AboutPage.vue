@@ -21,9 +21,15 @@
       <br />
       <p class="dark:text-white">
         Nihao，我是 Yuan。<br /><br />
-        自 2024 年起開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />偏好簡潔的架構，樂於嘗試不同框架與工具。<br /><br />
-        此網站紀錄生活、學習、整理想法等用途。<br /><br />
-        <!-- 👉 <a href="你的使用說明書連結">個人使用說明書</a> -->
+        自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />偏好簡潔的架構，樂於嘗試不同框架與工具。<br /><br />
+        此網站作為個人網站，紀錄生活趣聞與里程碑、學習心得等用途。<br /><br />
+        <a
+          href="https://yuanologue.com/#/user-manual"
+          class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+        >
+          <span class="text-xl">👉</span>
+          <span class="text-sm">欲了解更多請參閱我的使用說明書</span>
+        </a>
       </p>
       <div class="flex flex-wrap gap-4 w-full mt-5 mb-5">
         <!-- GitHub -->
