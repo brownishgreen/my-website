@@ -2,7 +2,7 @@
   <HeroBanner
     bgImage="https://images.unsplash.com/photo-1684682025585-1d77e17ec2f0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     emoji="👽"
-    title="About me and this website"
+    title="About"
     subtitle=""
   />
   <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
@@ -21,8 +21,8 @@
       <br />
       <p class="dark:text-white">
         Nihao，我是 Yuan。<br /><br />
-        自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />偏好簡潔的架構，樂於嘗試不同框架與工具。<br /><br />
-        此網站作為個人網站，紀錄生活趣聞與里程碑、學習心得等用途。<br /><br />
+        自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />樂於嘗試不同框架與工具。<br /><br />
+        此網站作為個人網站，展示專案與學習筆記之餘也紀錄生活趣聞與里程碑。<br /><br />
         <a
           href="https://yuanologue.com/#/user-manual"
           class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"

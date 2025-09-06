@@ -32,7 +32,7 @@ import AppSheetCRM from '../pages/projects/AppSheetCRM.vue'
 import MySite from '../pages/projects/MySite.vue'
 
 //Books
-import Books from '../pages/Books/Books.vue'
+// import Books from '../pages/Books/Books.vue'
 
 //Notes
 import NotesHome from '../pages/notes/NotesHome.vue'
@@ -138,11 +138,11 @@ const routes = [
     name: 'MySite',
     component: MySite,
   },
-  {
-    path: '/books',
-    name: 'Books',
-    component: Books,
-  },
+  // {
+  //   path: '/books',
+  //   name: 'Books',
+  //   component: Books,
+  // },
   {
     path: '/coding-notes',
     name: 'coding-note',

@@ -110,7 +110,7 @@
     {
       emoji: '💻',
       name: 'Coding Notes',
-      link: 'coding-notes',
+      link: 'https://shell-puppy-7d9.notion.site/Notes-17310968adb580b59b54e02f7b19bbdd',
     },
     {
       emoji: '📚',
@@ -121,6 +121,24 @@
 
   const sections = [
     {
+      imageSrc:
+        'https://images.unsplash.com/photo-1629904888099-00285934292b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      articleTitle: 'Projects',
+      items: projects,
+    },
+        {
+      imageSrc:
+        'https://images.unsplash.com/photo-1591745742384-ee81ec590924?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      articleTitle: 'Notes & Essays',
+      items: links,
+    },
+    {
+      imageSrc:
+        'https://images.unsplash.com/photo-1511992243105-2992b3fd0410?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200',
+      articleTitle: 'Captured Flash',
+      items: capturedFlash,
+    },
+    {
       imageSrc: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200',
       articleTitle: 'Essays',
       items: essays,
@@ -129,24 +147,6 @@
       imageSrc: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749467606/IMG_6440_d3fg8v.jpg',
       articleTitle: 'Journeys',
       items: journeys,
-    },
-    {
-      imageSrc:
-        'https://images.unsplash.com/photo-1629904888099-00285934292b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      articleTitle: 'Projects',
-      items: projects,
-    },
-    {
-      imageSrc:
-        'https://images.unsplash.com/photo-1591745742384-ee81ec590924?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      articleTitle: 'Notes & Reading',
-      items: links,
-    },
-    {
-      imageSrc:
-        'https://images.unsplash.com/photo-1511992243105-2992b3fd0410?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200',
-      articleTitle: 'Captured Flash',
-      items: capturedFlash,
     },
   ]
 </script>
@@ -168,7 +168,7 @@
       max-width: 100%;
     }
 
-    @media (min-width: 1536px) {
+    @media (min-width: 1024px) {
       column-count: 2;
     }
   }

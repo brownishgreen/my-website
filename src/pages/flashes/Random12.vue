@@ -70,8 +70,7 @@
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879770/%E5%8F%B0%E5%8D%97%E4%BA%94%E6%A2%9D%E6%B8%AF_%E9%83%AD%E6%9F%8F%E5%B7%9D1944_%E7%84%A1%E6%A1%86_sgxonj.jpg',
       videoURL: '',
       alt: '',
-      figcaption:
-        '郭柏川的台南五條港是我在美術館裡駐足欣賞最久的作品。色調內斂、筆觸粗樸卻不草率，靜靜凝視著感受到的是歲月沉澱後留下的樸實與溫柔，以及胸口悶悶的想掉眼淚。',
+      figcaption: '郭柏川的台南五條港。色調內斂、筆觸樸實、溫柔，以及胸口悶悶的想掉眼淚。',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879772/A2254E22-404C-48E2-AAB7-46FF88213868_1_201_a_tgvzbr.jpg',

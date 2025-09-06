@@ -1,6 +1,6 @@
 <template>
   <HeroBanner
-    bgImage="https://res.cloudinary.com/dube3xzga/image/upload/v1753616519/photo-1560427450-00fa9481f01e%E5%89%AF%E6%9C%AC_ybiskf.jpg"
+    bgImage="https://images.unsplash.com/photo-1515696955266-4f67e13219e8?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     emoji="📖"
     title="User Manual"
     subtitle=""
@@ -19,7 +19,7 @@
           <li>建立共識，達到互動效率</li>
         </ol>
         <p class="mb-4 dark:text-white">
-          而我帶著無比的謙遜與榮幸，感謝你閱讀這份使用說明，希望也能讀到你的使用說明書。
+          感謝你閱讀這份使用說明，希望也能讀到你的使用說明書。
         </p>
         <p class="text-gray-500 text-xs">最後更新時間：2025/08/20</p>
       </div>
@@ -27,7 +27,7 @@
       <h2 class="text-xl mt-3 mb-3 dark:text-white">♟️ 更新此刻，我正在投入的事情</h2>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>學習如何休息</li>
-        <li>系統化複習與整理網頁開發的知識</li>
+        <li>複習與整理網頁開發的知識</li>
         <li>完成泰語拼字學習，以能閱讀泰語版小王子為階段目標</li>
         <figure class="w-full md:w-full mt-5">
           <img
@@ -44,7 +44,7 @@
       <p class="text-sm mt-1 mb-3 dark:text-white">
         克利夫頓優勢是一項由 Don Clifton
         主導開發的人才評估工具，旨在幫助人們認識並發揮自身的天賦強項。這項測驗由他在擔任蓋洛普公司（Gallup,
-        Inc.）董事長期間開發。<br><br>以下是我於 2022 年 6 月時在 Gallup 測出的前五天賦。
+        Inc.）董事長期間開發。<br /><br />以下是我於 2022 年 6 月時在 Gallup 測出的前五天賦。
       </p>
 
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -94,7 +94,7 @@
         <li>認為事情一定有更好的方式、工具可以讓它更有效率，持續並主動優化</li>
         <li>自知不是天才型的頂級人才，開局或許稍嫌遲緩，技能點起來（上手）後挺凱瑞的</li>
         <li>自己的任務完成後樂於主動協助團隊其他成員。</li>
-        <li>不擺架子個性好，均衡團隊裡一顆正向的螺絲釘、一罐溫暖的潤滑劑 😉</li>
+        <li>不擺架子個性好，均衡團隊裡一顆正向的螺絲釘、一罐溫暖的潤滑劑</li>
         <li>專注、深度導向，不喜浮於表面或無意義的忙碌 / 會議</li>
         <li>交代任務時明確告訴我你的需求，並制定階段性對頻會議，但過程不干涉，我會表現得比較好</li>
         <li>重視專心時間，喜歡非同步溝通，喜歡思緒不會突然被打斷</li>
@@ -108,11 +108,7 @@
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>正在練習主動與珍視的人保持規律互動，維繫情誼</li>
         <li>
-          雖擅長察覺但不擅處理他人的脆弱與情緒出口，正在學習如何「有效陪伴」而非「上帝視角的說教」
-        </li>
-        <li>界線感太強，毛豎起來時會讓關心我的人無從靠近，正在練習對家人和摯友更寬鬆。</li>
-        <li>
-          傾向根據生活經驗快速判斷他人，自動貼上標籤。雖然這能幫助我快速做出預測與篩選，但也可能錯過真正了解一個人當下狀態與改變的機會。正在練習暫停判斷，用「觀察、更多互動、不定義」的方式與人互動，避免錯過可能的發展
+          傾向根據生活經驗快速判斷他人，正在學習更開放觀察
         </li>
         <li>永遠保持更多的傾聽，思考，再輸出。</li>
       </ul>
@@ -122,11 +118,7 @@
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>永遠保持謙虛，終其一生持續學習。因為世界是無常的、隨時都在變化的</li>
         <li>心理健康和生理健康一樣重要</li>
-        <li>對於自己的情緒、狀態與慣性具高度覺察，也願意面對真相與不舒服</li>
         <li>遇到挫折時先內觀，不把責任推向他人或環境</li>
-        <li>知道自己在「高效期」與「低潮期」時的差異，懂得調整節奏</li>
-        <li>對內心的慾望與恐懼有文字化的能力，能清楚描述自己的心理狀態寫在日記裡</li>
-        <li>能從外界的衝突或情緒波動中反推自己內部未解的問題，並記下來觀察</li>
       </ul>
       <br />
       <br />
@@ -134,8 +126,6 @@
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>為了某個明確方向長期持續投入的過程，讓我感到充實而平靜</li>
         <li>了解自己為何而做每一件事更能激發我，反之會感到無力和混亂</li>
-        <li>接觸新事物時會感到興奮</li>
-        <li>享受 「一團亂 ➡️ 有秩序」 的過程</li>
         <li>他人因為我的存在、方式、或我做過的事而感到有所收穫，比直接稱讚我更有重量。</li>
       </ul>
       <br />
@@ -148,29 +138,27 @@
         <li>面對衝突時，不急於回應，不與憤怒或混亂的人爭論，寧可拉開距離</li>
       </ul>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">👓 哲學</h2>
+      <!-- <h2 class="text-xl mt-3 mb-3 dark:text-white">👓 哲學</h2>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>
-          不急著為人生大哉問給出答案（例如：生命的意義），太多問題是用模糊的詞彙堆疊起來的，看似重要，實則無解。
+          不急著為人生大哉問給出答案（例：生命意義），太多問題是用模糊的詞彙堆疊起來的，看似重要，實則無解。
         </li>
-        <li>關心「事情如何運作」，而非「事情該怎麼看待」</li>
         <li>
           事實本身是中性的，情緒則是人類主觀經驗的映射，也應該是中性的。兩者都值得觀察，但不必過度著墨
-        </li>
-        <li>很多人追求的「成功」只是一個社會共識包裝過的幻象</li>
-        <li>
+        </li> -->
+        <!-- <li>
           不會被「一定要有目標」的說法綁架，有時清醒的存在就已足夠，很多人一生做不到清醒的存在著
-        </li>
-        <li>快樂是短暫的，保持平靜比追求快樂重要多了</li>
-      </ul>
-      <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">🦦 關係</h2>
+        </li> -->
+        <!-- <li>快樂是短暫的，保持平靜比追求快樂重要多了</li> -->
+      <!-- </ul>
+      <br /> -->
+      <!-- <h2 class="text-xl mt-3 mb-3 dark:text-white">🦦 關係</h2>
       <ul class="list-disc list-inside space-y-1 dark:text-white">
         <li>會走心的類型 1.強者 2.靈魂純善</li>
         <li>暗戀是浪漫的，暗戀是我的個人行為，與對方無關</li>
         <li>若要走入一段關係，非得是靈魂能夠對話、精神可以共鳴，並肩作戰對抗世界的隊友</li>
         <li>透過養狗，本人規律分泌 Oxytocin，因此感情不是剛需，也不是情緒補給</li>
-      </ul>
+      </ul> -->
       <br />
       <br />
     </div>

@@ -9,8 +9,8 @@
     class="about-container bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="mb-5 mt-5 dark:text-white">
-        考量 GCP/Vercel/Render 的使用費，目前專案已停止部署，請透過導覽影片瀏覽功能與畫面。
+      <p class="mb-5 mt-5 dark:text-white deploy-notice">
+        由於 GCP/Vercel/Render 的使用費關係，目前專案已停止部署，請透過導覽影片瀏覽功能與畫面。
       </p>
       <iframe
         width="560"
@@ -215,3 +215,9 @@
 <script lang="ts" setup>
   import HeroBanner from '../../components/HeroBanner.vue'
 </script>
+
+<style scoped>
+  .deploy-notice{
+    color: darkred;
+}
+</style>
