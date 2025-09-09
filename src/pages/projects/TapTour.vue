@@ -10,7 +10,7 @@
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
       <p class="mb-5 mt-5 dark:text-white deploy-notice">
-        由於 GCP/Vercel/Render 的使用費關係，目前專案已停止部署，請透過導覽影片瀏覽功能與畫面。
+        為免 GCP / Vercel / Render 持續產生使用費，目前專案已停止部署，請透過專案簡報 / 導覽影片瀏覽功能與畫面。
       </p>
       <iframe
         width="560"

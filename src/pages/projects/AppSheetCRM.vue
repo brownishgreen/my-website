@@ -69,7 +69,7 @@
       <h2 class="text-xl mt-3 mb-3 dark:text-white">應用程式介紹</h2>
       <h3 class="text-lg mt-3 mb-3 text-blue-500">Dashboard：決策者的即時數據總覽</h3>
       <p class="mt-5 dark:text-white">
-        mt在任何業務型組織中，決策者與企業主都需要即時掌握關鍵營運數據。本 CRM 模板的 Dashboard
+        在任何業務型組織中，決策者與企業主都需要即時掌握關鍵營運數據。本 CRM 模板的 Dashboard
         提供視覺化的銷售指標，包括：成交率、開放中的交易數量、潛在客戶數、各業務人員成交率比較，也可以隨時調整篩選器顯示不同產品線的銷售成效等。透過這些數據，管理層能迅速辨識出績效卓越或需支援的業務人員，並即時調整行銷與銷售策略，達成提升獲利與市場占有率的目標。
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -157,7 +157,7 @@
             class="w-full rounded-md shadow-md object-cover"
           />
           <figcaption class="mt-2 text-xs text-gray-600 text-center">
-            業務分機 Mobile View
+            業務分析 Mobile View
           </figcaption>
         </figure>
 
