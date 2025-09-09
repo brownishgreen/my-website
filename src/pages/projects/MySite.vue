@@ -106,7 +106,6 @@
         <li><strong>Vue Router</strong>：處理多頁面與路由導向</li>
         <li><strong>Tailwind CSS</strong>：輕量的原子化 CSS 框架，快速打造簡約一致的風格</li>
         <li><strong>Prettier + ESLint</strong>：維持統一的程式碼風格與靜態檢查</li>
-        <li><strong>PostCSS + Autoprefixer</strong>：自動補齊瀏覽器前綴，提高 CSS 相容性</li>
         <li><strong>Sass</strong>：部分排版、樣式邏輯複用與更清晰的結構管理</li>
       </ul>
     </div>

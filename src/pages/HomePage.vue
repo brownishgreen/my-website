@@ -112,11 +112,11 @@
       name: 'Coding Notes',
       link: 'https://shell-puppy-7d9.notion.site/Notes-17310968adb580b59b54e02f7b19bbdd',
     },
-    {
-      emoji: '📚',
-      name: 'Books',
-      link: 'books',
-    },
+    // {
+    //   emoji: '📚',
+    //   name: 'Books',
+    //   link: 'books',
+    // },
   ]
 
   const sections = [
