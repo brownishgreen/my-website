@@ -5,8 +5,9 @@ import Changelog from '../pages/Changelog.vue'
 import UserManual from '../pages/UserManual.vue'
 
 //Essays
-import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
-import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
+// import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
+// import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
+import ChangeOfQuaility from '../pages/essays/2025/ChangeOfQuaility.vue'
 
 //Journeys
 import OrchidIsland25 from '../pages/journeys/OrchidIsland25.vue'
@@ -29,7 +30,7 @@ import SutraReader from '../pages/projects/SutraReader.vue'
 import TapTour from '../pages/projects/TapTour.vue'
 import AppSheetCRM from '../pages/projects/AppSheetCRM.vue'
 
-import MySite from '../pages/projects/MySite.vue'
+// import MySite from '../pages/projects/MySite.vue'
 
 //Books
 // import Books from '../pages/Books/Books.vue'
@@ -53,15 +54,20 @@ const routes = [
     name: 'Changelog',
     component: Changelog,
   },
+  // {
+  //   path: '/essays/thirty-two',
+  //   name: 'thirty-two',
+  //   component: ThirtyTwo,
+  // },
+  // {
+  //   path: '/essays/learn-how-to-learn',
+  //   name: 'learn how to learn',
+  //   component: LearnHowToLearn,
+  // },
   {
-    path: '/essays/thirty-two',
-    name: 'thirty-two',
-    component: ThirtyTwo,
-  },
-  {
-    path: '/essays/learn-how-to-learn',
-    name: 'learn how to learn',
-    component: LearnHowToLearn,
+    path: '/essays/change-of-quality',
+    name: 'change-of-quality',
+    component: ChangeOfQuaility
   },
   {
     path: '/journeys/austria-24',
@@ -133,11 +139,11 @@ const routes = [
     name: 'AppSheetCRM',
     component: AppSheetCRM,
   },
-  {
-    path: '/projects/my-site',
-    name: 'MySite',
-    component: MySite,
-  },
+  // {
+  //   path: '/projects/my-site',
+  //   name: 'MySite',
+  //   component: MySite,
+  // },
   // {
   //   path: '/books',
   //   name: 'Books',

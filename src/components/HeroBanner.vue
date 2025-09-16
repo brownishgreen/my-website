@@ -4,7 +4,7 @@
     <div class="hero__content">
       <div class="hero__emoji">{{ emoji }}</div>
       <h1 class="dark:text-white hero__title">{{ title }}</h1>
-      <p v-if="subtitle" class="dark:text-white hover:text-blue-500 hero__subtitle">
+      <p v-if="subtitle" class="leading-relaxed dark:text-white hover:text-blue-500 hero__subtitle">
         {{ subtitle }}
       </p>
     </div>
@@ -52,7 +52,6 @@
 
     &__title {
       font-size: 2rem;
-      font-weight: bold;
 
       @media (max-width: 768px) {
         font-size: 1.2rem;
@@ -60,7 +59,7 @@
     }
 
     &__subtitle {
-      color: gray;
+      color: rgb(220, 219, 219);
       font-size: 1rem;
 
       @media (max-width: 768px) {

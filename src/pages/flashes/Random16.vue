@@ -44,19 +44,19 @@
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749720922/IMG_0108_arkvb5.jpg',
       videoURL: '',
       alt: '202503｜陽明山',
-      figcaption: '202503｜陽明山',
+      figcaption: '202503 的陽明山',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749720921/IMG_0138_heki5o.jpg',
       videoURL: '',
       alt: '202503｜陽明山',
-      figcaption: '202503｜陽明山',
+      figcaption: '202503 的陽明山',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749720929/IMG_0116_jafc26.jpg',
       videoURL: '',
       alt: '202503｜夢幻湖',
-      figcaption: '202503｜夢幻湖',
+      figcaption: '202503 的夢幻湖',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749720897/IMG_0128_u8mfeq.jpg',
@@ -116,7 +116,7 @@
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749720890/dbb96aee-34d4-4688-856b-33ced8af4bad_ka6see.png',
       videoURL: '',
       alt: '',
-      figcaption: '',
+      figcaption: '總是起早的草莓公主小愛',
     },
     {
       url: '',

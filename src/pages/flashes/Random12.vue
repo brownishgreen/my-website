@@ -85,30 +85,30 @@
       figcaption:
         '20240724 妹妹回台灣，這麼小的身體扛了四個行李回來，旅程上很幸運的得到人們的幫忙。',
     },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879766/1B073C3F-48DB-4580-98DA-CBAA634FC224_1_201_a_wqarcr.jpg',
-      videoURL: '',
-      alt: '',
-      figcaption: '當日是颱風天很多航班都取消了，萬幸！',
-    },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879766/AFD82225-49CD-40E3-9BCD-07E649C890F6_1_201_a_jkc3ue.jpg',
-      videoURL: '',
-      alt: '',
-      figcaption: '老伯要哭了',
-    },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879772/d317b314-ddde-48a9-b9f8-dc9d83cb206e_qgluji.png',
-      videoURL: '',
-      alt: '',
-      figcaption: '',
-    },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879768/71c79607-bef3-4f77-8ee0-5aea825c5cb4_vjbl6c.png',
-      videoURL: '',
-      alt: '',
-      figcaption: '',
-    },
+    // {
+    //   url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879766/1B073C3F-48DB-4580-98DA-CBAA634FC224_1_201_a_wqarcr.jpg',
+    //   videoURL: '',
+    //   alt: '',
+    //   figcaption: '當日是颱風天很多航班都取消了，萬幸！',
+    // },
+    // {
+    //   url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879766/AFD82225-49CD-40E3-9BCD-07E649C890F6_1_201_a_jkc3ue.jpg',
+    //   videoURL: '',
+    //   alt: '',
+    //   figcaption: '老伯要哭了',
+    // },
+    // {
+    //   url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879772/d317b314-ddde-48a9-b9f8-dc9d83cb206e_qgluji.png',
+    //   videoURL: '',
+    //   alt: '',
+    //   figcaption: '',
+    // },
+    // {
+    //   url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879768/71c79607-bef3-4f77-8ee0-5aea825c5cb4_vjbl6c.png',
+    //   videoURL: '',
+    //   alt: '',
+    //   figcaption: '',
+    // },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879771/C4835D9C-3CD4-476C-AFEA-670082CD9075_1_201_a_tgqg35.jpg',
       videoURL: '',
@@ -151,18 +151,18 @@
       alt: '',
       figcaption: '即將成為保鮮盒大亨的我幫點數們拍一張遺照：D',
     },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879757/58C826B6-AEED-4D03-8271-CF69CA1A31B4_1_201_a_t5ho4f.jpg',
-      videoURL: '',
-      alt: '',
-      figcaption: '拍給梁君璞給她看我有多壯(?)。',
-    },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879762/C358F135-5297-4CCC-B291-9BC016497B85_1_201_a_lqfg3o.jpg',
-      videoURL: '',
-      alt: '',
-      figcaption: '20240316 很久沒跟梁君璞吃飯，這次之後也很少吃飯。',
-    },
+    // {
+    //   url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879757/58C826B6-AEED-4D03-8271-CF69CA1A31B4_1_201_a_t5ho4f.jpg',
+    //   videoURL: '',
+    //   alt: '',
+    //   figcaption: '拍給梁君璞給她看我有多壯(?)。',
+    // },
+    // {
+    //   url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879762/C358F135-5297-4CCC-B291-9BC016497B85_1_201_a_lqfg3o.jpg',
+    //   videoURL: '',
+    //   alt: '',
+    //   figcaption: '20240316 很久沒跟梁君璞吃飯，這次之後也很少吃飯。',
+    // },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879762/48919DA6-926C-4891-BB11-CAE776A8345E_1_201_a_npxdsq.jpg',
       videoURL: '',
@@ -239,19 +239,13 @@
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879752/3F2A57BF-E50C-4280-A20E-28FA76AD546F_1_105_c_b1llyq.jpg',
       videoURL: '',
       alt: '',
-      figcaption: '在新加坡買給恩質的史瑞克書包，要不是放不下電腦我真想也來一個。',
+      figcaption: '在環球買給恩質的史瑞克書包，要不是放不下電腦我真想也來一個。',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879753/78F54AEF-E0E5-4DDD-817E-F23A5B3F1D98_1_105_c_tu5srj.jpg',
       videoURL: '',
       alt: '',
       figcaption: '',
-    },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879752/664B728A-9862-4E68-A6F7-E0BF946ED44E_1_105_c_bfoovm.jpg',
-      videoURL: '',
-      alt: '',
-      figcaption: '公司裝潢完換成升降桌。假日把電腦帶過去先佈置好',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879752/B8EECA68-95C7-43DA-8038-B13CF451C403_1_201_a_pis6sm.jpg',
@@ -354,7 +348,7 @@
       videoURL: '',
       alt: '',
       figcaption:
-        'Brucer，梁君璞的狗，有一次他肚子痛沒力氣發狂，我一直揉他的腹部，後來他愛了我一輩子。',
+        'Bubu forever',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879741/E631CC3C-741B-4A43-A2CF-B515839170BD_1_105_c_p5dj4o.jpg',
@@ -367,12 +361,6 @@
       videoURL: '',
       alt: '',
       figcaption: '臣服吧我可愛的子民',
-    },
-    {
-      url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879740/FE297936-6FF6-451B-B535-6FBD2E8ABCBC_1_105_c_wqd6bx.jpg',
-      videoURL: '',
-      alt: '',
-      figcaption: '上班第一天，SLACK 還沒想到適合的頭像 😂',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879739/2D516CEC-107B-4169-BDF6-4E747FB78319_1_105_c_xeof9q.jpg',

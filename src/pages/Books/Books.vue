@@ -16,12 +16,6 @@
         “I don't want to read all the books; I just want to read the best 100 over and over again.”
         <span class="block text-xs mt-2 text-zinc-500">—— @illacertus</span>
       </blockquote>
-      <p class="mt-5 dark:text-white">
-        這個頁面收錄的是我心中值得反覆閱讀的書單。它們在我人生某個階段提供了關鍵的啟發與支撐。
-      </p>
-      <p class="mt-5 dark:text-white">
-        有些書讓我調整了看世界的角度，有些則幫助我活得更清醒。也有些書在我迷惘時，像盞燈領著我前行。
-      </p>
       <div class="max-w-7xl mx-auto px-4 py-10">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
           <BookCard v-for="book in books" :key="book.title" v-bind="book" />

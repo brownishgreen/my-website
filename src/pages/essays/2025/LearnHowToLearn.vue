@@ -7,7 +7,6 @@
   />
   <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
     <div class="article-container">
-      <div class="flex flex-row gap-6 items-start"></div>
       <h2 class="text-md mt-3 mb-3 dark:text-white">
         <strong>|</strong> 此篇紀錄 2024 學習如何學習的心得。
       </h2>

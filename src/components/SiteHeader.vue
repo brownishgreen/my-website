@@ -8,7 +8,7 @@
         to="/"
         class="text-zinc-700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-100 ease-in-out"
       >
-        🌜Project Yuan🌛
+        Project Yuan
       </router-link>
 
       <!-- Hamburger Icon -->

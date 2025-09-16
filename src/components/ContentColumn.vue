@@ -5,7 +5,7 @@
 
     <!-- Content -->
     <div class="p-4 bg-stone-100/60 dark:bg-zinc-800/60 transition-all duration-[1500ms]">
-      <h2 class="text-lg font-semibold mb-3 dark:text-white">{{ articleTitle }}</h2>
+      <h2 class="text-lg font-medium mb-3 dark:text-white">{{ articleTitle }}</h2>
       <ul class="space-y-1 dark:text-white">
         <li v-for="(item, index) in items" :key="index">
           <!--External Link <a> -->

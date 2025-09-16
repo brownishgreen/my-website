@@ -20,7 +20,7 @@
       <h3 class="text-xl mt-3 mb-3 dark:text-white">關於我</h3>
       <br />
       <p class="dark:text-white">
-        Nihao，我是 Yuan。<br /><br />
+        你好，我是 Yuan。<br /><br />
         自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />樂於嘗試不同框架與工具。<br /><br />
         此網站作為個人網站，展示專案與學習筆記之餘也紀錄生活趣聞與里程碑。<br /><br />
         <a
@@ -85,6 +85,5 @@
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
-    padding-bottom: 100px;
   }
 </style>
