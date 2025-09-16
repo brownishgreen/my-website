@@ -58,48 +58,48 @@ const essays = [
     },
   ]
 
-  const journeys = [
-    {
-      emoji: '🏝️',
-      name: 'Orchid Island, Taiwan 25',
-      link: '/journeys/lanyu-25',
-    },
-    {
-      emoji: '🇦🇹',
-      name: 'Austria 24',
-      link: '/journeys/austria-24',
-    },
-    {
-      emoji: '🇭🇺',
-      name: 'Budapest, Hungary 24',
-      link: '/journeys/budapest-24',
-    },
-    {
-      emoji: '🇨🇿',
-      name: 'Český Krumlov, Česko 24',
-      link: '/journeys/cesky-krumlov-24',
-    },
-    {
-      emoji: '🇹🇭',
-      name: 'Bangkok, Thailand 24',
-      link: '/journeys/bangkok-24',
-    },
-    {
-      emoji: '🇯🇵',
-      name: 'Nagoya, Japan 23',
-      link: '/journeys/nagoya-23',
-    },
-    {
-      emoji: '🇸🇬',
-      name: 'Singapura 23',
-      link: '/journeys/singapura-23',
-    },
-    {
-      emoji: '🇲🇾',
-      name: 'Pulau Mabul, Malaysia 22',
-      link: '/journeys/pulau-mabul-22',
-    },
-  ]
+  // const journeys = [
+  //   {
+  //     emoji: '🏝️',
+  //     name: 'Orchid Island, Taiwan 25',
+  //     link: '/journeys/lanyu-25',
+  //   },
+  //   {
+  //     emoji: '🇦🇹',
+  //     name: 'Austria 24',
+  //     link: '/journeys/austria-24',
+  //   },
+  //   {
+  //     emoji: '🇭🇺',
+  //     name: 'Budapest, Hungary 24',
+  //     link: '/journeys/budapest-24',
+  //   },
+  //   {
+  //     emoji: '🇨🇿',
+  //     name: 'Český Krumlov, Česko 24',
+  //     link: '/journeys/cesky-krumlov-24',
+  //   },
+  //   {
+  //     emoji: '🇹🇭',
+  //     name: 'Bangkok, Thailand 24',
+  //     link: '/journeys/bangkok-24',
+  //   },
+  //   {
+  //     emoji: '🇯🇵',
+  //     name: 'Nagoya, Japan 23',
+  //     link: '/journeys/nagoya-23',
+  //   },
+  //   {
+  //     emoji: '🇸🇬',
+  //     name: 'Singapura 23',
+  //     link: '/journeys/singapura-23',
+  //   },
+  //   {
+  //     emoji: '🇲🇾',
+  //     name: 'Pulau Mabul, Malaysia 22',
+  //     link: '/journeys/pulau-mabul-22',
+  //   },
+  // ]
 
   const fragments = [
     { emoji: '☕️', name: 'Random 16', link: '/flashes/random-16' },
