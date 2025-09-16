@@ -113,6 +113,16 @@ const essays = [
       name: 'DEV notes',
       link: 'https://shell-puppy-7d9.notion.site/Notes-17310968adb580b59b54e02f7b19bbdd',
     },
+    {
+      emoji: '📕',
+      name: '吳靖遠的使用說明書',
+      link: '/user-manual',
+    },
+    {
+      emoji: '🚩',
+      name: 'Changelog',
+      link: '/changelog',
+    },
 
     // {
     //   emoji: '📚',
