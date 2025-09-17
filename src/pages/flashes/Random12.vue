@@ -347,8 +347,7 @@
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879741/77324B85-6B81-4335-9D5D-F1EA26347D78_1_105_c_vphxlw.jpg',
       videoURL: '',
       alt: '',
-      figcaption:
-        'Bubu forever',
+      figcaption: 'Bubu forever',
     },
     {
       url: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749879741/E631CC3C-741B-4A43-A2CF-B515839170BD_1_105_c_p5dj4o.jpg',

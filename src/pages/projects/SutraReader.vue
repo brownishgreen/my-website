@@ -140,11 +140,12 @@
       </div>
       <h2 class="text-xl mt-3 mb-3 dark:text-white">Tech Stack 技術棧</h2>
       <ul class="mt-5 dark:text-white">
-        <li>-
-          <span class="font-semibold">Vue 3</span>・Composition API +
+        <li>
+          - <span class="font-semibold">Vue 3</span>・Composition API +
           <code class="bg-gray-100 text-pink-600 px-1 rounded">&lt;script setup&gt;</code>
         </li>
-        <li>-
+        <li>
+          -
           <span class="font-semibold">TypeScript</span>
         </li>
         <li>- <span class="font-semibold">Vite</span> 開發環境</li>

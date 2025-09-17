@@ -10,7 +10,8 @@
       <p class="dark:text-white mt-10">
         2024 年 1
         月份，我們一行人探訪了泰國，團聚在一起的時間不多，除了快樂神仙草、動物園行程與湄南河郵輪晚餐之外的時間都是拆散的，大家各自上中下路自己分好來
-        explore Bangkok，我們這一組叫做 Triple W，成員有我跟 Xavier、Brian 和 Carol，三個臭男生配一個可愛的女孩子。<br />
+        explore Bangkok，我們這一組叫做 Triple W，成員有我跟 Xavier、Brian 和
+        Carol，三個臭男生配一個可愛的女孩子。<br />
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 -->

@@ -45,7 +45,7 @@
           >
           <button
             @click="toggleTheme"
-            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-100 ease-in-out"
+            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-100 ease-in-out"
             title="toggle theme mode"
           >
             <svg

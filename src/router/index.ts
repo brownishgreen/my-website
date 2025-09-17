@@ -8,6 +8,7 @@ import UserManual from '../pages/UserManual.vue'
 // import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
 // import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
 import ChangeOfQuaility from '../pages/essays/2025/ChangeOfQuaility.vue'
+import Vipassana from '../pages/essays/2025/Vipassana.vue'
 
 //Journeys
 import OrchidIsland25 from '../pages/journeys/OrchidIsland25.vue'
@@ -67,7 +68,12 @@ const routes = [
   {
     path: '/essays/change-of-quality',
     name: 'change-of-quality',
-    component: ChangeOfQuaility
+    component: ChangeOfQuaility,
+  },
+  {
+    path: '/essays/vipassana',
+    name: 'vipassana',
+    component: Vipassana,
   },
   {
     path: '/journeys/austria-24',
