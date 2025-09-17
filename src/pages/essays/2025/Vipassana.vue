@@ -2,7 +2,7 @@
   <HeroBanner
     bgImage="https://images.unsplash.com/photo-1738504063477-24272ab08405?q=80&w=3732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     emoji="🧘🏾"
-    title="A Ten-Day Vipassana Retrospective 十日內觀回顧"
+    title="Vipassana Retrospective 十日內觀回顧"
     subtitle=""
   />
   <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
