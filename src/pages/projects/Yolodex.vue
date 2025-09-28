@@ -9,17 +9,13 @@
     class="about-container bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="dark:text-white">
-        A lightweight single-page CRM for managing contacts and their interactions. The split-panel
-        UI lets you search, sort, create, edit, delete contacts and log calls / emails / meetings on
-        a tidy timeline. Built with Vue 3, Vite and TypeScript, fully responsive. <br />
-        <br />
-        靈感來自五零年代的 Rolodex 旋轉式名片架。 Yolodex 是一款極簡
-        CRM，左側列表＋右側詳情同步更新，可為每位聯絡人新增「通話 / 信件 /
-        會議」等互動紀錄、你可以使用分類項目篩選出想要的清單並匯出。<br />
-        RWD 設計，Vue 3、Vite、TypeScript 打造。<br />
-        讓你透過一張張小卡片紀錄每段生命裡的美好情誼。
-      </p>
+      <p class="dark:text-white"> 
+        Yolodex 是一個以 Vue 3、TypeScript、Vite 打造的輕量 CRM。<br> 
+        靈感來自 1950 年代的 Rolodex 旋轉名片架：桌機採「左列清單／右側詳情」的 Master–Detail，清單支援即時搜尋、排序與一鍵 CSV 匯出。行動裝置則以 Modal 呈現詳情。
+        <br><br>
+        資料模型以 TypeScript 定義（Contact／Interaction），並以 Union 字面量型別約束互動類別，讓表單與清單的操作在編譯期即獲得型別保護。應用啟動時，會將 TypeScript fixtures 深拷貝到 in-memory、非持久化的應用狀態；因此所有 CRUD 僅影響前端 state，重新整理即回預設資料。
+        <br><br> 
+        </p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749885124/%E6%88%AA%E5%9C%96_2025-05-08_%E6%99%9A%E4%B8%8A10.40.17_xd7nn7.png"

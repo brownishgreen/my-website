@@ -21,14 +21,14 @@
       <br />
       <p class="dark:text-white">
         你好，我是 Yuan。<br /><br />
-        自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />樂於嘗試不同框架與工具。<br /><br />
-        此網站作為個人網站，展示專案與學習筆記之餘也紀錄生活趣聞與里程碑。<br /><br />
+        自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />
+        這裡是我個人的空間，展示個人專案與學習筆記之餘也紀錄生活趣聞與里程碑。<br /><br />
         <a
           href="https://yuanologue.com/#/user-manual"
           class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
         >
           <span class="text-xl">👉</span>
-          <span class="text-sm">欲了解更多請參閱我的使用說明書</span>
+          <span class="text-sm">欲了解更多請參閱我的個人使用說明書</span>
         </a>
       </p>
       <div class="flex flex-wrap gap-4 w-full mt-5 mb-5">
