@@ -10,8 +10,7 @@
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
       <p class="mb-5 mt-5 dark:text-white deploy-notice">
-        為免 GCP / Vercel / Render 持續產生使用費，目前專案已停止部署，請透過專案簡報 /
-        導覽影片瀏覽功能與畫面。
+        因 GCP / Vercel / Render 會持續產生使用費，目前專案已停止部署，請透過專案簡報與導覽影片瀏覽功能與畫面。
       </p>
       <iframe
         width="560"
@@ -47,24 +46,12 @@
           </li>
           <li>
             <strong>前端：</strong>Vercel
-            <a
-              href="https://tap-tour.vercel.app/"
-              class="text-blue-600 hover:underline"
-              target="_blank"
-            >
-              https://tap-tour.vercel.app/
-            </a>
+              目前專案已停止部署，請透過專案簡報與導覽影片瀏覽功能與畫面。
           </li>
           <li><strong>後端：</strong>Render</li>
           <li>
             <strong>API 文件：</strong>
-            <a
-              href="https://taptour-backend.yuanologue.com/api-docs/"
-              class="text-blue-600 hover:underline"
-              target="_blank"
-            >
-              https://taptour-backend.yuanologue.com/api-docs/
-            </a>
+              目前專案已停止部署，請透過專案簡報與導覽影片瀏覽功能與畫面。
           </li>
           <li><strong>資料庫：</strong>Cloud SQL</li>
           <li><strong>儲存空間：</strong>Cloud Storage</li>
