@@ -198,8 +198,11 @@
       <h2 class="text-xl mt-3 mb-3 dark:text-white">Tech Stack 技術棧</h2>
       <ul class="list-disc pl-6 space-y-2 text-gray-800 dark:text-white">
         <li>
-          <span class="font-semibold">Vue 3</span>・Composition API +
+          <span class="font-semibold">Vue 3</span> Composition API +
           <code class="bg-gray-100 text-pink-600 px-1 rounded">&lt;script setup&gt;</code>
+        </li>
+        <li>
+          <span class="font-semibold">Pinia</span> 狀態管理
         </li>
         <li>
           <span class="font-semibold">TypeScript</span> 強型別模型 (<code

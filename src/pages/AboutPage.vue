@@ -45,7 +45,6 @@
           </svg>
           GitHub
         </a>
-
         <!-- Email -->
         <a
           href="mailto:jjjjjimyuan@gmail.com"

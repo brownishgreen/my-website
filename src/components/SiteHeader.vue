@@ -83,21 +83,21 @@
 <script setup lang="ts">
   import { ref, onMounted, onBeforeUnmount } from 'vue'
 
-  // 狀態
+  // state
   const isMenuOpen = ref(false)
   const isMobile = ref(window.innerWidth <= 768)
   const isDarkMode = ref(false)
 
-  // DOM 元素
+  // DOM elements
   const menuRef = ref<HTMLElement | null>(null)
   const hamburgerRef = ref<HTMLElement | null>(null)
 
-  // 裝置寬度變化時更新狀態
+  // update state when device width changes
   const updateIsMobile = () => {
     isMobile.value = window.innerWidth <= 768
   }
 
-  // 點擊外部自動關閉選單
+  // close menu when clicking outside
   const handleClickOutside = (event: MouseEvent) => {
     const target = event.target as Node
     if (
@@ -110,18 +110,18 @@
     }
   }
 
-  // 深色模式切換
+  // toggle dark mode
   const toggleTheme = () => {
     isDarkMode.value = !isDarkMode.value
     document.documentElement.classList.toggle('dark', isDarkMode.value)
   }
 
-  // 生命週期
+  // lifecycle
   onMounted(() => {
     window.addEventListener('resize', updateIsMobile)
     document.addEventListener('click', handleClickOutside)
     updateIsMobile()
-    // 初始判斷 dark mode 狀態
+    // initial check dark mode state
     isDarkMode.value = document.documentElement.classList.contains('dark')
   })
 
@@ -130,11 +130,12 @@
     window.removeEventListener('resize', updateIsMobile)
   })
 
-  // 對父層拋出 navigate 事件
+  // emit navigate event to parent
   defineEmits(['navigate'])
 </script>
 <style>
-  /* Transition for mobile nav slide + fade */
+
+  /* transition for mobile nav slide + fade */
   .slide-fade-enter-active,
   .slide-fade-leave-active {
     transition: all 0.4s ease-in-out;
