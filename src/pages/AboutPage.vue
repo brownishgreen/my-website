@@ -12,7 +12,7 @@
       <br />
       <br />
       <p class="dark:text-white">
-        Nihao, I’m Yuan 🙂 <br>
+        Nihao, I'm Yuan 🙂 <br>
         A self-taught full-stack software engineer. <br>
         I share bits of my silly little life here.  <br>
 
