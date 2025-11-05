@@ -21,12 +21,18 @@
 
 <script setup lang="ts">
   import HeroBanner from '../components/HeroBanner.vue'
-  const events = [
+const events = [
+    {
+      date: '2025-11',
+      title: '以 33 歲高齡轉職為全端軟體工程師 👨🏾‍💻',
+      description:
+        '帶薪自學 1 年多，休息了 7 個月真是爽啊，重回社會當一隻牛囉 🐄。',
+    },
     {
       date: '2025-08',
       title: '完成初次的內觀（Vipassana)十日課程 🪔',
       description:
-        '在嘉義中心學習這項由佛陀傳承的心靈淨化方法。佛陀是一位徹底的務實主義者，而內觀則是一種可重複實踐、具科學性的自我觀察方法。在課程中，也認識了許多真誠、質樸且有深度的同修。',
+        '在嘉義中心學習這項由佛陀傳承的心靈淨化方法。',
     },
     {
       date: '2025-04',

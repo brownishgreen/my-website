@@ -9,29 +9,17 @@
     <div
       class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
     >
-      <figure class="w-full md:w-full mt-5">
-        <img
-          src="https://res.cloudinary.com/dube3xzga/image/upload/v1749997371/%E6%88%AA%E5%9C%96_2025-06-15_%E6%99%9A%E4%B8%8A10.22.15_c0qznx.png"
-          alt=""
-          class="w-full rounded-md shadow-md object-cover"
-        />
-      </figure>
       <br />
-      <h3 class="text-xl mt-3 mb-3 dark:text-white">關於我</h3>
       <br />
       <p class="dark:text-white">
-        你好，我是 Yuan。<br /><br />
-        自 2024 年開始接觸網頁開發，主要使用 JavaScript，涵蓋前後端技術。<br /><br />
-        這裡是我個人的空間，展示專案與學習筆記之餘也紀錄生活趣聞與里程碑。<br /><br />
-        <a
-          href="https://yuanologue.com/#/user-manual"
-          class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
-        >
-          <span class="text-xl">👉</span>
-          <span class="text-sm">欲了解更多請參閱我的個人使用說明書</span>
-        </a>
+        Nihao, I’m Yuan 🙂 <br>
+        A self-taught full-stack software engineer. <br>
+        I share bits of my silly little life here.  <br>
+
+
+        You can also find me on:
       </p>
-      <div class="flex flex-wrap gap-4 w-full mt-5 mb-5">
+      <div class="flex flex-col gap-4 w-full mt-5 mb-5">
         <!-- GitHub -->
         <a
           href="https://github.com/brownishgreen"
@@ -47,7 +35,7 @@
         </a>
         <!-- Email -->
         <a
-          href="mailto:jjjjjimyuan@gmail.com"
+          href="mailto:wu@yuanologue.com"
           class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
         >
           <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
@@ -55,7 +43,7 @@
               d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 2v.01L12 13 4 6.01V6h16zM4 18V8l8 5 8-5v10H4z"
             />
           </svg>
-          Email
+          Email, wu at yuanologue dot com.
         </a>
 
         <!-- Signal -->
@@ -72,6 +60,8 @@
           Text me on Signal
         </a>
       </div>
+      <br />
+      
     </div>
   </main>
 </template>

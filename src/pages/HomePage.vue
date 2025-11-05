@@ -1,7 +1,7 @@
 <template>
   <HeroBanner
-    bgImage="https://images.unsplash.com/photo-1696578719639-03e6213f39a6?q=80&w=2729&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    emoji="🏛"
+    bgImage="https://images.unsplash.com/photo-1696578719680-de3c7f5be52d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=3029"
+    emoji="🥨"
     title="Project Yuan"
     subtitle="Where I write and collect moments."
   />
@@ -114,16 +114,6 @@
       name: 'DEV notes',
       link: 'https://shell-puppy-7d9.notion.site/Notes-17310968adb580b59b54e02f7b19bbdd',
     },
-    {
-      emoji: '📕',
-      name: '吳靖遠的使用說明書',
-      link: '/user-manual',
-    },
-    {
-      emoji: '🚩',
-      name: 'Changelog',
-      link: '/changelog',
-    },
 
     // {
     //   emoji: '📚',
@@ -135,15 +125,20 @@
   const sections = [
     {
       imageSrc:
+        'https://images.unsplash.com/photo-1591745742384-ee81ec590924?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      articleTitle: 'Essays',
+      items: essays,
+    },
+    {
+      imageSrc:
         'https://images.unsplash.com/photo-1629904888099-00285934292b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       articleTitle: 'Works',
       items: projects,
     },
     {
-      imageSrc:
-        'https://images.unsplash.com/photo-1591745742384-ee81ec590924?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      articleTitle: 'Essays',
-      items: essays,
+      imageSrc: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200',
+      articleTitle: 'Library',
+      items: links,
     },
         {
       imageSrc:
@@ -152,15 +147,11 @@
       items: fragments,
     },
     {
-      imageSrc: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200',
-      articleTitle: 'Library',
-      items: links,
-    },
-    {
       imageSrc: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749467606/IMG_6440_d3fg8v.jpg',
       articleTitle: 'Journeys',
       items: journeys,
     },
+    
   ]
 </script>
 

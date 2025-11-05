@@ -23,7 +23,7 @@
       <!-- Nav Buttons -->
       <transition name="slide-fade">
         <nav
-          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-6 md:right-0 border md:border-0 border-zinc-300 bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
+          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-0 md:right-0 border md:border-0 border-zinc-300 bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
           v-show="!isMobile || isMenuOpen"
           ref="menuRef"
           @mouseleave="isMobile && (isMenuOpen = false)"
