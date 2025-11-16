@@ -93,10 +93,16 @@ html::before {
   background-image: url('https://images.unsplash.com/photo-1682588382872-876b524625ea?q=80&w=2685&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   opacity: 1;
   transition: opacity 1500ms ease-in-out;
+}
+
+/* Use background-attachment: fixed only on desktop for better mobile compatibility */
+@media (min-width: 768px) {
+  html::before {
+    background-attachment: fixed;
+  }
 }
 
 /* Dark Mode background image layer */
@@ -111,10 +117,16 @@ html::after {
   background-image: url('https://images.unsplash.com/photo-1574281193679-789c4602b15c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   opacity: 0;
   transition: opacity 1500ms ease-in-out;
+}
+
+/* Use background-attachment: fixed only on desktop for better mobile compatibility */
+@media (min-width: 768px) {
+  html::after {
+    background-attachment: fixed;
+  }
 }
 
 /* Switch display when Dark Mode is active */
