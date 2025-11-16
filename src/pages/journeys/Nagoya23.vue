@@ -5,9 +5,9 @@
     title="Nagoya, Japan 23"
     subtitle=" "
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <p class="dark:text-white">
         這是一趟獎勵旅遊，同行的小夥伴在 Q1 各自達成偉大成就。我的部分是跟 Brian 還有 Eric 成交 100
@@ -718,10 +718,11 @@
 </script>
 
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
 </style>

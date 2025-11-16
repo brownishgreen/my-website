@@ -5,9 +5,9 @@
     title="Books"
     subtitle="Book I have read"
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <br />
       <blockquote
@@ -31,10 +31,11 @@
   import books from '../../data/books.json'
 </script>
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
 </style>

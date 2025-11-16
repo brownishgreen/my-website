@@ -1,19 +1,19 @@
 <template>
   <header
-    class="sticky top-0 z-50 w-full bg-white dark:bg-zinc-900 border-b border-zinc-100 dark:border-zinc-800 transition-all duration-[1500ms] ease-in-out"
+    class="sticky top-0 z-50 w-full glass-header transition-all duration-[1500ms] ease-in-out"
   >
     <div class="flex items-center justify-between px-6 py-4">
       <!-- Site Title -->
       <router-link
         to="/"
-        class="text-zinc-700 dark:text-white hover:text-blue-500 text-xl font-medium hover:scale-105 duration-100 ease-in-out"
+        class="text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 text-xl font-medium hover:scale-105 duration-[1500ms] ease-in-out"
       >
         Project Yuan 🏛
       </router-link>
 
       <!-- Hamburger Icon -->
       <button
-        class="text-2xl block md:hidden text-zinc-700 dark:text-white"
+        class="text-2xl block md:hidden text-zinc-700 dark:text-zinc-200"
         @click="isMenuOpen = !isMenuOpen"
         ref="hamburgerRef"
       >
@@ -23,29 +23,29 @@
       <!-- Nav Buttons -->
       <transition name="slide-fade">
         <nav
-          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-0 md:right-0 border md:border-0 border-zinc-300 bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
+          class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6 absolute md:static top-16 right-0 md:right-0 border md:border-0 border-zinc-300 glass-menu dark:glass-menu-dark transition-all duration-[1500ms] ease-in-out rounded-lg md:rounded-none p-4 md:p-0 shadow-md md:shadow-none"
           v-show="!isMobile || isMenuOpen"
           ref="menuRef"
           @mouseleave="isMobile && (isMenuOpen = false)"
         >
           <router-link
             to="/about"
-            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-100 ease-in-out"
+            class="w-full md:w-auto text-left text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 hover:scale-105 duration-[1500ms] ease-in-out"
             >About</router-link
           >
           <router-link
             to="/user-manual"
-            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
+            class="w-full md:w-auto text-left text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 hover:scale-105 duration-[1500ms] ease-in-out"
             >User Manual</router-link
           >
           <router-link
             to="/changelog"
-            class="w-full md:w-auto text-left text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-105 duration-200 ease-in-out"
+            class="w-full md:w-auto text-left text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 hover:scale-105 duration-[1500ms] ease-in-out"
             >Changelog</router-link
           >
           <button
             @click="toggleTheme"
-            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-zinc-700 dark:text-zinc-200 hover:text-blue-500 hover:scale-125 duration-100 ease-in-out"
+            class="w-9 h-9 flex items-center justify-center rounded-full w-full md:w-auto text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 hover:scale-125 duration-[1500ms] ease-in-out"
             title="toggle theme mode"
           >
             <svg
@@ -53,7 +53,7 @@
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 24"
               fill="currentColor"
-              class="w-5 h-5"
+              class="w-5 h-5 text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 hover:scale-125 duration-[1500ms] ease-in-out"
             >
               <path
                 stroke-linecap="round"
@@ -68,7 +68,7 @@
               viewBox="0 0 24 24"
               stroke-width="1.5"
               stroke="currentColor"
-              class="w-5 h-5 text-zinc-700 dark:text-white"
+              class="w-5 h-5 text-zinc-900 dark:text-zinc-200 hover:text-blue-500 dark:hover:text-blue-400 hover:scale-125 duration-[1500ms] ease-in-out"
             >
               <path
                 d="M12 2.25a.75.75 0 0 1 .75.75v2.25a.75.75 0 0 1-1.5 0V3a.75.75 0 0 1 .75-.75ZM7.5 12a4.5 4.5 0 1 1 9 0 4.5 4.5 0 0 1-9 0ZM18.894 6.166a.75.75 0 0 0-1.06-1.06l-1.591 1.59a.75.75 0 1 0 1.06 1.061l1.591-1.59ZM21.75 12a.75.75 0 0 1-.75.75h-2.25a.75.75 0 0 1 0-1.5H21a.75.75 0 0 1 .75.75ZM17.834 18.894a.75.75 0 0 0 1.06-1.06l-1.59-1.591a.75.75 0 1 0-1.061 1.06l1.59 1.591ZM12 18a.75.75 0 0 1 .75.75V21a.75.75 0 0 1-1.5 0v-2.25A.75.75 0 0 1 12 18ZM7.758 17.303a.75.75 0 0 0-1.061-1.06l-1.591 1.59a.75.75 0 0 0 1.06 1.061l1.591-1.59ZM6 12a.75.75 0 0 1-.75.75H3a.75.75 0 0 1 0-1.5h2.25A.75.75 0 0 1 6 12ZM6.697 7.757a.75.75 0 0 0 1.06-1.06l-1.59-1.591a.75.75 0 0 0-1.061 1.06l1.59 1.591Z"
@@ -134,11 +134,10 @@
   defineEmits(['navigate'])
 </script>
 <style>
-
   /* transition for mobile nav slide + fade */
   .slide-fade-enter-active,
   .slide-fade-leave-active {
-    transition: all 0.4s ease-in-out;
+    transition: all 1500ms ease-in-out;
   }
 
   .slide-fade-enter-from {

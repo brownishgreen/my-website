@@ -3,7 +3,7 @@
     :href="href"
     target="_blank"
     rel="noopener"
-    class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+    class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
   >
     <span class="text-xl">{{ icon }}</span>
     <span class="text-sm ml-2">

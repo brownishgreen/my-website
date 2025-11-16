@@ -5,8 +5,8 @@
     title="Bangkok, Thailand 24"
     subtitle=" "
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
-    <div class="article-container">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
+    <div class="article-container glass-article">
       <p class="dark:text-white mt-10">
         2024 年 1
         月份，我們一行人探訪了泰國，團聚在一起的時間不多，除了快樂神仙草、動物園行程與湄南河郵輪晚餐之外的時間都是拆散的，大家各自上中下路自己分好來
@@ -958,6 +958,7 @@
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
 

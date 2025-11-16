@@ -5,9 +5,9 @@
     title="Coding Notes"
     subtitle=""
   />
-  <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="min-h-screen transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <ExternalLink v-for="note in codingNotes" :key="note.href" v-bind="note" />
     </div>
@@ -21,13 +21,14 @@
 </script>
 
 <style scoped lang="scss">
-  .content-container {
+  .article-container {
     column-count: 1;
     column-gap: 1.5rem;
     width: 80%;
     max-width: 780px;
     height: 50vh;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
 
     // Prevent cards from being split across columns

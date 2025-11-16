@@ -6,7 +6,7 @@
     subtitle=""
   />
   <section
-    class="about-container bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out"
+    class="about-container article-container glass-article transition-all duration-[1500ms] ease-in-out mb-20"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
       <p class="mb-5 mt-5 dark:text-white deploy-notice">
@@ -204,7 +204,15 @@
   import HeroBanner from '../../components/HeroBanner.vue'
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+  .article-container {
+    width: 93%;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 2rem;
+    padding-bottom: 100px;
+  }
+
   .deploy-notice {
     color: darkred;
   }

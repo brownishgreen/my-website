@@ -5,9 +5,9 @@
     title="Austria 24"
     subtitle=" "
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <span
         ><strong>｜</strong>Just a photo dump for now :S too busy to write the full travel
@@ -479,10 +479,11 @@
 </script>
 
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
 

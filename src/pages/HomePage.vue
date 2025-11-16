@@ -5,10 +5,8 @@
     title="Project Yuan"
     subtitle="Where I write and collect moments."
   />
-  <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
-    <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
-    >
+  <main class="min-h-screen">
+    <div class="content-container">
       <ContentColumn
         v-for="(section, index) in sections"
         :key="index"
@@ -26,8 +24,8 @@
 
   const essays = [
     { emoji: '🧘🏾', name: '十日內觀回顧', link: '/essays/vipassana' },
-    { emoji: '🪔', name: '質變 / พอ', link: '/essays/change-of-quality' },
-    // { emoji: '🏊🏾‍♂️', name: '32', link: '/essays/thirty-two' },
+    { emoji: '🪔', name: '質變', link: '/essays/change-of-quality' },
+    { emoji: '🏊🏾‍♂️', name: '32', link: '/essays/thirty-two' },
     // { emoji: '👓', name: 'learn how to learn', link: '/essays/learn-how-to-learn' },
   ]
 
@@ -108,19 +106,19 @@
     { emoji: '🏚️', name: '吳爸爸米克斯庇護所', link: '/flashes/shelter' },
   ]
 
-  const links = [
-    {
-      emoji: '💻',
-      name: 'DEV notes',
-      link: 'https://shell-puppy-7d9.notion.site/Notes-17310968adb580b59b54e02f7b19bbdd',
-    },
+  // const links = [
+  //   {
+  //     emoji: '💻',
+  //     name: 'DEV notes',
+  //     link: 'https://shell-puppy-7d9.notion.site/Notes-17310968adb580b59b54e02f7b19bbdd',
+  //   },
 
     // {
     //   emoji: '📚',
     //   name: 'Books',
     //   link: 'books',
     // },
-  ]
+  // ]
 
   const sections = [
     {
@@ -129,28 +127,29 @@
       articleTitle: 'Essays',
       items: essays,
     },
+        {
+      imageSrc: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749467606/IMG_6440_d3fg8v.jpg',
+      articleTitle: 'Journeys',
+      items: journeys,
+    },
     {
       imageSrc:
         'https://images.unsplash.com/photo-1629904888099-00285934292b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       articleTitle: 'Works',
       items: projects,
     },
-    {
-      imageSrc: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200',
-      articleTitle: 'Library',
-      items: links,
-    },
+    // {
+    //   imageSrc: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200',
+    //   articleTitle: 'Library',
+    //   items: links,
+    // },
         {
       imageSrc:
         'https://images.unsplash.com/photo-1673157011514-7840ea0c3804?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       articleTitle: 'Fragments',
       items: fragments,
     },
-    {
-      imageSrc: 'https://res.cloudinary.com/dube3xzga/image/upload/v1749467606/IMG_6440_d3fg8v.jpg',
-      articleTitle: 'Journeys',
-      items: journeys,
-    },
+
     
   ]
 </script>
@@ -168,7 +167,9 @@
     > * {
       break-inside: avoid;
       display: block;
-      margin: 0 auto;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 1rem;
       max-width: 100%;
     }
 

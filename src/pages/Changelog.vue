@@ -6,7 +6,7 @@
       title="Changelog"
       subtitle=""
     />
-    <div class="timeline">
+    <div class="timeline article-container glass-article mb-20">
       <div class="timeline-item" v-for="event in events" :key="event.date">
         <div class="timeline-date">{{ event.date }}</div>
         <div class="timeline-content">
@@ -24,9 +24,9 @@
 const events = [
     {
       date: '2025-11',
-      title: '以 33 歲高齡轉職為全端軟體工程師 👨🏾‍💻',
+      title: '轉職為全端軟體工程師 👨🏾‍💻',
       description:
-        '帶薪自學 1 年多，休息了 7 個月真是爽啊，重回社會當一隻牛囉 🐄。',
+        '重回社會當一隻牛囉 🐄',
     },
     {
       date: '2025-08',
@@ -50,11 +50,6 @@ const events = [
       description: '曼谷員工旅遊後迷上泰國人的生活哲學與文化!',
     },
     {
-      date: '2024-02',
-      title: '歐洲找妹妹 ✈️',
-      description: '維也納 - 布達佩斯 - 哈修塔特 - 庫倫洛夫',
-    },
-    {
       date: '2024-01',
       title: '開始自學程式語言 💻',
       description: '今年開始把自己當作一個無懼的少年，學習所有想學的事物。',
@@ -66,17 +61,18 @@ const events = [
   .timeline {
     position: relative;
     margin: 3rem auto;
+    padding: 2rem;
     padding-left: 2rem;
     max-width: 680px;
 
-    // 中間直線
+    // Center vertical line
     &::before {
       content: '';
       position: absolute;
       top: 0;
       left: 2.8rem;
       width: 2px;
-      height: 110%;
+      bottom: 0;
       background-color: #94a3b8;
     }
   }
@@ -86,7 +82,7 @@ const events = [
     margin-bottom: 3rem;
     padding-left: 2rem;
 
-    // 時間點
+    // Timeline point
     &::before {
       content: '';
       position: absolute;
@@ -97,7 +93,7 @@ const events = [
       background-color: #9dacc4;
       border-radius: 9999px;
       border: 2px solid white;
-      box-shadow: 0 0 0 3px #c8d9e4; // 外圈光暈
+      box-shadow: 0 0 0 3px #c8d9e4; // Outer glow
     }
   }
 
@@ -105,7 +101,6 @@ const events = [
     font-size: 0.75rem;
     font-weight: 500;
     color: #7c8189;
-    background-color: #e0f2fe;
     padding: 0.25rem 0.75rem;
     border-radius: 9999px;
     display: inline-block;
@@ -113,11 +108,10 @@ const events = [
   }
 
   .timeline-content {
-    background-color: #f1f5f9;
     padding: 1rem 1.25rem;
     border-radius: 0.75rem;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+    transition: transform 1500ms ease;
 
     h3 {
       font-weight: 700;
@@ -136,7 +130,7 @@ const events = [
     }
   }
 
-  // dark mode 適配
+  // Dark mode adaptation
   :root.dark {
     .timeline::before {
       background-color: #64748b; // zinc-500
@@ -148,8 +142,8 @@ const events = [
     }
 
     .timeline-content {
-      background-color: #1f2937;
       color: #e2e8f0;
+      box-shadow: 0 1px 3px rgba(167, 163, 163, 0.25);
 
       p {
         color: #cbd5e1;

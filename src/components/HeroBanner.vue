@@ -1,12 +1,14 @@
 <template>
-  <section class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out hero">
-    <div class="hero__background" :style="{ backgroundImage: `url(${bgImage})` }"></div>
-    <div class="hero__content">
-      <div class="hero__emoji">{{ emoji }}</div>
-      <h1 class="dark:text-white hero__title">{{ title }}</h1>
-      <p v-if="subtitle" class="leading-relaxed dark:text-white hover:text-blue-500 hero__subtitle">
-        {{ subtitle }}
-      </p>
+  <section class="transition-all duration-[1500ms] ease-in-out hero mt-[40px] mb-10">
+    <div class="hero__content glass-hero">
+      <!-- <img :src="bgImage" alt="background image" class="hero__background"> -->
+      <div class="hero__text">
+        <div class="hero__emoji">{{ emoji }}</div>
+        <h1 class="dark:text-white hero__title">{{ title }}</h1>
+        <p v-if="subtitle" class="leading-relaxed dark:text-white hover:text-blue-500 hero__subtitle">
+          {{ subtitle }}
+        </p>
+      </div>
     </div>
   </section>
 </template>
@@ -16,27 +18,33 @@
     title: string
     subtitle?: string
     emoji?: string
-    bgImage: string
+    // bgImage: string
   }>()
 </script>
 
 <style scoped lang="scss">
   .hero {
     width: 100%;
-    overflow: hidden;
 
     &__background {
-      height: 350px;
       width: 100%;
-      background-size: cover;
-      background-position: center;
+      height: 215px;
+      object-fit: cover;
+      display: block;
+      border-radius: 1.5rem 1.5rem 0 0;
     }
 
     &__content {
+      width: 93%;
       max-width: 780px;
       margin: 0 auto;
-      margin-top: -3.5rem;
-      padding-bottom: 1rem;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    &__text {
+      padding: 0.5rem 1rem 1.6rem;
       display: flex;
       flex-direction: column;
       gap: 0.25rem;
@@ -59,12 +67,16 @@
     }
 
     &__subtitle {
-      color: rgb(220, 219, 219);
+      color: rgb(166, 164, 164);
       font-size: 1rem;
 
       @media (max-width: 768px) {
         font-size: 0.6rem;
       }
     }
+  }
+
+  .glass-hero {
+    overflow: hidden; /* Ensure content respects border-radius */
   }
 </style>

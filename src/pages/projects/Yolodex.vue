@@ -6,7 +6,7 @@
     subtitle=""
   />
   <section
-    class="about-container bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out"
+    class="about-container article-container glass-article transition-all duration-[1500ms] ease-in-out mb-20"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
       <p class="dark:text-white"> 
@@ -28,7 +28,7 @@
         <p class="mt-5 dark:text-white">此專案已部署於 GitHub Page：</p>
         <a
           href="https://brownishgreen.github.io/yolodex-crm/"
-          class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+          class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
           target="_blank"
         >
           <span class="text-xl">🔗</span>
@@ -37,7 +37,7 @@
         <a
           href="https://github.com/brownishgreen"
           target="_blank"
-          class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+          class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
         >
           <svg
             class="w-4 h-4 mr-2 text-zinc-900 dark:text-white"
@@ -226,3 +226,13 @@
 <script lang="ts" setup>
   import HeroBanner from '../../components/HeroBanner.vue'
 </script>
+
+<style scoped lang="scss">
+  .article-container {
+    width: 93%;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 2rem;
+    padding-bottom: 100px;
+  }
+</style>

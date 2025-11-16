@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import './style.css'
+import './styles/glass.css'
 import App from './App.vue'
 import router from './router'
 

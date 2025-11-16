@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <div class="transition-all duration-[1500ms] ease-in-out">
     <SiteHeader />
     <router-view />
     <SiteFooter />

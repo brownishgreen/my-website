@@ -5,9 +5,9 @@
     title="Pulau Mabul, Malaysia"
     subtitle=""
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <p class="dark:text-white">
         2022 年 8 月份造訪的馬布島，最快樂的員旅體驗沒有之一。<br />馬布島是馬來西亞東部仙本那著名潛水天堂，以水上木屋、原始海景與海龜聞名。因為是在疫情的尾巴，機場空蕩蕩的，仙本那不是容易抵達的地方，要先搭飛機到吉隆坡轉機到東馬，再另外搭船到島上，中間也有長途巴士，總之交通時間很長，自己旅遊的話我覺得很難抵達，擁有這一次的回憶我感到無比地幸運。😋
@@ -351,10 +351,11 @@
 </script>
 
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
 </style>

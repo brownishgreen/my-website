@@ -42,7 +42,7 @@ dd {
     letter-spacing: 0.02em;
   }
 
-  /* 全域字距基準 */
+  /* Global letter spacing baseline */
   h1,
   h2,
   h3,
@@ -72,11 +72,67 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  background-color: transparent;
+  position: relative;
 }
 
-a:not([class]) {
-  text-decoration-skip-ink: auto;
+/* Background image layers - Using two layers for smooth transition */
+html {
+  position: relative;
 }
+
+/* Light Mode background image layer */
+html::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background-image: url('https://images.unsplash.com/photo-1682588382872-876b524625ea?q=80&w=2685&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  opacity: 1;
+  transition: opacity 1500ms ease-in-out;
+}
+
+/* Dark Mode background image layer */
+html::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background-image: url('https://images.unsplash.com/photo-1574281193679-789c4602b15c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 1500ms ease-in-out;
+}
+
+/* Switch display when Dark Mode is active */
+html.dark::before {
+  opacity: 0;
+}
+
+html.dark::after {
+  opacity: 1;
+}
+
+main,
+section.hero,
+.content-container,
+.about-container {
+  background-color: inherit;
+}
+
 
 img,
 picture {

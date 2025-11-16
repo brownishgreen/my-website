@@ -5,9 +5,9 @@
     title="Singapura 23"
     subtitle=" "
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
@@ -224,7 +224,7 @@
       </p>
       <a
         href="https://zh.wikipedia.org/zh-tw/%E8%A2%8B%E7%8D%BE"
-        class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+        class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
       >
         <span class="text-xl">🐾</span>
         <span class="text-sm">袋獾 - 維基百科，自由的百科全書</span>
@@ -431,10 +431,11 @@
 </script>
 
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
 

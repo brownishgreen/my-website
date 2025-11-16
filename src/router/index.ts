@@ -5,7 +5,7 @@ import Changelog from '../pages/Changelog.vue'
 import UserManual from '../pages/UserManual.vue'
 
 //Essays
-// import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
+import ThirtyTwo from '../pages/essays/2025/thirty-two.vue'
 // import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
 import ChangeOfQuaility from '../pages/essays/2025/ChangeOfQuaility.vue'
 import Vipassana from '../pages/essays/2025/Vipassana.vue'
@@ -55,11 +55,11 @@ const routes = [
     name: 'Changelog',
     component: Changelog,
   },
-  // {
-  //   path: '/essays/thirty-two',
-  //   name: 'thirty-two',
-  //   component: ThirtyTwo,
-  // },
+  {
+    path: '/essays/32',
+    name: '32',
+    component: ThirtyTwo,
+  },
   // {
   //   path: '/essays/learn-how-to-learn',
   //   name: 'learn how to learn',

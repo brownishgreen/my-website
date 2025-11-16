@@ -5,9 +5,9 @@
     title="Orchid Island, Taiwan"
     subtitle=""
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
       <br /><br />
       <p class="mt-5 dark:text-white">
@@ -31,7 +31,7 @@
       <a
         href="https://www.wowlavie.com/article/ae2101945"
         target="_blank"
-        class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+        class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
       >
         <span>🚄</span>
         <span>
@@ -944,10 +944,11 @@
 </script>
 
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
   }
   blockquote {

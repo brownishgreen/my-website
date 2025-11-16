@@ -5,26 +5,22 @@
     title="About"
     subtitle=""
   />
-  <main class="min-h-screen bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
+  <main class="min-h-screen transition-all duration-[1500ms] ease-in-out mb-20">
     <div
-      class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out content-container"
+      class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
-      <br />
-      <br />
       <p class="dark:text-white">
         Nihao, I'm Yuan 🙂 <br>
         A self-taught full-stack software engineer. <br>
-        I share bits of my silly little life here.  <br>
-
-
+        I share bits of my silly little life here.  <br><br>
         You can also find me on:
       </p>
-      <div class="flex flex-col gap-4 w-full mt-5 mb-5">
+      <div class="flex flex-col gap-4 w-full mt-5">
         <!-- GitHub -->
         <a
           href="https://github.com/brownishgreen"
           target="_blank"
-          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
+          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-[1500ms] ease-in-out"
         >
           <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
             <path
@@ -36,7 +32,7 @@
         <!-- Email -->
         <a
           href="mailto:wu@yuanologue.com"
-          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
+          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-[1500ms] ease-in-out"
         >
           <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
             <path
@@ -50,7 +46,7 @@
         <a
           href="https://signal.me/#eu/BVxNbJY2rH2NtJuloNGUsd7tb4GlF-OQGI4VMCv9loJHgHcs-wtKh602PRB5mIPL"
           target="_blank"
-          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-100 ease-in-out"
+          class="inline-flex items-center text-sm text-zinc-700 dark:text-white hover:text-blue-500 font-medium hover:scale-105 duration-[1500ms] ease-in-out"
         >
           <svg class="w-4 h-4 mr-2 dark:text-white" fill="currentColor" viewBox="0 0 24 24">
             <path
@@ -60,8 +56,6 @@
           Text me on Signal
         </a>
       </div>
-      <br />
-      
     </div>
   </main>
 </template>
@@ -70,9 +64,10 @@
   import HeroBanner from '../components/HeroBanner.vue'
 </script>
 <style scoped class="scss">
-  .content-container {
+  .article-container {
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
   }
 </style>

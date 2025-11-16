@@ -5,8 +5,8 @@
     title="learn how to learn"
     subtitle="🗓️ 2025/01/12"
   />
-  <main class="bg-white dark:bg-zinc-900 transition-all duration-[1500ms] ease-in-out">
-    <div class="article-container">
+  <main class="transition-all duration-[1500ms] ease-in-out mb-20">
+    <div class="article-container glass-article">
       <h2 class="text-md mt-3 mb-3 dark:text-white">
         <strong>|</strong> 此篇紀錄 2024 學習如何學習的心得。
       </h2>
@@ -93,7 +93,7 @@
         <br />
         <a
           href="https://strategicleaders.com/elon-musk-work-ethic-10-secrets-for-insane-success/?utm_source=chatgpt.com"
-          class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-200 ease-in-out"
+          class="flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
           target="_blank"
         >
           <span class="text-xl">🐎</span>
@@ -145,6 +145,7 @@
     width: 80%;
     max-width: 780px;
     margin: 0 auto;
+    padding: 2rem;
     padding-bottom: 100px;
 
     & .note {
