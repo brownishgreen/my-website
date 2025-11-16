@@ -232,8 +232,6 @@
 </template>
 <script setup lang="ts">
 import HeroBanner from '../../../components/HeroBanner.vue'
-import { BrainCog } from 'lucide-vue-next';
-
 </script>
 
 <style scoped lang="scss">

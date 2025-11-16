@@ -5,7 +5,7 @@ import Changelog from '../pages/Changelog.vue'
 import UserManual from '../pages/UserManual.vue'
 
 //Essays
-import ThirtyTwo from '../pages/essays/2025/thirty-two.vue'
+import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
 // import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
 import ChangeOfQuaility from '../pages/essays/2025/ChangeOfQuaility.vue'
 import Vipassana from '../pages/essays/2025/Vipassana.vue'
