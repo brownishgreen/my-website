@@ -9,7 +9,7 @@
     class="about-container article-container glass-article transition-all duration-[1500ms] ease-in-out mb-20"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="mb-5 mt-5 dark:text-white">
+      <p class="mb-5 mt-5">
         A web application for reciting and reflecting on the Diamond Sutra, designed to provide a
         verse-by-verse reading experience with interpretive notes and real-time reading
         progress.This project includes smooth animation effects, dark/light theme switching, and is
@@ -18,7 +18,7 @@
         此專案包含動畫特效、支援 RWD、閱讀深淺主題切換，使用 Vue 3、Vite 開發。
       </p>
       <div>
-        <p class="mt-5 dark:text-white">此專案已部署於 GitHub Page：</p>
+        <p class="mt-5">此專案已部署於 GitHub Page：</p>
         <a
           href="https://brownishgreen.github.io/sutra-reader"
           class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
@@ -33,7 +33,7 @@
           class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
         >
           <svg
-            class="w-4 h-4 mr-2 text-zinc-900 dark:text-white"
+            class="w-4 h-4 mr-2 text-zinc-900"
             fill="currentColor"
             viewBox="0 0 24 24"
           >
@@ -65,8 +65,8 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">Dark mode view</figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Feature 功能特色</h2>
-      <p class="mt-5 dark:text-white">1.支援註解 tooltip 顯示，輔助理解經文內容</p>
+      <h2 class="text-xl mt-3 mb-3">Feature 功能特色</h2>
+      <p class="mt-5">1.支援註解 tooltip 顯示，輔助理解經文內容</p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749957142/%E6%88%AA%E5%9C%96_2025-06-15_%E4%B8%8A%E5%8D%8811.12.10_s5i6w0.png"
@@ -77,8 +77,8 @@
           Annotation tooltips for enhanced comprehension of sutra content
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">2. 支援 Light / Dark 模式切換（太陽 / 月亮圖示切換）</p>
-      <p class="mt-5 dark:text-white">3. 使用 IntersectionObserver 每個章節依滑鼠滾動後柔和進場</p>
+      <p class="mt-5">2. 支援 Light / Dark 模式切換（太陽 / 月亮圖示切換）</p>
+      <p class="mt-5">3. 使用 IntersectionObserver 每個章節依滑鼠滾動後柔和進場</p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749956696/%E6%88%AA%E5%9C%96_2025-05-02_%E6%99%9A%E4%B8%8A10.39.51_wixrxl.png"
@@ -90,7 +90,7 @@
           Smooth chapter entrance animation using IntersectionObserver on scroll
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">4. 誦讀時即時計算進度，並顯示於 Footer 的進度條</p>
+      <p class="mt-5">4. 誦讀時即時計算進度，並顯示於 Footer 的進度條</p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749956697/%E6%88%AA%E5%9C%96_2025-05-02_%E6%99%9A%E4%B8%8A10.40.47_w1ewqb.png"
@@ -101,7 +101,7 @@
           Real-time reading progress tracking with a dynamic footer progress bar
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">5. RWD 設計，手機與桌機皆可流暢使用</p>
+      <p class="mt-5">5. RWD 設計，手機與桌機皆可流暢使用</p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749957441/%E6%88%AA%E5%9C%96_2025-06-15_%E4%B8%8A%E5%8D%8811.17.02_ima8g7.png"
@@ -112,7 +112,7 @@
           Responsive Web Design for both desktop and mobile devices
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">6. Vue Router 結構，支援 About / Contact 子頁面</p>
+      <p class="mt-5">6. Vue Router 結構，支援 About / Contact 子頁面</p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
@@ -138,8 +138,8 @@
           </figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Tech Stack 技術棧</h2>
-      <ul class="mt-5 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">Tech Stack 技術棧</h2>
+      <ul class="mt-5">
         <li>
           - <span class="font-semibold">Vue 3</span>・Composition API +
           <code class="bg-gray-100 text-pink-600 px-1 rounded">&lt;script setup&gt;</code>

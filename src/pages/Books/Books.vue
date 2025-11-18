@@ -11,7 +11,7 @@
     >
       <br />
       <blockquote
-        class="italic text-sm mb-6 border-l-4 pl-4 border-zinc-300 dark:border-zinc-700 dark:text-white"
+        class="italic text-sm mb-6 border-l-4 pl-4 border-zinc-300 dark:border-zinc-700"
       >
         “I don't want to read all the books; I just want to read the best 100 over and over again.”
         <span class="block text-xs mt-2 text-zinc-500">—— @illacertus</span>

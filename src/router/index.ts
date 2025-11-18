@@ -5,8 +5,9 @@ import Changelog from '../pages/Changelog.vue'
 import UserManual from '../pages/UserManual.vue'
 
 //Essays
+import ThirtyThree from '../pages/essays/2025/ThirtyThree.vue'
 import ThirtyTwo from '../pages/essays/2025/ThirtyTwo.vue'
-// import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
+import LearnHowToLearn from '../pages/essays/2025/LearnHowToLearn.vue'
 import ChangeOfQuaility from '../pages/essays/2025/ChangeOfQuaility.vue'
 import Vipassana from '../pages/essays/2025/Vipassana.vue'
 
@@ -56,15 +57,20 @@ const routes = [
     component: Changelog,
   },
   {
-    path: '/essays/32',
-    name: '32',
+    path: '/essays/thirty-three',
+    name: 'Thirty Three',
+    component: ThirtyThree,
+  },
+  {
+    path: '/essays/thirty-two',
+    name: 'Thirty Two',
     component: ThirtyTwo,
   },
-  // {
-  //   path: '/essays/learn-how-to-learn',
-  //   name: 'learn how to learn',
-  //   component: LearnHowToLearn,
-  // },
+  {
+    path: '/essays/learn-how-to-learn',
+    name: 'learn how to learn',
+    component: LearnHowToLearn,
+  },
   {
     path: '/essays/change-of-quality',
     name: 'change-of-quality',

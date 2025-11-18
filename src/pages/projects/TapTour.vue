@@ -9,19 +9,10 @@
     class="about-container article-container glass-article transition-all duration-[1500ms] ease-in-out mb-20"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="mb-5 mt-5 dark:text-white deploy-notice">
+      <p class="mb-5 mt-5 deploy-notice">
         因 GCP / Vercel / Render 會持續產生使用費，目前專案已停止部署，請透過專案簡報與導覽影片瀏覽功能與畫面。
       </p>
-      <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/GG404dTFyzw?si=XJMvRhqtEHxgkTWD"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
-      ></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/LxSVGnxN7B8?si=oz1ZV5_heXF5o-vX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <div class="mt-5 bg-white p-6 rounded-md shadow-md text-gray-800 space-y-4">
         <ul class="list-disc list-inside space-y-2">
           <li>
@@ -76,8 +67,8 @@
           </li>
         </ul>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">主題動機 / 功能發想</h2>
-      <p class="mt-5 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">主題動機 / 功能發想</h2>
+      <p class="mt-5">
         TapTour 是一個專為自由行旅人設計的旅遊平台，我們參考了如 kkday、TripAdvisor
         等旅遊網站作為專案主題，核心理念是「以科技串聯在地體驗，讓每場旅行更有深度」。我們希望透過這個平台，讓旅行者可以：<br /><br />
         1. 搜尋旅遊活動、景點、商品<br />
@@ -94,8 +85,8 @@
         3. 新增活動、景點（使用 Google Maps API）、商品<br />
         4. 在前台頁面直接刪除特定留言<br />
       </p>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Tech Stack 技術棧</h2>
-      <p class="mt-5 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">Tech Stack 技術棧</h2>
+      <p class="mt-5">
         - React <br />
         - [Vite](https://vitejs.dev/)<br />
         - [SCSS](https://sass-lang.com/) <br />
@@ -104,7 +95,7 @@
         - Swiper <br />
         - Swagger API<br />
       </p>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">專案流程 / 資料庫設計圖</h2>
+      <h2 class="text-xl mt-3 mb-3">專案流程 / 資料庫設計圖</h2>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749959786/%E6%88%AA%E5%9C%96_2025-05-02_%E6%99%9A%E4%B8%8A10.25.54_td7tss.png"
@@ -112,7 +103,7 @@
           class="w-full rounded-md shadow-md object-cover"
         />
       </figure>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">網站架構圖</h2>
+      <h2 class="text-xl mt-3 mb-3">網站架構圖</h2>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749959787/%E6%88%AA%E5%9C%96_2025-05-02_%E6%99%9A%E4%B8%8A10.26.15_fngcrl.png"
@@ -121,7 +112,7 @@
         />
         <figcaption class="mt-2 text-xs text-gray-600 text-center"></figcaption>
       </figure>
-      <h2 class="text-xl mt-5 mb-3 dark:text-white">畫面</h2>
+      <h2 class="text-xl mt-5 mb-3">畫面</h2>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749959788/%E6%88%AA%E5%9C%96_2025-05-02_%E6%99%9A%E4%B8%8A10.26.58_vunfsr.png"

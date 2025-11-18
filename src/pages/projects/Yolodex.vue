@@ -9,7 +9,7 @@
     class="about-container article-container glass-article transition-all duration-[1500ms] ease-in-out mb-20"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="dark:text-white"> 
+      <p> 
         Yolodex 是一個以 Vue 3、TypeScript、Vite 打造的輕量 CRM。<br> 
         靈感來自 1950 年代的 Rolodex 旋轉名片架：桌機採「左列清單／右側詳情」的 Master–Detail，清單支援即時搜尋、排序與一鍵 CSV 匯出。行動裝置則以 Modal 呈現詳情。
         <br><br>
@@ -25,7 +25,7 @@
         <figcaption class="mt-2 text-xs text-gray-600 text-center">實際畫面</figcaption>
       </figure>
       <div>
-        <p class="mt-5 dark:text-white">此專案已部署於 GitHub Page：</p>
+        <p class="mt-5">此專案已部署於 GitHub Page：</p>
         <a
           href="https://brownishgreen.github.io/yolodex-crm/"
           class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
@@ -40,7 +40,7 @@
           class="mt-3 flex items-center gap-2 text-blue-400 hover:text-blue-600 transition-all transform hover:scale-105 duration-[1500ms] ease-in-out"
         >
           <svg
-            class="w-4 h-4 mr-2 text-zinc-900 dark:text-white"
+            class="w-4 h-4 mr-2 text-zinc-900"
             fill="currentColor"
             viewBox="0 0 24 24"
           >
@@ -51,8 +51,8 @@
           <span class="text-sm">GitHub Repo</span>
         </a>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Feature 功能與特色</h2>
-      <p class="mt-5 dark:text-white">1. Live search by Name 搜尋聯絡人</p>
+      <h2 class="text-xl mt-3 mb-3">Feature 功能與特色</h2>
+      <p class="mt-5">1. Live search by Name 搜尋聯絡人</p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749885122/%E6%88%AA%E5%9C%96_2025-05-08_%E6%99%9A%E4%B8%8A11.01.57_kg7pih.png"
@@ -63,7 +63,7 @@
           Live search by Name 搜尋聯絡人
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         2. sort by Name/ Status/ Created Time 可選擇以名字、狀態、建立時間分類顯示清單
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -76,7 +76,7 @@
           sort by Name/ Status/ Created Time 可選擇以名字、狀態、建立時間分類顯示清單
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         3. Add, Edit , Delete Contact 新增、編輯、刪除聯絡人並即時顯示
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -99,7 +99,7 @@
           新增 / 編輯聯絡人表單
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         4. Add interaction. timeline updates instantly 新增互動紀錄並即時顯示於時間線上
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -121,7 +121,7 @@
         </figcaption>
       </figure>
 
-      <p class="mt-5 dark:text-white">5. Export CSV file 可將搜尋/分類的聯絡人們匯出為 CSV 檔案</p>
+      <p class="mt-5">5. Export CSV file 可將搜尋/分類的聯絡人們匯出為 CSV 檔案</p>
       <figure class="w-full md:w-full mt-5">
         <img
           src="https://res.cloudinary.com/dube3xzga/image/upload/v1749885122/%E6%88%AA%E5%9C%96_2025-05-08_%E6%99%9A%E4%B8%8A11.01.57_kg7pih.png"
@@ -150,7 +150,7 @@
         />
         <figcaption class="mt-2 text-xs text-gray-600 text-center">匯出後的 CSV 檔案👆</figcaption>
       </figure>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">RWD ( Mobile View)</h2>
+      <h2 class="text-xl mt-3 mb-3">RWD ( Mobile View)</h2>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">
@@ -195,8 +195,8 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">新增互動紀錄表單</figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Tech Stack 技術棧</h2>
-      <ul class="list-disc pl-6 space-y-2 text-gray-800 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">Tech Stack 技術棧</h2>
+      <ul class="list-disc pl-6 space-y-2 text-gray-800">
         <li>
           <span class="font-semibold">Vue 3</span> Composition API +
           <code class="bg-gray-100 text-pink-600 px-1 rounded">&lt;script setup&gt;</code>

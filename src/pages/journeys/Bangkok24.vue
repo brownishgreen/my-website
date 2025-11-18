@@ -7,7 +7,7 @@
   />
   <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div class="article-container glass-article">
-      <p class="dark:text-white mt-10">
+      <p class=" mt-10">
         2024 年 1
         月份，我們一行人探訪了泰國，團聚在一起的時間不多，除了快樂神仙草、動物園行程與湄南河郵輪晚餐之外的時間都是拆散的，大家各自上中下路自己分好來
         explore Bangkok，我們這一組叫做 Triple W，成員有我跟 Xavier、Brian 和
@@ -29,8 +29,8 @@
         />
       </div>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">The Jim Thompson House Museum</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">The Jim Thompson House Museum</h2>
+      <p class="">
         座落於曼谷鬧區的 Jim Thompson House Museum
         離我們的酒店不算太遠。這座以六棟古老泰式高腳木屋組成的宅邸，是泰國絲綢之父 Jim Thompson
         的居所，裡頭收藏了許多珍奇的藝術品。紅木色的建築在熱帶綠植的包圍下顯得格外靜謐。遊客緩步穿梭於錯落有致的庭院與屋舍間，人潮並不會很多，氛圍很幽靜。可以在這裡細細體會泰式建築的細節：雕花窗櫺、傳統傾斜屋頂、室內的老柚木地板，每一處都展現了東西合璧的獨特美學。
@@ -49,7 +49,7 @@
           class="w-full md:w-1/2 rounded-md shadow-md object-cover"
         />
       </div>
-      <p class="dark:text-white">
+      <p class="">
         <br />
         這裡有泰國當地外語系大學生提供導覽服務，提供泰語、英語、法語、華語與日語的導覽。
         為我們導覽的是一位可愛的泰國妹妹，說明導覽的規則便引導我們進入。
@@ -99,7 +99,7 @@
         />
       </div>
       <br />
-      <p class="dark:text-white">
+      <p class="">
         Jim Thompson 不只是著名的商人，他的生平裡有一個更神秘的謎團。據傳 Thompson 曾在美國 OSS（CIA
         的前身）服役，二戰後以軍事情報官身份駐紮東南亞，有傳聞指稱他實為秘密探員，甚至有人認為他的收藏與情報活動有密切關聯。<br />
         1967 年 Jim Thompson
@@ -120,10 +120,10 @@
         />
       </div>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">
         Bangkok Art and Culture Centre 曼谷藝術文化中心
       </h2>
-      <p class="dark:text-white">
+      <p class="">
         曼谷藝術文化中心在曼谷的繁華地段 Siam 區，這裡交通很方便，直接位於 BTS National Stadium
         站出口旁。只需幾步路就可以找到 BTS 天橋旁，一座白色流線型建築。
       </p>
@@ -142,7 +142,7 @@
         />
       </div>
       <br />
-      <p class="dark:text-white">
+      <p class="">
         BACC
         的外觀是圓弧形結構與金色屋頂充滿未來感，裡頭是中空設計的螺旋坡道，觀者可以隨之由下而上探索各層展覽。相比傳統方正的美術館，這裡的動線設計充滿流動感與探索樂趣，也很符合裡頭展示的年輕的藝術作品。
       </p>
@@ -181,7 +181,7 @@
         />
       </div>
       <br />
-      <p class="dark:text-white">
+      <p class="">
         BACC
         是泰國年輕藝術家與國際藝術對話的平台，文化交匯與社群創意的實驗場，展品非常多元，從當代攝影、裝置藝術、平面設計到前衛繪畫都有涵蓋，具有泰國當代藝術的詼諧與反思。
         文創商品店有當地設計商品、明信片、T-shirt 和藝術家聯名商品等。
@@ -206,11 +206,11 @@
         alt="The Jim Thompson House Museum"
         class="w-full md:w-1/2 rounded-md shadow-md object-cover"
       />
-      <p class="mt-2 text-sm text-center dark:text-white">
+      <p class="mt-2 text-sm text-center">
         因為身邊沒有旅遊用的隨身包包了所以也在這裡挑選了一個。
       </p>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">魔藥學上課囉</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">魔藥學上課囉</h2>
+      <p class="">
         咱話不多說，總之就是強勁、純粹、愛麗絲夢遊仙草。<br />隔天起床我感覺整個人被重新開機：Clean
         & Fresh. <br />並且本人與 Brian
         必須胸脯挺起瞇著眼睛一臉驕傲的說：「我們每一天都有吃到飯店的早餐！」這就是所謂的高度自律，即便前一晚全班進修了魔藥學課程到凌晨，8
@@ -282,8 +282,8 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">We proud.</figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Safari World Bangkok</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">Safari World Bangkok</h2>
+      <p class="">
         這個行程是在福委榮譽會長玫瑰不知道該安排什麼行程時我力薦的，完全就是只考慮我本人的喜好。前一天大家因為上課的關係有點暈呼呼的，我是從頭到尾都精神抖擻。我們從酒店搭遊覽車過去，一開始司機帶我們繞了一大圈，打擾一下動物們：
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -338,8 +338,8 @@
           最後由斑馬們引導著我們入園
         </figcaption>
       </figure>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">被長頸鹿的口水滴到臉</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">被長頸鹿的口水滴到臉</h2>
+      <p class="">
         在 Safari World 雖然沒辦法幫大象洗澡，但可購買桶裝的蔬菜水果跟長頸鹿盤撋
         puânn-nuá，動物就是這麼無邪，活在當下，不去煩惱過去也不擔憂未來，眼裡看著的腦裡想著的都是我們手上那桶蔬菜，於是我這個邪惡的人類就可以狠狠地騷擾他們了。我們發現了一個關於長頸鹿
         fun fact
@@ -448,7 +448,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         Safari World
         的動物表演就不推了，實在是看了所有人笑不出來，不人道又勉強動物的表演，全場靜默心裡五味雜陳的，結束後大家也是悻悻然覺得剛才的表演很不妙，來一張大自然的霸主水豚先生。
       </p>
@@ -459,8 +459,8 @@
           class="w-full rounded-md shadow-md object-cover"
         />
       </figure>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">夜覽湄南河</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">夜覽湄南河</h2>
+      <p class="">
         夜晚我們上郵輪用晚膳，氛圍很棒，一邊享用豐盛的自助晚餐，一邊欣賞沿岸名勝。
         船開得很和緩，可以看到夜晚的黎明寺、ICONSIAM
         、臥佛寺這些景點，我還不能說它們晚上看起來很不一樣，因為尚未在白天見過它們。不過，在悠揚的現場音樂與微微搖曳的船身中欣賞它們的輪廓，那些燈光映照出的建築輪廓顯得格外神秘與夢幻，也很期待翌日買船票欣賞它們白天的模樣。
@@ -484,8 +484,8 @@
           />
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">白天的船</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">白天的船</h2>
+      <p class="">
         第三天，我們 Tripe W 小隊只剩下我、Xavier、Brian，Carol
         提前回國投票了，民主英雄！我們為著沒有行使公民投票權感到無比的羞愧，最後不曉得發生什麼事
         Joyce 補位，或許像我們這樣的小隊就是一定要搭配一位可愛的女性。
@@ -532,7 +532,7 @@
           />
         </figure>
       </div>
-      <p class="dark:text-white mt-5">
+      <p class=" mt-5">
         我們購買了 KKday
         上的昭披耶河觀光遊覽船票券，這裡來給大家科普一下昭披耶河與湄南河到底哪一條是哪一條。<br />
         昭披耶河（Chao Phraya River）就是湄南河，兩者是同一條河。泰國當地官方名稱是 Chao Phraya
@@ -550,7 +550,7 @@
           一日票可以在各點上下船。
         </figcaption>
       </figure>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         我們沒有把全部的點採完，我腦中確定有踩到的是考山路、龍蓮寺、臥佛寺、金佛寺、黎明寺，遊玩的部分直接上照片：
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -794,8 +794,8 @@
           />
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Chatuchak Weekend Market</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">Chatuchak Weekend Market</h2>
+      <p class="">
         其實我有點記憶錯亂，我們有在 1 月 13
         日當天做這麼多事情嗎？根據相冊我們那天的確去了洽督洽市集，然後我想到了，是啊！我們在洽督洽一邊看總統大選開票的，洽督洽的確如傳說中的一樣什麼都有，越往深處的地方逛越時髦，我在那邊說什麼極簡主義的男人就是一個登機箱就夠了，想來實在後悔。
       </p>
@@ -822,8 +822,8 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">圖片說明文字</figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">JODD FAIRS Ratchada</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">JODD FAIRS Ratchada</h2>
+      <p class="">
         執行完非常秘密任務之後，我們一行人再聚首，抵達了喬德夜市，喬德夜市乾淨到不可思議，自詡夜市王國的台灣真心需要檢討，Brian
         一直很期待的火山排骨實際上我們只點了很小一撮，沒有勇敢的吃一些奇怪的食物留一點遺憾。
       </p>
@@ -918,8 +918,8 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">現實總是骨感</figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">結語</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">結語</h2>
+      <p class="">
         永遠會懷念這一趟跟大家一起修習魔藥學、每天按摩每天喝泰奶喝到快糖尿病的快樂時光。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">

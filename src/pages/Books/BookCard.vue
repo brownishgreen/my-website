@@ -14,10 +14,10 @@
 
     <!-- Book Content -->
     <div class="p-6">
-      <h2 class="text-xl font-semibold mb-1 text-zinc-800 dark:text-zinc-100">{{ title }}</h2>
-      <p class="text-sm text-zinc-500 dark:text-zinc-400 mb-2">{{ author }}</p>
+      <h2 class="text-xl font-semibold mb-1 text-zinc-800">{{ title }}</h2>
+      <p class="text-sm text-zinc-500 mb-2">{{ author }}</p>
       <span
-        class="inline-block px-3 py-1 text-xs rounded-full bg-slate-200 text-emerald-800 dark:bg-slate-700 dark:text-emerald-200 mb-3"
+        class="inline-block px-3 py-1 text-xs rounded-full bg-slate-200 text-emerald-800 dark:bg-slate-700 mb-3"
       >
         {{ category }}
       </span>

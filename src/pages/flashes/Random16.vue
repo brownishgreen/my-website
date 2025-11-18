@@ -26,7 +26,7 @@
           ></video>
           <figcaption
             v-if="image.figcaption"
-            class="text-sm text-zinc-500 mt-2 dark:text-zinc-40 text-center"
+            class="text-sm text-zinc-500 mt-2 text-center"
           >
             {{ image.figcaption }}
           </figcaption>

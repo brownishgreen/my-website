@@ -9,7 +9,7 @@
     <div
       class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
-      <p class="dark:text-white">
+      <p class="">
         這是一趟獎勵旅遊，同行的小夥伴在 Q1 各自達成偉大成就。我的部分是跟 Brian 還有 Eric 成交 100
         家以上的搬家客戶。說是 Q1
         但各位勤奮老鄉們都知道，咱們每次都只有一個多月的時間，那時帝國昌榮、活在太平盛世的我們就是吃這一套，好吃好吃
@@ -42,8 +42,8 @@
           </figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">名古屋港水族館的靜謐時光</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">名古屋港水族館的靜謐時光</h2>
+      <p class="">
         這趟來名古屋，雖然感覺老鄉們只是把水族館列為「順道塞時間」的行程，但我心裡偷偷最期待的是這個哈哈哈哈，我一入館就拋開所有人自己速逛（因為到的時候已經蠻晚），進門右邊便是一整面展示牆，介紹鯨豚類如何從陸地回到海洋生活，完全理解耶陸地的生活真的很辛苦吧。牠們的轉變過程讓我覺得既好笑又有點感動。那種「試著當個陸地人但哎呀跟我想的不太一樣呢我看我還是回家好了」的心境轉變，說不定鯨豚們也經歷了興奮、期待、自我懷疑和惆悵，最後選擇臣服。會不會當年有一隻鯨豚界的革命志士，在灘頭對眾豚說：「同志們，我們回大海吧！那裡不用走路，有浮力～」。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -65,7 +65,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         中段有一大片魚群展示區，我被密集游動的沙丁魚群吸引許久。牠們極有秩序地組成流線，這一個大浴缸上頭是露天的，陽光從上方灑下，魚鱗閃爍波光粼粼，甚美啊！
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -75,7 +75,7 @@
           class="w-full rounded-md shadow-md object-cover"
         />
       </figure>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         海龜區讓我駐足良久。自去年到馬布島見證海龜交配之後，海龜一族在我心中已經不是過去的海龜了，海龜已是我族同盟，主要是這裡的海龜特別多，會一直打轉，很像旋轉木馬，慢悠悠地游過礁石。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -122,7 +122,7 @@
           </figcaption>
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         水中觀察區可從側面與下方看到企鵝游泳，速度極快宛如小水雷。觀眾席旁還裝了魚眼窗，看見企鵝像潛水員一樣在冰藍色世界中翻轉，覺得真不錯要是我也會游泳就好了。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -163,7 +163,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         最後是水母展區，佈置得很像某種實驗室，透過不同的紅、粉、藍色燈光照射，很有科幻感。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -204,8 +204,8 @@
           />
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">名古屋城</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">名古屋城</h2>
+      <p class="">
         另一個名古屋地標。名古屋城的屋瓦在晴朗無雲的藍天下看起來特別寧靜，不像什麼打過仗的地方，更像退休將軍養老的宅子。然後，我竟然在下方護城河外的草地上，看到了鹿！！🦌<br />
         在本丸御殿裡頭發生了一個很逗的事情，我和 宇廷
         忘記要把鞋子拿著走出殿外才能夠穿上鞋，直接在鞋櫃處穿，結果還沒把鞋穿好，一位日本維護人員就快步走來，用非常有禮又堅定的語氣提醒我們不能這樣做，我們的口音突然就變成同胞的口音說：「哎呀對不住啊！」<br />
@@ -273,7 +273,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         我們在 Sakae
         商圈也幹了一樣的事，其中一個來自中國的導覽員還說：「你們是台灣來的吧，京腔學得很地道，但還是聽得出來」，我們超級開心的，照片是宇廷跟御深井觀音祈求桃花。
       </p>
@@ -318,8 +318,8 @@
           </figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">川鄉與五箇山的合掌構造村落</h2>
-      <p class="mt-5 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">川鄉與五箇山的合掌構造村落</h2>
+      <p class="mt-5">
         白川鄉空氣有種特別乾淨的味道，或許是在小巴上一行人悶在車裡暈呼呼的，一下車呢哎呀是櫻花，這一趟終於看到櫻花啦！過了橋映入眼簾的是一棟棟厚重斜屋頂的合掌造，田埂上還積著雨水，樹梢上則是初開的櫻花。整個村莊像是才剛從冬眠醒來，呼吸還帶著白霧
         🌬️
       </p>
@@ -342,7 +342,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         合掌屋裡，雖然昏暗卻溫暖，展示的用品從舊農具到木製車輪、擺設與茶具。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -402,7 +402,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         古樸的合掌造很美，襯著窗外那些田野、老樹、從山裡流下來的潺潺溪水，很有氛圍啊。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -446,8 +446,8 @@
           />
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">飛驒高山古街</h2>
-      <p class="mt-5 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">飛驒高山古街</h2>
+      <p class="mt-5">
         從白川鄉往市區移動，我們來到飛驒高山。這裡的街道處處可見復古木造建築，有種明治時代的商店街、吉卜力電影場景的感覺。<br />老街區有味噌店、和菓子鋪、雜貨舖和老茶屋。每一家都還在營業，保留了舊時代的招牌與擺設。沿著河岸走，可以看到垂掛的枝垂櫻開得正好，花瓣在水面打轉。<br />
         路邊有間昭和感十足的拉麵店，我們點了一碗醬油拉麵，湯頭鹹香、麵條微捲，配上木頭餐桌和昏黃燈光，氛圍拉滿，和我一起行動的是柔安。<br />
         最後在資料館裡飛驒女性的傳統服飾，整身黑、頭戴巨大的花飾，我覺得裡面有靈體^^
@@ -550,8 +550,8 @@
           </figcaption>
         </figure>
       </div>
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">熱田神宮</h2>
-      <p class="mt-5 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">熱田神宮</h2>
+      <p class="mt-5">
         據說熱田神宮供奉了日本三大神器之一的草薙劍，是天皇繼承皇位的象徵物之一。事前沒做功課，不知道神器是看不到的可惡。<br />
         我們搭到神宮前站，沿著人流與樹蔭慢慢走入神社，巨大的鳥居靜靜地矗立著，I feel like 桔梗。
       </p>
@@ -575,7 +575,7 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">Source: Wikipedia</figcaption>
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         象徵神器「草薙劍」實體並未公開——據說連天皇本人也不曾見過真品，只在即位儀式中象徵性地持有。因此，這把劍或許只是傳說，只是信仰的象徵。不過熱田神宮裡也有小博物館跟展覽區展示了各式各樣的兵刃、名器、字畫、面具等歷史文物。
       </p>
       <figure class="w-full md:w-full mt-5">
@@ -609,7 +609,7 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">圖片說明文字</figcaption>
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         傍晚在 Hitsumabushi
         燒肉之前，我們來份麥當勞收尾——熱田神宮與麥當勞，神聖與日常完美交織的一天，男人的幸福就是這麼樸實無華。
       </p>
@@ -669,7 +669,7 @@
           class="w-full rounded-md shadow-md object-cover"
         />
       </figure>
-      <h2 class="text-xl mt-5 mb-3 dark:text-white">一些我覺得很日本的照片</h2>
+      <h2 class="text-xl mt-5 mb-3">一些我覺得很日本的照片</h2>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
         <!-- photo1 with caption -->
         <figure class="w-full md:w-1/2">

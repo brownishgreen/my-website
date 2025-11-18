@@ -28,7 +28,7 @@
             controls
             class="rounded-lg shadow-md object-cover w-4/5 mt-4"
           ></video>
-          <figcaption v-if="image.alt" class="text-sm text-zinc-500 dark:text-zinc-40 text-center">
+          <figcaption v-if="image.alt" class="text-sm text-zinc-500 text-center">
             {{ image.alt }}
           </figcaption>
         </figure>

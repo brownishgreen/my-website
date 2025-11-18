@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="glass-footer fixed bottom-0 left-0 right-0 w-full pt-2 pb-2 text-sm text-center text-zinc-900 dark:text-zinc-200 transition-all duration-[1500ms] ease-in-out"
+    class="glass-footer w-full pt-2 pb-2 text-sm text-center text-zinc-900 dark:text-zinc-200 transition-all duration-[1500ms] ease-in-out"
   >
     <div class="max-w-[720px] mx-auto">
       <p class="mb-2">© {{ new Date().getFullYear() }} Yuan WU</p>

@@ -3,15 +3,15 @@
     bgImage="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     emoji="👓"
     title="learn how to learn"
-    subtitle="🗓️ 2025/01/12"
+    subtitle=""
   />
   <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div class="article-container glass-article">
-      <h2 class="text-md mt-3 mb-3 dark:text-white">
+      <h2 class="text-md mt-3 mb-3">
         <strong>|</strong> 此篇紀錄 2024 學習如何學習的心得。
       </h2>
       <br />
-      <p class="dark:text-white">
+      <p class="">
         在 2023 年底，立了 3 個 flag：<br />
         <br />
         🚩 探索一項技能：我挑戰的是學習編程<br />
@@ -19,7 +19,7 @@
         🚩 游泳，克服 32 年來的恐懼 &
         培養一項既健康又不會太痛苦，在老死腐朽前都依然可以持續的運動<br />
         <br />
-        歷經一年琢磨並成功學會、持續學習以上三件事情後，將關於學習的一切紀錄下來。
+        歷經一年琢磨成功學會或是還在持續學習以上三件事情後，將關於學習這件事的探究紀錄下來。
       </p>
       <br />
       <img
@@ -28,13 +28,13 @@
         class="mt-5"
       />
       <br />
-      <p class="dark:text-white">
-        在過去，我的知識與工作技能皆來自學校教育、工作上需要時習得，比較隨波逐流、不太知道自己的喜好，感覺是被社會推擠著前進。
+      <p class="">
+        在以前，我的知識與工作技能都是來自學校或是工作上需要時才習得，比較隨波逐流、不太知道自己的喜好，感覺是被社會推擠著前進。
       </p>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">探索自己屬於何種學習者</h2>
-      <p class="dark:text-white">
-        初探編程時，ALPHA Camp
+      <h2 class="text-xl mt-3 mb-3">探索自己屬於何種學習者</h2>
+      <p class="">
+        今年開始認真要學習編程時，ALPHA Camp
         引導我的第一件事情是：認識自己屬於什麼樣學習者。在學習的過程中，每個人都有獨特的吸收、理解與應用知識的方式，認識自己的學習類型不僅能提升學習效率，更能在學不動了的時候，讓自己能以低能量但持續的方式學習。
         學習類型大致分為四類：<br />
         <br />
@@ -43,7 +43,7 @@
         3. 讀寫型偏好文字資料，如筆記和文章<br />
         4. 動覺型則透過實作、動手操作來學得更快。<br />
         <br />
-        類型的話其實不是絕對，經過這一年，我了解到各個項目可以應用不同的學習方式去刺激大腦學習。有意識地透過觀察學習過程、結果、反芻、再嘗試，直到找出何種方式在項目上能夠讓自己最專注、記憶最深刻，教如何學習的書籍通常會從腦神經科學的角度分享，有興趣的話可以再往深探究。<br />
+        類型的話其實不是絕對，經過這一年，我了解到各個項目可以應用不同的學習方式去刺激大腦學習。有意識地透過觀察學習過程、結果、反芻、再嘗試，直到找出何種方式在項目上能夠讓自己最專注、記憶最深刻。教如何學習的書籍通常會從腦神經科學的角度分享，有興趣的話可以再往深探究。<br />
         <br />
         認識自己的學習者特質是非常重要的，以我自己來說，在複雜的編程學習中，我初期仰賴圖解（例如在
         Heptabase 上整理出 MVC 架構、OAuth
@@ -56,16 +56,16 @@
         在學習游泳的最後幾期我遲遲無法學會自由式（雖然我當初立 flag
         🚩時，目標是學會一式就已經是菩薩垂憐，但我較真啦），總之我的划手與腳的律動不足以讓我在水裡持續前進，最後是藉著網路上泳者的影片，我想大約是視覺、聽覺連合大腦與肌肉的連結，有意識的調整游泳時的身體，終於學會了自由式。<br />
         <br />
-        在最後 1 週教練問我有沒有練習時，我說有看 YouTube 上的影片 😳。
+        在最後 1 週教練問我有沒有練習時，我說有看影片 😳。
       </p>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">Environment, Environment, Environment.</h2>
-      <p class="dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">Environment, Environment, Environment.</h2>
+      <p class="">
         如何學習的書籍裡，會提到環境的重要性，過去所處的環境形塑了我，遺憾的是這個環境沒能使我成為理想的樣子，那麼就可以嘗試更換、打造一個新的環境。
       </p>
       <br />
-      <h2 class="text-lg mt-3 mb-3 dark:text-white">Hardware ⚙️</h2>
-      <p class="dark:text-white">
+      <h2 class="text-lg mt-3 mb-3">Hardware ⚙️</h2>
+      <p class="">
         適當的環境可以提升專注力，讓自己享受在當下的狀態，反之如果處在一個容易分心、吵雜、不舒服的環境，會不斷的消耗我們的認知資源，使學習變得吃力，所以打造一個能夠獨自深度學習的空間很重要。<br />
         <br />
         1. 高頻清理空間<br />
@@ -85,8 +85,8 @@
         分鐘，播放特定類型的陪伴音樂、用濕紙巾擦拭桌面與螢幕、鍵盤、滑鼠再開始。<br />
         <br />
       </p>
-      <h2 class="text-lg mt-3 mb-3 dark:text-white">Software 👥</h2>
-      <p class="dark:text-white">
+      <h2 class="text-lg mt-3 mb-3">Software 👥</h2>
+      <p class="">
         環境包含身邊的人，如果你身邊都是喜歡學習、談方法、有目標的人，耳濡目染會將這些體現於生活中。<br />
         通知你的家人，你要有所改變，請他們遵守一些你定下規矩。比方說我妹還跟我住在一起時，曾有段時間約定好，下班回到家如果我沒有開門或是看到我在房間裡請不要跟我說話，或是先傳訊息給我，我專心時間過後回覆，這是應用馬斯克也推薦的非同步溝通
         （ Asynchronous Communication）。<br />
@@ -101,17 +101,17 @@
         </a>
       </p>
       <br />
-      <h2 class="text-lg mt-3 mb-3 dark:text-white">Progressive Overload 🏋️</h2>
-      <p class="dark:text-white">
+      <h2 class="text-lg mt-3 mb-3">Progressive Overload 🏋️</h2>
+      <p class="">
         Progressive
         Overload（漸進式超負荷）是健身的核心原則，意思是為了讓肌肉成長，你要持續地、漸進地增加負荷，增加重量、次數、密度或縮短組間休息。套用到學習這件事上，專注力跟學習力也是神經跟肌肉在幹活。
       </p>
       <br />
-      <h2 class="text-md mt-3 mb-3 dark:text-white">
+      <h2 class="text-md mt-3 mb-3">
         <strong>|</strong> 為了讓大腦成長，你要持續地、漸進地挑戰它。
       </h2>
       <br />
-      <p class="dark:text-white">
+      <p class="">
         1. 從可以應付的開始，再慢慢增加難度<br />
         就像深蹲從空槓開始，學習可以從簡單的教材、入門專案開始，慢慢加入更多挑戰，例如更嚴格的時間限制、更少的提示（意味著更多的思考）。<br /><br />
         2. 每次只加一點點壓力<br />
@@ -126,12 +126,11 @@
         神馳（flow）最適區域 = 有點挑戰 + 有點信心。
       </p>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">結語</h2>
-      <p class="dark:text-white">
-        現在，我對「學習」這件事的理解已然有了不同於以往的體悟，只要在合適的環境，用正確的方法，持之以恆，再反覆的練習，大概率沒有什麼事是人類這種神奇生物無法掌握的，差別只在程度和經驗而已。<br />
+      <h2 class="text-xl mt-3 mb-3">結語</h2>
+      <p class="">
+        現在我對學習這件事已然有了不同於以往的體悟，只要在合適的環境，用正確的方法，持之以恆，再反覆的練習，大概率沒有什麼事是人類這種奇幻生物無法掌握的，差別只在程度和經驗而已。<br />
         <br />
-        我也越來越清晰地意識到，學東西、體驗生活就是要自在、要沒有壓力，因為人生落幕後我們無法帶走任何物質，但透過熱愛的學習所培養出的技能，將滋養我的靈魂，伴隨著我跨越生命的界線，邁向下一段旅程
-        👻
+        透過學習所培養出的技能，總覺得會滋養我的靈魂，下輩子還會跟著我 👻。
       </p>
     </div>
   </main>

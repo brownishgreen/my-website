@@ -9,7 +9,7 @@
     <div
       class="transition-all duration-[1500ms] ease-in-out article-container glass-article"
     >
-      <p class="dark:text-white">
+      <p class="">
         2022 年 8 月份造訪的馬布島，最快樂的員旅體驗沒有之一。<br />馬布島是馬來西亞東部仙本那著名潛水天堂，以水上木屋、原始海景與海龜聞名。因為是在疫情的尾巴，機場空蕩蕩的，仙本那不是容易抵達的地方，要先搭飛機到吉隆坡轉機到東馬，再另外搭船到島上，中間也有長途巴士，總之交通時間很長，自己旅遊的話我覺得很難抵達，擁有這一次的回憶我感到無比地幸運。😋
         <br />
       </p>
@@ -39,7 +39,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         第一天晚上還沒出發到馬布島前，我們在海邊享受晚餐，在馬來西亞有很多的貓咪，以及沿路都是流浪狗，看到很多很像強妮的棕寶，他們像一個部落一樣居住在海岸邊，雖然有些孩子有跛腳跟受傷，但他們看起來是快樂的。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -170,7 +170,7 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">水巨蜥</figcaption>
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         我們在馬布島上待了 5 天，島上什麼都沒有，我還跟 Brian
         上島的第一件事是前往小商店，店裡只有一些陳舊的明信片、泳衣、拖鞋、小鑰匙圈之類的。<br />
       </p>
@@ -197,7 +197,7 @@
           <figcaption class="mt-2 text-xs text-gray-600 text-center">膝上黑絲</figcaption>
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         我因為不會游泳又很怕水，所以沒有潛水過，當我知道原來不會游泳也可以浮潛時我真的好興奮，我甚至嘗試了深潛！但因為我不太會吹耳膜所以沒多久就自己壓上來了。
       </p>
       <div class="flex flex-col md:flex-row mt-5 justify-center items-start gap-6">
@@ -307,7 +307,7 @@
           />
         </figure>
       </div>
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         這幾天，就是一直跳島浮潛、曬太陽、吃跟喝酒，團康活動跟分享心裡最最黑暗的秘密，過得相當滋潤，最後的兩天我們回到吉隆坡，還見了我的好朋友
         Adrian，懷念以前玩在一起的 good old days，他還特地買了四塊我最愛的 Nadeje
         千層蛋糕！不過一張照片也沒留下，我真是的~

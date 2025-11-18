@@ -8,15 +8,15 @@
   <main class="transition-all duration-[1500ms] ease-in-out mb-20">
     <div class="article-container glass-article">
       <!-- article -->
-      <p class="dark:text-white">
+      <p class="">
         質變是量變達到臨界點時發生的根本改變。<br />
         水在 99 度仍是水，在 100 度才化作蒸氣。<br />
         堅硬的岩石，經年累月被水滴磨蝕，才終於留下細微的紋路。<br />
         質變不是突然發生，需要醞釀一段特定的時間。<br />
       </p>
       <br />
-      <h2 class="text-lg mt-3 mb-3 dark:text-white">追求質變</h2>
-      <p class="dark:text-white">
+      <h2 class="text-lg mt-3 mb-3">追求質變</h2>
+      <p class="">
         人即然有品質，也會想追求質變。 人在追求質變時，要經歷反覆、笨拙、無數次停滯的瓶頸。<br />
         每個人是獨立的個體，有自己的時間線，不同於水或金屬，無法精準量化質變何時到來。<br />
         能做的只有不斷加熱、向前，或許不知不覺間，質變會悄然發生。<br />
@@ -29,8 +29,8 @@
         還要留意野生動物忽然跑出來，沒撞到牠的話…可以養牠嗎？<br />
       </p>
       <br />
-      <h2 class="text-lg mt-3 mb-3 dark:text-white">剛剛好是大智慧</h2>
-      <p class="dark:text-white">
+      <h2 class="text-lg mt-3 mb-3">剛剛好是大智慧</h2>
+      <p class="">
         最近在 Thai Alphabet 的最後一哩路，學到了低音字母 พ <br />
         書寫練習時，我喜歡上 พอ 這個單詞。<br />
         最合適翻譯在華語的意思是 「夠」（Enough）。<br /><br />
@@ -55,7 +55,7 @@
 
       <br />
       <br />
-      <p class="dark:text-white">
+      <p class="">
         回到質變，質變是量的累積到臨界點後的轉向。<br />
         人的質變無法知道那個臨界點在哪裡，所以使人焦慮。<br />
         在剛剛好的狀態下持續前行直到足夠的程度，質變就會自然發生。 🦔 🦔 🦔 <br />

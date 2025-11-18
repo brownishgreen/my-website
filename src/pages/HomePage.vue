@@ -22,11 +22,12 @@
   import HeroBanner from '../components/HeroBanner.vue'
   import ContentColumn from '../components/ContentColumn.vue'
 
-  const essays = [
+const essays = [
+        { emoji: '⌨️', name: '33', link: '/essays/thirty-three' },
     { emoji: '🧘🏾', name: '十日內觀回顧', link: '/essays/vipassana' },
     { emoji: '🪔', name: '質變', link: '/essays/change-of-quality' },
     { emoji: '🏊🏾‍♂️', name: '32', link: '/essays/thirty-two' },
-    // { emoji: '👓', name: 'learn how to learn', link: '/essays/learn-how-to-learn' },
+    { emoji: '👓', name: 'learn how to learn', link: '/essays/learn-how-to-learn' },
   ]
 
   const projects = [

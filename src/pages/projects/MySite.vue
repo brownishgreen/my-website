@@ -9,19 +9,19 @@
     class="about-container article-container glass-article transition-all duration-[1500ms] ease-in-out mb-20"
   >
     <div class="max-w-3xl mx-auto px-6 py-12 items-start gap-8">
-      <p class="dark:text-white">
+      <p>
         在開始學習編程後，我希望有一個頁面代表自己，不只是作品集，同時可以展示：
       </p>
-      <ul class="list-disc pl-6 mt-5 dark:text-white">
+      <ul class="list-disc pl-6 mt-5">
         <li>技術成長與專案歷程</li>
         <li>編程自學筆記與工具心得</li>
         <li>對生活、工作與哲學的思考隨筆和影像</li>
       </ul>
 
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         也由於學習筆記都在 Notion，很自然的使用 Notion Site 製作個人網站。起初看中幾個優點包含：
       </p>
-      <ul class="list-disc pl-6 mt-5 dark:text-white">
+      <ul class="list-disc pl-6 mt-5">
         <li>快速記錄：打開頁面用 Markdown 很快就可以完成一篇筆記</li>
         <li>所見即所得：用滑鼠拖曳即可編排段落、圖片、代辦清單或資料庫</li>
         <li>跨平台同步：手機、平板與電腦版本一致，隨時可以補充想法</li>
@@ -41,18 +41,18 @@
         </figcaption>
       </figure>
 
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         當時來說，Notion
         是最無痛的起點，能夠迅速整理過去的學習紀錄，並對外展示我在不同領域的探索。不過在使用了一段時間的
         Notion Site 後，漸漸發現它雖然方便，卻有幾個無法忽略的限制：
       </p>
-      <ul class="list-disc pl-6 mt-5 dark:text-white">
+      <ul class="list-disc pl-6 mt-5">
         <li>月費，長期使用成本不低</li>
         <li>客製化程度有限，無法完全掌握風格與互動體驗</li>
         <li>SEO、載入速度與資料管理彈性都受限於平台本身</li>
       </ul>
 
-      <p class="mt-5 dark:text-white">
+      <p class="mt-5">
         於是我開始思考，既然我本來就有使用 Vue
         框架的學習計畫，何不就把這個網站當作實戰練習？這樣不僅能省下 Notion Site
         的月費，也能一步步實作出一個完全屬於自己的個人網站，從架構、設計到內容管理都親手打造。
@@ -91,9 +91,9 @@
         </figcaption>
       </figure>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">技術實踐與規劃</h2>
-      <p class="mt-5 dark:text-white">個人網站目前使用的技術棧如下：</p>
-      <ul class="list-disc pl-6 mt-4 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">技術實踐與規劃</h2>
+      <p class="mt-5">個人網站目前使用的技術棧如下：</p>
+      <ul class="list-disc pl-6 mt-4">
         <li>
           <strong>Vue 3 + TypeScript</strong>：採用 Composition API
           進行組件開發，提高可維護性與擴展性

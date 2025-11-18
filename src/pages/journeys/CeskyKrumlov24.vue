@@ -18,7 +18,7 @@
           class="flex flex-col items-center"
         >
           <img :src="image.url" :alt="image.alt" class="rounded-lg shadow-md object-cover" />
-          <figcaption v-if="image.alt" class="text-sm text-zinc-500 dark:text-zinc-40 text-center">
+          <figcaption v-if="image.alt" class="text-sm text-zinc-500 text-center">
             {{ image.alt }}
           </figcaption>
         </figure>

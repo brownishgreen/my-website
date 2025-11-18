@@ -42,13 +42,70 @@ dd {
     letter-spacing: 0.02em;
   }
 
-  /* Global letter spacing baseline */
+  /* Global text color - automatically adapts to dark/light mode */
+  body,
+  p,
   h1,
   h2,
   h3,
   h4,
-  h5 {
-    letter-spacing: 0.01em;
+  h5,
+  h6,
+  li,
+  ul,
+  ol,
+  span,
+  div,
+  blockquote {
+    color: rgb(24, 24, 27);
+    /* zinc-900 */
+    transition: color 1500ms ease-in-out;
+  }
+
+  html.dark body,
+  html.dark p,
+  html.dark h1,
+  html.dark h2,
+  html.dark h3,
+  html.dark h4,
+  html.dark h5,
+  html.dark h6,
+  html.dark li,
+  html.dark ul,
+  html.dark ol,
+  html.dark span,
+  html.dark div,
+  html.dark blockquote {
+    color: rgb(228, 228, 231);
+    /* zinc-200 */
+  }
+
+  /* Global heading styles */
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: 0.02em;
+  }
+
+  h4,
+  h5,
+  p {
+    letter-spacing: 0.02em;
   }
 
   code,

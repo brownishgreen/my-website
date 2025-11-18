@@ -12,20 +12,20 @@
       <div
         class="glass-article text-gray-800 p-6 rounded-lg shadow-md text-sm leading-relaxed max-w-full"
       >
-        <p class="mb-4 dark:text-white"><strong>個人使用說明書的功能：</strong></p>
-        <ol class="list-decimal list-inside space-y-1 mb-4 dark:text-white">
+        <p class="mb-4"><strong>個人使用說明書的功能：</strong></p>
+        <ol class="list-decimal list-inside space-y-1 mb-4">
           <li>對齊原則與底線</li>
           <li>減少非必要的試探、重複申述</li>
           <li>建立共識，達到互動效率</li>
         </ol>
-        <p class="mb-4 dark:text-white">感謝你閱讀這份使用說明，希望也能讀到你的使用說明書。</p>
+        <p class="mb-4">感謝你閱讀這份使用說明，希望也能讀到你的使用說明書。</p>
         <p class="text-gray-500 text-xs">最後更新時間：2025/11/16</p>
       </div>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">個人特質</h2>
+      <h2 class="text-xl mt-3 mb-3">個人特質</h2>
 
-      <h3 class="text-l mt-3 mb-3 dark:text-white">My CliftonStrengths</h3>
-      <p class="text-sm mt-1 mb-3 dark:text-white">
+      <h3 class="text-l mt-3 mb-3">My CliftonStrengths</h3>
+      <p class="text-sm mt-1 mb-3">
         克利夫頓優勢是一項由 Don Clifton
         主導開發的人才評估工具，旨在幫助人們認識並發揮自身的天賦強項。這項測驗由他在擔任蓋洛普公司（Gallup,
         Inc.）董事長期間開發。<br /><br />以下是我於 2022 年 6 月時在 Gallup 測出的前五天賦。
@@ -34,8 +34,8 @@
       <div class="flex flex-col md:flex-row mt-5 justify-center items-stretch gap-6">
         <!-- content -->
         <figure class="w-full md:w-1/2 p-4 bg-gray-50 dark:bg-gray-800 rounded-md shadow-md flex flex-col">
-          <p class="text-m mt-1 mb-3 dark:text-white">My Top 5 Strengths</p>
-          <ul class="list-decimal list-inside space-y-4 text-sm dark:text-white flex-grow">
+          <p class="text-m mt-1 mb-3">My Top 5 Strengths</p>
+          <ul class="list-decimal list-inside space-y-4 text-sm flex-grow">
             <li>
               Intellection 思維<br />思考、內省，常在腦中盤旋問題與概念，獨處時能產出最多 insight
             </li>
@@ -59,32 +59,32 @@
       </div>
       <br />
       <br />
-      <ul class="list-disc list-inside space-y-1 dark:text-white">
+      <ul class="list-disc list-inside space-y-1">
         <li>對新奇的事物有著好奇心</li>
         <li>珍視誠摯、深刻的對談</li>
         <li>想辦法規避瑣碎的小事，熱愛的事會沈迷其中（但或許也是別人眼裡的無聊小事）</li>
       </ul>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white dark:text-white">正在克服的弱項</h2>
-      <ul class="list-disc list-inside space-y-1 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">正在克服的弱項</h2>
+      <ul class="list-disc list-inside space-y-1">
         <li>主動與珍視的人保持規律互動，維繫情誼</li>
         <li>保持更多的傾聽，思考，再輸出。</li>
       </ul>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">自我覺察</h2>
-      <ul class="list-disc list-inside space-y-1 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">自我覺察</h2>
+      <ul class="list-disc list-inside space-y-1">
         <li>萬事萬物皆無常，永遠保持謙虛，一生持續學習</li>
         <li>心理健康和生理健康一樣重要</li>
         <li>責任永遠是自己的</li>
       </ul>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">動機</h2>
-      <ul class="list-disc list-inside space-y-1 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">動機</h2>
+      <ul class="list-disc list-inside space-y-1">
         <li>了解自己「為何而做一件事」更能激發我，反之會感到無力和混亂</li>
       </ul>
       <br />
-      <h2 class="text-xl mt-3 mb-3 dark:text-white">哲學</h2>
-      <ul class="list-disc list-inside space-y-1 dark:text-white">
+      <h2 class="text-xl mt-3 mb-3">哲學</h2>
+      <ul class="list-disc list-inside space-y-1">
         <li>
           不急著為人生大哉問給出答案（例：生命意義），太多問題是用模糊的詞彙堆疊起來的，看似重要，實則無解。
         </li>
